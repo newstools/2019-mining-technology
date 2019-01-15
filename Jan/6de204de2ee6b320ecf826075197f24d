@@ -1,0 +1,27 @@
+        Australia’s new A$218m MinEx Cooperative Research Centre has been launched, with support from more than 30 organisations from the industry and research groups from a host of universities. The new centre aims to be a hub for research into new mineral exploration technologies and techniques. With most of the low-hanging fruit already plucked in Australia, how will this centre enhance exploration activities across the industry? We also delve deeper into a new report from the Minerals Council of Australia that forecasts the demand for metallurgical coal to 2030 will increase by 2.3%, investigate the potential of mining meteor craters after the ultra-rare mineral reidite was found in what is possibly the world’s largest crater in Shark Bay in Western Australia, and find out how a new downward-looking telescope that could help identify strategic minerals works. Finally, in the first issue of 2019, we round up the biggest and best mine rehabilitation projects across Australia, and profile the growing job market in Australia to find out which industry sectors have the most vacancies and opportunities. Click here to read the latest mining industry news and analysis, and join the conversation on Twitter. MinEx: the hunt for tech to turn around mineral discovery
+The new MinEx Cooperative Research Centre has been launched in Australia to boost the country’s declining mineral discovery rates. With most of the low-hanging fruit already extracted, its ambition is to develop next-generation drilling for faster, more efficient exploration. Heidi Vella finds out more.
+Read more. Australian coal: will Asia’s thirst for steel guarantee total domination?
+A new report prepared by Commodity Insights for the Minerals Council of Australia forecasts that the demand for metallurgical coal is set to increase in Asia. Is Australia’s domination set to continue, and what needs to be done to prevent complacency setting in? Molly Lempriere finds out.
+Read more. Mining the world’s rarest mineral in meteor craters
+An ultra-rare mineral named reidite has been found in what is possibly the world’s largest crater in Western Australia. The crater is only the sixth-known to hold the mineral, which starts as zircon before transforming to reidite under intense pressure. Molly Lempriere finds out more.
+Read more. A downward-looking telescope: the future of mineral exploration?
+The Australian Academy of Science has proposed the ‘downward-looking telescope’, a database featuring a range of geological data that could enable miners to predict changes in the Earth’s mineral composition, and direct new exploration projects. JP Casey takes a closer look.
+Read more. Rehabilitating Australia’s mines: projects leading the way
+Australia is home to mining operations that can inflict damage on the natural environment, but rehabilitation projects are becoming more common and ambitious in their scope. JP Casey takes a closer look at some of the country’s most successful mine rehabilitation schemes.
+Read more. The changing face of mining jobs in Australia
+The number of mining jobs available in Australia has reached its highest point since the industry crashed in 2014. But in a fast-changing industry, which are the jobs with the most vacancies and the most opportunities? Molly Lempriere investigates.
+Read more. Tasmania has more than a century of mining history producing copper, lead, zinc, tin and other metals to the value of $1.82bn in 2016/17. Nevertheless, little exploration and few new projects have seen decades of decline and questions about the island’s mining future. So where does mining have left to go in Tasmania? We also catch up with developments at each of Australia’s biggest mines to find out how they operate, find out how the Northern Australia Infrastructure Fund is helping mining projects, including the Pilgangoora lithium-tantalum mine, get off the ground, and consider whether drones are the future of underground mapping technology. Finally, we find out more about the University of South Australia’s Project Live-MM, which aims to attract future talent to mining, and speak to 3D printer manufacturer Aurora Labs about its plans to help remote mining projects by simply printing replacement parts for broken machinery.
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
