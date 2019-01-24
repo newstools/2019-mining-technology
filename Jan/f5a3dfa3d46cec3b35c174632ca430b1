@@ -1,0 +1,27 @@
+        The latest issue of MINE Magazine is now available to read on all devices. China’s Belt and Road Initiative is so vast that it will result in the global demand for copper rising by 22% by 2027, according to the International Copper Association. The demand is likely to affect over 60 Eurasian countries and have ramifications across the globe. But how will it play out, and what do miners and investors need to know? We also find out how Russian miner Nornickel is embracing digital technologies to stay ahead of the curve in the battery metals sector, investigate the main objectives of the Innovation for Cleaner Safer Vehicles programme, which brings together 27 mining companies and equipment suppliers including Caterpillar, GE and Komatsu, and talk to Jubilee Metals Group about its plans to reprocess large historic tailings in Zambia. Plus, we explore Nova Scotia’s Mining ROCKS! Competition, which offers cash prizes for high school students who make the best videos celebrating mining’s benefits for society, and find out more about a new challenge to encourage Canadian innovators to develop new, clean technologies for crushing mined rock. Belt and Road: how China’s global plans will affect copper
+China’s Belt and Road Initiative is so vast that it will result in the global demand for copper rising by 22% by 2027, according to the International Copper Association. But what will this mean for miners and investors alike? Heidi Vella finds out.
+Read more. Inside Nornickel: the drive to target the battery metals boom
+Nornickel is the world’s largest producer of high-grade nickel, and is currently sitting in a perfect position to take advantage of the battery metals boom. At last year’s Capital Markets Day, chief operating officer Sergey Dyachenko spoke to Molly Lempriere about how the company is embracing digital technologies.
+Read more. Eyes on the road: in pursuit of safer, cleaner mining vehicles
+Mining is a highly profitable yet destructive industry, with mining vehicles often to blame for pollution and accidents. A new project led by the International Council on Mining and Metals sets out to make these vehicles safer and less damaging to the environment, as JP Casey finds out.
+Read more. Toxic tailings reprocessing in Zambia
+Jubilee Metals Group recently took control of the Kabwe zinc, lead and vanadium project in Zambia, and is now preparing to reprocess the large historic tailings in the town. ​​​​​​​Patrick Kingsland speaks to Jubilee’s business development manager Gareth Owen to find out more.
+Read more. Down with the kids: can mining ever be cool?
+In its fifth year, the Mining Association of Nova Scotia’s Mining ROCKS! contest hopes to educate young people about mining and encourage them to consider a career in the industry. But what are the barriers between the sector and young people today? Heidi Vella finds out.
+Read more. Crushing comminution: decarbonising mining’s biggest energy user
+Crush It! is a new challenge launched to encourage Canadian innovators to develop new, clean technologies for crushing mined rock, a process that uses a huge amount of energy. The competition hopes to drive the next big innovation breakthrough, as Molly Lempriere finds out.
+Read more. New research from S&P Global Market Intelligence says the cost of building a mine is now likely to be cheaper than buying an existing one. While smart buys and merger activity has driven new mine openings in recent years, the tables seem to have turned. We catch up with S&P to find out just why they think it might be better to build than to buy in 2019. We also take a closer look at De Beers’ end-to-end diamond blockchain programme, an initiative aimed at removing fakes and blood diamonds from the supply chain, find out more about Ecuador’s bold plans to more than double the value of mining in the country by 2021, and delve deeper into Newfoundland and Labrador’s ambitious plan to grow the province’s mining sector through the construction of five new mines and the creation of 1,400 jobs by 2030. Finally, we investigate the results of a study from Cardiff University that examines the effectiveness of arrangements to give mine workers a voice in countries around the globe, and speak to Sirius Minerals about its new potash mine in the UK, which employs a host of new mining technologies.
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
