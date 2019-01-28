@@ -1,0 +1,15 @@
+ Carroll Technologies Group has now partnered with S&S Urethane, a leading manufacturer of urethane mining solutions, to distribute its products across the North American mining industry. S&S Urethane’s Shannon Smith said: “Our choice to partner with Carroll Technologies was based on their experience in the mining industry, a well-trained, diverse sales force that covers a large area in the south eastern USA, along with several recommendations from our customer base.” Based in Farina, Illinois, S&S Urethane has served the coal production, power generation, steel, grain, and aggregate industries across North America since 1974. It has multiple on site field crews across the continent, each equipped to set up complete abrasion-resistant liner installations and replacements wherever and whenever they’re needed. One example of abrasion protection in the mining field would be a washing plant that cleans coal. The pipes in an assembly such as this can be 48 inches in diameter, so there will be a high volume of liquid material running through them. This material will contain abrasives like rocks and fine coal and over time this will begin to wear the pipes down. However, when these pipes are lined with an abrasion-resistant ceramic material, such as those offered by S&S Urethane, this creates an atmosphere for the piping assembly to be able to operate without any maintenance for years. According to S&S Urethane ceramic will outlast steel, inch for inch, anywhere between ten and 20 times over. Carroll Technologies Group president Allen Haywood said: “If they didn’t have that proper abrasion protection through ceramics, those piping assemblies would last no time. We would be replacing the piping assembly prematurely.” When a plant is down due to a blown pipe or a hole in a chute, often caused by abrasion, the producer’s losses can be so substantial they’re counted by the minute rather than the hour. Coal preparation modules can see their losses reach up to $3,300 per minute, which is why abrasion protection is so crucial. It can’t remove all risk of a shutdown, but it will reduce it dramatically. S&S Urethane’s products can be customised for the individual needs of different mining plants. “We work with all the ceramic manufacturers both domestic and abroad,” said Smith. “Each has their own qualities & specialities from design for a pre-engineered lining, ISO plates & tubes, to maximizing cost efficiencies for standard sizes. Our partners are capable of producing Alumina contents ranging from 87% to 96% as well as exotic blends of ceramics to meet speciality applications. With so many different options we custom blend our own wearing compounds to match our customer’s needs.”
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
