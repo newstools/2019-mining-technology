@@ -1,0 +1,27 @@
+        The new issue of MINE Magazine is out now. Click here to read on any device. New research from S&P Global Market Intelligence says the cost of building a mine is now likely to be cheaper than buying an existing one. While smart buys and merger activity has driven new mine openings in recent years, the tables seem to have turned. We catch up with S&P to find out just why they think it might be better to build than to buy in 2019. We also take a closer look at De Beers’ end-to-end diamond blockchain programme, an initiative aimed at removing fakes and blood diamonds from the supply chain, find out more about Ecuador’s bold plans to more than double the value of mining in the country by 2021, and delve deeper into Newfoundland and Labrador’s ambitious plan to grow the province’s mining sector through the construction of five new mines and the creation of 1,400 jobs by 2030. Finally, we investigate the results of a study from Cardiff University that examines the effectiveness of arrangements to give mine workers a voice in countries around the globe, and speak to Sirius Minerals about its new potash mine in the UK, which employs a host of new mining technologies. Is it better to build a new mine or to buy one?
+‘Smart buying’ and merger activity has driven new mine openings in recent years, but with reserves and ore grades declining, will it make more sense for companies to build or buy mines in the future? Julian Turner talks to Travis Hough, director in Frost & Sullivan’s metals and minerals practice.
+Read more. Could blockchain sift out conflict minerals and fakes from the supply chain
+Blockchain could bring about new levels of traceability and accountability across the diamond supply chain, according to miners Alrosa and De Beers, who recently began trialling a new platform. Wider adoption of the technology could be beneficial to all, as Ross Davies finds out.
+Read more. Can Ecuador achieve its bold vision for mining?
+Ecuador wants to double the value of its mining industry by 2021 and is actively seeking new foreign investment into the sector. Much of its plans hinge on new fiscal terms designed to boost development, but is it enough? Heidi Vella finds out.
+Read more. Deep impact: Newfoundland and Labrador’s Mining the Future 2030 programme
+Newfoundland and Labrador plans to kick-start the province’s mining sector through envisioning five new mines, revamping decades-old legislation and creating 1,400 jobs by 2030. Julian Turner reports on the drive to put this far-flung corner of Canada on the mining map.
+Read more. Giving miners a voice: how disempowered workers face safety risks
+Research from Cardiff University and the Institute of Occupational Safety and Health has demonstrated that miners who are excluded from the decision-making process in regards to safety and health matters face disproportionate safety risks while at work. JP Casey reports.
+Read more. Woodsmith potash mine: showcasing the future of underground technology
+Sirius Minerals has invested £3.2bn into its Woodsmith potash mine in the North York Moors, a highly ambitious project that aims to produce ten million tonnes of polyhalite a year by 2024. Still under construction, the mine is a technological marvel, as JP Casey finds out.
+Read more. Newmont Mining has announced a $10bn deal to take over Goldcorp in a move that will see the miner increase its presence in North and South America. Newmont will add Goldcorp’s seven mines in the Americas to its global operations to create a company expected to rival the newly formed Barrick Gold. We find out more about the merger and its impact on gold mining in South America. We also learn more from law firm Fieldfisher about the emerging and established sources of finance available to companies looking to develop mining projects, consider whether gaining a licence to operate could be the biggest challenge for the industry in 2019, and, in the wake of January’s tragic tailings dam collapse at a site operated by Vale, we find out what can be done to make them safer. Finally, we profile the world’s biggest mines through time, map the natural disasters that have sit South American miners in recent years, take a look at some of the most recently discovered gemstones and find out more about a new blockchain technology being used to bring transparency to the cobalt supply chain.
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
