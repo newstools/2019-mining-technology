@@ -1,0 +1,27 @@
+        The new issue of MINE Australia is out now. Click here to read on any device. Tasmania has more than a century of mining history producing copper, lead, zinc, tin and other metals to the value of $1.82bn in 2016/17. Nevertheless, little exploration and few new projects have seen decades of decline and questions about the island’s mining future. So where does mining have left to go in Tasmania? We also catch up with developments at each of Australia’s biggest mines to find out how they operate, find out how the Northern Australia Infrastructure Fund is helping mining projects, including the Pilgangoora lithium-tantalum mine, get off the ground, and consider whether drones are the future of underground mapping technology. Finally, we find out more about the University of South Australia’s Project Live-MM, which aims to attract future talent to mining, and speak to 3D printer manufacturer Aurora Labs about its plans to help remote mining projects by simply printing replacement parts for broken machinery. Super mines: Australia’s biggest mining projects
+From a mine built atop the world’s largest uranium deposit to a project producing close to a million ounces of gold per year, Australia is home to some of the world’s largest and most ambitious mining projects. JP Casey profiles some of the country’s mega mines.
+Read more. On a high, but for how long: the fortunes of mining in Tasmania
+For more than a century, mined goods have been one of Tasmania’s primary exports. However, last year a dip in commodity prices and government reluctance to invest in exploration led some to question the sector’s longevity. So where does mining have left to go on the island state? Scarlett Evans finds out.
+Read more. NAIF: questions remain over North Australia’s lucrative mining fund
+The Northern Australia Infrastructure Fund: a ticket to mining prosperity or a ‘slush fund’ that urgently needs to be wound up? Scarlett Evans examines just what the NAIF offers Australia’s northern territories.
+Read more. Project Live-MM: attracting talent to Australia’s minerals industry
+To attract talent to Australia’s minerals industry, the University of South Australia has developed an immersive virtual reality education programme, Project Live-MM. Molly Lempriere finds out more about the university’s plans to entice future talent.
+Read more. Underground drones: how Hovermap is using autonomous technology to explore mines
+Australian start-up Emesent has secured A$3.5m in funding to develop its Hovermap drones, which use autonomous technology to explore and map underground environments. JP Casey takes a closer look at the tech.
+Read more. A project to save time and energy with 3D printed mining parts
+Australian metal 3D printer manufacturer Aurora Labs has teamed up with Fortescue Metals Group to develop applications for additive manufacturing, potentially allowing remote mining projects to print parts that have failed instead of having to wait for replacements. Molly Lempriere finds out more from CEO Dave Budge.
+Read more. For years, mining has been a big boon for Western Australia; together with the petroleum industry, the sector accounted for 92% of the state’s income from total merchandise exports in 2015/16. We take a look at the projects and policies fuelling the state’s mining sector. We also explore the most innovative renewable energy projects at mines around Australia, profile the five key goals outlined in the country’s National Resources Statement, the first long-term plan and reform agenda released by the government in more than two decades, and speak to a team at the University of New South Wales that’s working on developing mining techniques for the moon. Finally, we list the mining work areas that are expected to be most affected by the industry’s ongoing digital transformation, and examine the debate over Australian resources and mining environmental sustainability through quotes from both sides of the argument.
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
