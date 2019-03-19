@@ -1,0 +1,15 @@
+El Niño occurs every few years, when ocean temperatures rise leading to torrential rains, floods and landslides in Peru and Bolivia and droughts in Brazil. El Niño occurs every few years, when ocean temperatures rise leading to torrential rains, floods and landslides in Peru and Bolivia and droughts in Brazil, all of which can prove disastrous for mining operations and the communities around them. El Niño, which means ‘Little Boy’ or ‘Christ Child’, is now happening more often, and despite it occurring in 2015 and 2016, meteorologists are now predicting that the phenomenon will happen this year. The US Government forecaster has raised the likelihood of it happening to 65%. Following a huge amount of rain, in February 1998 the small mining community of Mokotoro in La Paz, west-central Bolivia, was buried by a mudslide. The event devastated the community, killing at least 60 people and injuring 300 more, which had a knock-on effect upon mining in the region. This was made still worse by an outbreak of cholera caused by contaminated water. On 1 April 2014, an 8.2 magnitude earthquake struck just off the northern coast of Chile, killing six people and triggering a tsunami. Several metal-exporting ports in the area were forced to shut for days, leading to a spike in copper prices around the world as supply concerns grew. Antofagasta’s Centinela, Michilla and Antucoya operations in northern Chile were forced to shut during late March 2015, due to torrential downpours. The area is one of the driest on Earth, yet on one day in March it received 0.9 inches (23mm) of rain. While this might not sound like a lot, it was the equivalent of seven years of precipitation, and led to overflowing rivers and mudslides that killed 28 people in the region. The disruption to mining activities led to the company having to scale back its production guidance by as much as 15,000 tonnes. A 7.1 magnitude earthquake hit Peru’s southern region of Arequipa on 14 January 2018, leading to the collapse of an illegal mine just east of the coastal city of Chala. While most of Peru’s mining activities are inland, far from the epicentre, just offshore from the town of Lomas, 17 miners went missing at the illegal mine after the shaft collapsed. In October 2018, Canada’s Leagold Mining announced that it would have to temporarily shut down its Riacho dos Machados mine in the north of Brazil due to drought. It similarly had to shut down production in 2017 for a shorter period, as there simply wasn’t enough water in its reservoir for processing.
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
