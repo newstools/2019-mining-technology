@@ -1,0 +1,31 @@
+Eurasian Resources Group is using blockchain at to manage its cobalt plant in the Democratic Republic of Congo As Barrick moves in on Newmont's Goldcorp takeover, what will the impact be? Unconventional funding sources being adopted by junior mining companies Why more than half of global mining companies consider licence to operate the biggest risk to their business January's dam collapse in Brazil has brought the risks of tailings dams back into the spotlight We check out the evolution of some of the biggest mining sites Mining operations on the continent can be plagued by storms and earthquakes We track the journey of the Carmel Sapphire, discovered in 2018, to being recognised as a new gemstone Eurasian Resources Group is using blockchain at to manage its cobalt plant in the Democratic Republic of Congo As Barrick moves in on Newmont's Goldcorp takeover, what will the impact be? The new issue of MINE Magazine is out now. Click here to read on any device. As Newmont Mining proceeds with its proposed $10bn takeover of Goldcorp, rival Barrick Gold, in a shock move, instigated a hostile $18bn takeover bid of Newmont. We take a look at the drivers behind these moves, ask what the potential outcomes would mean for the companies and their shareholders, and explore the possible impact on the North American gold mining sector. We also hear from law firm Fieldfisher about emerging and unconventional sources of finance available to cash-strapped junior mining companies, and find out why so many companies consider gaining a licence to operate the biggest challenge for the industry in 2019. And, in the wake of January’s tragic tailings dam collapse at Vale’s Brazilian mine, we find out what needs to be done to make tailings dams safer. Plus, we profile the world’s biggest mines through time, map the natural disasters that have hit South American miners in recent years, take a look at a newly discovered gemstone and find out more about a new blockchain technology being used to bring transparency to the cobalt supply chain. Wrestlemania: inside the Goldcorp-Newmont-Barrick mega deal
+As Newmont Mining proceeds with its $10bn takeover deal of Goldcorp, rival Barrick Gold in a shock move instigated a hostile $18bn takeover bid of Newmont. Heidi Vella takes a look at the potential deal outcomes and their possible impact on the North American gold mining sector.
+Read more Alternative financing for the mining industry: what are the options?
+European law firm Fieldfisher has published its second overview of alternative financing solutions and their growing adoption by cash-strapped junior miners. Heidi Vella speaks to the firm to discuss the emerging and unconventional funding sources gaining traction in the market.
+Read more Licence to operate: understanding the biggest challenge for mining in 2019
+A recent survey by EY Mining & Metals found that more than half of global mining companies believe that licence to operate is the biggest risk to their business. Heidi Vella finds out why this issue is a rising concern and how firms can adapt.
+Read more It’s time to talk about tailings dams
+An accident in Brazil this January claimed the lives of hundreds after a tailings dam operated by Vale collapsed, releasing a wave of iron tailings and mud. Tailings dams are notoriously dangerous and have claimed lives before, so are there alternatives? Molly Lempriere reports.
+Read more In time: the world’s biggest mines
+Across the world, mine sites have increased in size as the years have passed, transforming into the gargantuan chasms of today’s operations. In this timeline, Molly Lempriere looks at some of the world’s biggest mines through time.
+Read more Mapping natural risks for South American miners
+Meteorological agencies are warning of increasing risks of an El Niño storm event in 2019, which poses a risk for South American miners. It wouldn’t be the first natural crisis experienced by the continent’s mining sector. Molly Lempriere maps the recent natural disasters that have hit South American miners.
+Read more Carmeltazite: new gemstone on the block
+In 2018, Israeli precious stone exploration company Shefa Yamim announced that it had discovered a new gemstone, the Carmel Sapphire. The gem went through rigorous procedure to determine its uniqueness, before being recognised by the International Mineralogical Association as a new gemstone. So what classifies a gemstone as new? Molly Lempriere finds out.
+Read more Using blockchain to clean up the cobalt supply chain
+Capable of tracing metals from extraction to production, blockchain technology offers a novel means of keeping the supply chain sustainable. Now, it is being piloted by Eurasian Resources Group at its cobalt plant in the Democratic Republic of Congo. Scarlett Evans finds out more from CEO Benedikt Sobotka.
+Read more The Venezuelan Government has paid Canadian junior Rusoro Mining a $1.3bn settlement for the seizure of its gold projects in 2011, which breached obligations under the Canada-Venezuela Bilateral Investment Treaty. We find out what’s next for the company’s projects in the country now that operations could resume. We also check in on emerging projects, including a controversial copper mine in the Arctic Circle approved by Norway and a potash project Eritrea. In technology, we catch up with an IBM project exploring the use of wearable health trackers to monitor miners’ safety, and speak to biotech company BRAIN about its new BioXtractor copper extraction technology. Plus, we speak to legal experts about the complex issue of corporate liability for mining companies with subsidiaries in different countries, and find out how countries are using unusual tax incentives to attract mining companies.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
