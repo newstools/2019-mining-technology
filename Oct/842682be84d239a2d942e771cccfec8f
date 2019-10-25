@@ -1,0 +1,15 @@
+WGC releases a report for gold miners to become carbon neutral. Credit: World Gold Council. The World Gold Council (WGC) has launched its ‘Gold and Climate Change: Current and future impacts’ report to provide clarity to investors and industry stakeholders on gold’s emission profile. Furthermore, the report highlights the role that can be played by gold as a climate risk mitigation asset in long-term investment strategies. It also highlights the gold sector’s carbon footprint and the steps to be taken by the industry to transition towards a net-zero emissions path that align with the objectives of the Paris Agreement. University of Oxford associate professor Dr Ben Caldecott said: “The global challenge of transitioning to a negative carbon footprint poses a massive challenge but also opportunity and will reshape the value of assets and companies across sectors of the global economy. “This new report by the World Gold Council maps out the key questions the gold industry needs to address now in order to achieve net zero but it also looks at gold playing a part of the solution.” Key findings of the report include revised estimates of the emissions associated with the production, as well as consumption of gold that represent an accurate understanding of greenhouse gas (GHG) intensity and carbon footprint of gold. The World Gold Council also noted that there are sizeable options for gold mining to decarbonise. World Gold Council chief financial officer Terry Heymann said: “We recognise that climate change imposes very substantial risks to the global economy. “This new research demonstrates that gold has an important role to play in supporting the transition to a lower-carbon economy, both through decarbonisation efforts and as a compelling investment as investors look for resilient assets in their portfolios, which are less likely to be negatively impacted by the physical and transition risks associated with climate change.” Last month, the WGC launched a set of principles for gold miners designed to address key environmental, social and governance (ESG) issues.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
