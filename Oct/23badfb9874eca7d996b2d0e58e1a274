@@ -1,0 +1,15 @@
+The Escondida mine is the world’s largest copper mine, accounting for around 5% of global copper production. Credit: BHP. Anglo-Australian mining multinational BHP has announced four renewable power agreements for its Escondida and Spence copper operations in Chile. The Escondida mine is the world’s largest copper mine, accounting for around 5% of global copper production. The deals consist of 15-year contracts for three terawatt hours per year (TWh/year) from electric utility company ENEL Generación Chile and ten-year contracts for 3TWh/year from utility company Colbún, following a competitive tender process. The ENEL contracts will begin in August 2021 while the Colbún contracts will begin in January 2022. The contracts will meet the current energy needs of the Escondida and Spence mines and contain flexibility to help manage future demands. The contracts are expected to displace three million tonnes of CO2 per year from 2022 compared to the fossil-fuel-based contracts they are replacing, which, according to BHP, is the equivalent to the annual emissions of around 700,000 combustion engine cars, and 70% of the emissions from BHP’s operations in the Americas. BHP Minerals Americas president Daniel Malchuk said: “These new renewable energy contracts will increase flexibility for our power portfolio and will ensure security of supply for our operations, while also reducing costs and displacing CO2 emissions. “From a commercial perspective, these contracts will deliver an estimated 20% reduction in energy prices at Escondida and Spence operations.” These renewable energy contracts are the latest part in BHP’s efforts to divest itself from coal, following its departure from the World Coal Association in 2018 and its divestment of its Australian and Colombian thermal coal assets in July 2019. In July 2019, BHP committed to invest $400m over the next five years as part of its Climate Investment Programme to reduce greenhouse gas emissions. As part of this programme, the company plans to develop a new climate portfolio analysis report in 2020 to evaluate potential environmental and financial impacts.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
