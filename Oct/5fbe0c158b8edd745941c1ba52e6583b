@@ -1,0 +1,15 @@
+Glencore partners with World Economic Forum on responsible sourcing. Credit: © Glencore. Glencore has partnered with the World Economic Forum (WEF) to accelerate responsible sourcing and sustainable practices in mining. As part of the collaboration, the company will experiment, design and deploy blockchain solutions to address transparency issues, track and trace materials, as well as to increase efficiency and improve reporting of carbon emissions. Other founding members of the initiative are Antofagasta Minerals, Eurasian Resources Group Sàrl, Klöckner & Co, Minsur, Tata Steel and Anglo American/De Beers (Tracr). As part of the Mining and Metals Blockchain Initiative, the companies will pool resources and cost, increase speed-to-market and improve industry-wide trust, which cannot be achieved by acting individually. The initiative aims to be a neutral enabler for the mining industry, improving efficiency and addressing the lack of standardisation. The group will jointly develop proofs-of-concept for an inclusive blockchain platform. Over time this blockchain platform could help the industry to collectively increase transparency, efficiency and reporting carbon emissions. World Economic Forum Mining and Metals Industry head Jörgen Sandström said: “Material value chains are undergoing profound change and disruption. “The industry needs to respond to the increasing demands of minerals and materials while responding to increasing demands by consumers, shareholders and regulators for a higher degree of sustainability and traceability of the products.” The WEF has offered this platform to help mining majors to understand the impact and potential of blockchain technology. According to WEF, it will provide guidance for consortium members on governance issues related to the delivery of a neutral industry platform. Glencore International AG CEO Ivan Glasenberg said: “The mining and metals industries produce the commodities required to advance everyday life. “We welcome the development of technology that can facilitate industry reporting to improve compliance across the supply chain.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
