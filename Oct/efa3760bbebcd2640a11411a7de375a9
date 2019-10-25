@@ -1,0 +1,15 @@
+Underground area at Vale’s Sudbury Operations. Credits: Vale. Brazil’s mining major Vale is set to start applying machine learning to identify new drilling targets at its Coleman nickel mine. Coleman Mine, which is the flagship asset of Vale in Ontario, Canada, is part of the company’s base metals operations. Vale has selected technology company GoldSpot Discoveries to examine and analyse the vast amount of data acquired by it over decades of mining at Coleman. GoldSpot Discoveries’ team of geologists and data scientists will also discover previously unrecognised data trends, which may point to unknown areas of in-depth mineralisation. By using its geoscience and machine science expertise, GoldSpot Discoveries’ team will clean, unify and analyse exploration data from Vale’s Coleman Mine. This data will be used to produce 3D targets for the exploration programme. Deep mine exploration and drilling, which can be costly, can be optimised by deploying GoldSpot Discoveries’ machine learning into near-mine mineral exploration. The company’s machine learning expertise will enable Vale to minimise exploration risk. GoldSpot said in a statement that the company will also deliver new geophysical products manufactured through the reprocessing of the borehole electromagnetic (EM) for sulphide detection. It will also provide new simplified lithological interpretations and models to Vale’s flagship asset. GoldSpot CEO and president Denis Laviolette said: “Vale is one of the world’s largest nickel producers and the Coleman Mine is a major operation in Ontario. “To be part of the digital transformation of one of the world’s leading diversified miners is an incredible opportunity for our company. “At GoldSpot, we are excited to put our technology and team into action on a copper, nickel and precious metals deposit.” Recently, Vale temporarily suspended the disposal of tailings at the Itabiruçu dam, located at the Itabira Complex, while analysing the geotechnical characteristics of the dam.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
