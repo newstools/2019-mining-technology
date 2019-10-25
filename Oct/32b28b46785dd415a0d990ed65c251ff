@@ -1,0 +1,15 @@
+The Cobre Panama mine is located approximately 120km west of Panama City. Credit: CNW Group/First Quantum Minerals Ltd. Canadian base metals producer First Quantum Minerals has started commercial production at the Cobre Panama copper mine located approximately 120km west of Panama City. Construction of the project was completed a month ahead of schedule as a result of quick and efficient ramp-up, placing the operation on track to achieve 2019 production guidance of approximately 140,000-175,000t of copper. The project, which started on 1 September, had produced 87,142t of copper in concentrate by the end of the month. Approximately 19,438t from the total concentrate produced in September was considered commercial. Cobre Panama now has three operational milling trains comprising seven operating mills, while an eighth mill is expected to come online by the end of this quarter. Until now, the plant has achieved a peak throughput of 220,000t/d. Throughput is expected to be running at an annual rate of 72Mt/y by the end of this year, increasing to 85Mt/y during next year with the eighth mill running at full operations by that time. First Quantum said in a statement that C1 costs in 2022, when the operations at the mine is fully ramped-up, are expected to be $1.20/lb and all-in sustaining costs of $1.50/lb. The company expects to reach annual throughput of 100Mt/y by 2023, resulting in copper production of more than 350,000tpa. In June, First Quantum Minerals announced the commencement of copper concentrate shipping from the Cobre Panama mine. The company said that the project is expected to generate free cashflow over its 36-year mine life. First Quantum acquired an 80% interest in the Cobre Panama in 2013, subsequently increasing to an effective ownership of 90% in August 2017. Korea Resources Corporation (Kores) owns the remaining 10% effective interest in the project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
