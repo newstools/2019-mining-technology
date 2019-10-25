@@ -1,0 +1,15 @@
+NRW Holdings’ subsidiary RCR Mining Technologies (RCRMT) has secured a contract to design and construct equipment at Fortescue Metals Group’s Cloudbreak iron ore mine in Western Australia (WA). The contract also includes another crushing plant, HOP9, at the Pilbara site, which has been designed for primary sizing of 3500t an hour. HOP9 adds to RCR’s previous Cloudbreak development of relocatable plants, which operate at 2500t an hour. The contracts also further support current works for apron and belt feeders that are supplied by RCR for Fortescue’s Eliwana Mine and Rail project. RCRMT executive general manager Ian Gibbs said: “All of RCR Mining Technologies equipment is designed and manufactured in our South West operations, based in Bunbury and our Welshpool workshops. “Since the sale to NRW in February, RCR Mining Technologies have been able to secure orders in all the major WA projects reinforcing our status as the market leader in the design and manufacture of Relocatable Plants, Apron Feeders and Belt Feeders, an exciting achievement against a highly regarded multinational supply market”. According to RCRMT, accumulated cost of the contracts is valued at $40m. Commenting on the contract, NRW CEO and managing director Jules Pemberton said: “RCRMT prides itself on its innovation driven solutions for its clients and I am excited by the part RCRMT will play in the broader NRW group’s future as we continue to grow and evolve our business model.” In February, NRW signed an agreement with RCR Tomlinson to acquire the assets of RCR Mining and RCR Heat Treatment. NRW financed the $10m acquisition from the company’s existing cash reserves.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
