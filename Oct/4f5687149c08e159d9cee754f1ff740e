@@ -1,0 +1,15 @@
+Once completed, the Jansen project is expected to be one of the world's largest potash mines. Credit: BHP. Anglo-Australian mining multinational BHP has announced that it will make a final investment decision (FID) on the Jansen potash project in Canada in 2021. The Jansen project is a proposed underground potash development project located in Saskatchewan, within the Prairie Evaporite formation at depths of 900m- 1,000m. It is expected to be one of the world’s largest potash mines once completed, and will produce around eight million tons of marketable potash annually at full capacity, with an estimated mine life of 70 years. In BHP’s operational review for the third quarter (Q3) of 2019, the company stated that the project would be presented to the board of directors on February 2021 for the FID. According to BHP, the board has approved $144m for engineering work to support the project planning and port solution finalising required to make the FID. An additional $201m was also approved to further de-risk the project, focusing on the mine’s scope of work, advancing other procurement and engineering activities, and preparation works for underground infrastructure. BHP has already invested $2.7bn on the Jansen project, and announced in May 2019 that it would have to invest a further $5.3bn-5.7bn to finish phase one construction on the project. The company was granted environmental impact statement approval for the Jansen mine in February 2011 and was scheduled to begin first production by 2015. Speaking at the Bank of America Merrill Lynch Global Metals, Mining and Steel Conference in May 2019, BHP CEO Andrew Mackenzie said: “We continue to study Jansen Stage one and finish the shafts to optimise returns and de-risk this multi-generational potash project – work that continues to go well. “As our thinking around the project’s initial scope has evolved, I acknowledge we over-invested to date. However, Jansen remains an attractive option for BHP given its strategic fit, risk-return metrics and the longer-term optionality the initial investment would create.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
