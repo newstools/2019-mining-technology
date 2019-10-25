@@ -1,0 +1,15 @@
+Navajo Transitional Energy Company (NTEC) has finalised the acquisition of the Spring Creek mine in Montana, as well as the Cordero Rojo and Antelope mines in Wyoming, US. NTEC purchased the mines from Cloud Peak Energy and its wholly owned subsidiaries in connection with the company’s Chapter 11 bankruptcy proceedings. In May, Cloud Peak Energy has voluntarily filed for Chapter 11 bankruptcy protection to continue a marketing process to sell all of its assets. As a result of bankruptcy proceedings, NTEC emerged as the most qualified buyer to acquire Cloud Peak Energy’s assets. The Antelope and Cordero Rojo mines are noted to be the third and fifth-largest coal mines in the US. These mines produce low sulphur, high-Btu coal for sale to electric utilities in the Midwest, as well as western and southeastern US. Meanwhile, coal produced from the Spring Creek Mine is exported to electric utilities and industrial customers throughout the US. Many Canadian provinces also receive coal from this mine. Coal is also exported to Asian utility customers through the Westshore terminal in British Columbia. NTEC president and CEO Clark Moseley said: “With the acquisition of these mines, NTEC is thrilled to become a neighbour and important employer in Montana and Wyoming. “We look forward to working with the existing team of 1200 employees and implementing our exceptional record of safety, reclamation, and community partnership in the Powder River Basin.” Furthermore, the company plans to significantly increase coal exports to international markets, making use of export terminal capacity at Westshore, which the company acquired from Cloud Peak. The transaction enabled NTEC to become the third-largest coal producer in the US. With respect to the recent acquisition of Cloud Peak Assets, NTEC is relocating its business headquarters to Broomfield, Colorado.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
