@@ -1,0 +1,15 @@
+Rio Tinto initiates strategic review for New Zealand’s Aluminium Smelters (NZAS). Credit: Copyright © 2018 Rio Tinto. Rio Tinto is considering a possible closure of New Zealand’s Aluminum Smelter (NZAS) at Tiwai Point, citing weakness in the aluminium market. Rio Tinto owns 79.36% of NZAS, while the remaining interest is held by Sumitomo Chemical Company. The company has decided to carry out a strategic review of its stake in NZAS to determine the ongoing viability and competitive position of the smelter. According to Rio Tinto, under current market conditions and with high energy costs, the aluminium industry would continue to be unprofitable. The company plans to explore opportunities and economically feasible solutions to bring back profits for the aluminium market by holding talks with the Government of New Zealand and energy providers. Rio Tinto Aluminium chief executive Alf Barrios said: “The aluminium industry is currently facing significant headwinds with historically low prices due to an over-supplied market. This means that many aluminium providers are reviewing their positions. “Rio Tinto will work with all stakeholders including the government, suppliers, communities and employees in order to find a solution that will ensure a profitable future for this plant.” In a separate statement, New Zealand’s Meridian Energy, which supplies electricity to the site, noted that all options would be considered for the future of the smelter, including the curtailment and closure as part of the review. Meridian Energy chief executive Neal Barclay said: “NZAS officials have advised us that the economics of the smelter have been challenged due to volatile international prices for aluminium, relatively high energy and transmission costs and an upcoming refurbishment bill to keep one of the potlines operational.” “NZAS has advised Meridian that the changes we had offered to date on our contract fall short of the pricing for delivered energy that NZAS needs to re-establish its position as an internationally competitive aluminium smelter. “We remain open to negotiating with NZAS and its shareholders on the long-term requirements for the smelter.” The review is expected to be completed in the first quarter of next year.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
