@@ -1,0 +1,15 @@
+Botswana Diamonds receives Marsfontein mining permit. Credit: Dimitris Christou from Pixabay. Botswana Diamonds’ (BOD) associate Vutomi Mining has secured a mining permit for the diamond bearing gravels and residual unprocessed stockpiles around the Marsfontein mine. The Marsfontein diamond mine is located in Limpopo, South Africa. Last month, Botswana Diamonds and Vutomi signed an agreement with Eurafrican Diamond Corporation (EDC) to mine and process the identified deposits on the Marsfontein project. EDC has started site establishment, while the commissioning is expected to begin within the next two weeks, thereby ramping up production. Proceeds from Marsfontein will be used to fund ongoing exploration work in Botswana and South Africa. Botswana Diamonds chairman John Teeling said: “I am delighted that the Marsfontein Mining Permit has been granted and that site establishment has already commenced. “I look forward to updating shareholders as the company progresses towards being a diamond producer.” The Marsfontein mine comprises a kimberlite blow development and the mine’s run of mine (Rom) grade was 172cpht, at a bottom cut off of +1.2mm. Marsfontein’s assortment was known to host fancy coloured diamonds. Evaluation on the gravels and residual stockpiles in and around the mine, conducted at the time of mining, indicated them to be diamondiferous. These deposits were overlooked after the closure of the mine. BOD, which has a 15% interest in Vutomi, entered an option and earn-in agreement with the latter in 2017 to explore its prospecting rights covering 50,000ha of prospective ground in the Limpopo, North-West and Free State Provinces of South Africa. Last month, Vutomi secured environmental authorisation over part of the residual diamond-bearing gravels produced from the Marsfontein mine. In June, Vutomi received approval to sell diamonds recovered during a bulk sampling programme at the Thorny River project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
