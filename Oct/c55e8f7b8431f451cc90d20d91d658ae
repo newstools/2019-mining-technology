@@ -1,0 +1,15 @@
+Germano complex in the state of Minas Gerais (MG), Brazil. Credit: Samarco. Samarco Mineração has received a Corrective Operation License (LOC) to restart its operating activities in the Germano Complex, located in the state of Minas Gerais, Brazil. The authorisation was provided by the Mining Activities Chamber (CMI) of the State Council for Environmental Policy (COPAM). The development comes four years after a tailings dam burst at Germano in November 2015, claiming the lives of many people. With the authorisation in place, Samarco has now obtained all environmental licenses required to restart its operations in a safe and sustainable manner. Samarco said that the operations will be restarted using new technologies for dry tailings stacking. Iron ore extraction and beneficiation plants in Germano, and the pelletising plant in the Ubu Complex in Espírito Santo, will now only be restarted after implementing a filtration system. The filtration plant construction is expected to take approximately 12 months from LOC approval. Samarco will use this period to continue operational readiness activities as well as equipment maintenance. Upon implementation of the filtration process and subject to approval from the shareholders, operations at Samarco will resume by the end of next year. The filtration process will enable Samarco to substantially dewater 80% of sand tailings and store them in piles safely, while the remaining 20% of tailings are planned to be deposited at Alegria South pit, a bedrock self-contained structure. Samarco Mineração CEO Rodrigo Vilela said: “With the approval of the LOC application, Samarco is authorised to restart operations, but first we want to adopt new filtration technologies that will increase safety, a key principle that guides our work for Samarco’s recovery and operations.” In August, Samarco allocated around R$6.68bn (approximately $1.94bn) to the communities and areas affected by the Fundão tailings dam rupture. The restart of operations is also expected to contribute to the socioeconomic development of Espírito Santo and Minas Gerais communities. Mineração is a joint venture (JV) between Vale and BHP.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
