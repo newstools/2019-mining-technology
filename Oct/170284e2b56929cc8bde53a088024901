@@ -1,0 +1,15 @@
+Last month, Premier commenced processing of ore from the El Niño Mine. Photo credit: Premier Gold Mines. Premier Gold Mines has achieved commercial production at the El Niño underground mine, which is located at its South Arturo Property in the Carlin Trend of Nevada, US. The South Arturo mine is a joint venture (JV) between Premier and Nevada Gold Mines. Premier owns a 40% stake in the JV and the remaining 60% stake is held by Nevada Gold Mines. Nevada Gold Mines, a JV between Newmont-Goldcorp and Barrick Gold Exploration, is operated by Barrick. Premier noted that production at the El Niño mine has started ahead of schedule and on budget. Currently, high-grade ore is being processed at Nevada Gold Mines’ Goldstrike facility, 8km to the south of El Niño. Premier predicts that the overall gold production from South Arturo is estimated to exceed production guidance for the year. Development of the phase 1 pit of El Niño is currently underway. The company also reported that multiple drill programmes such as in-fill and step-out drilling from the underground drill stations are being completed at the El Niño mine. Geotechnical drilling at the proposed phase 3 pit project and drilling at the East Dee target are also part of the drill programmes. At the contact of the Rodeo Creek and Bootstrap formations, the host silica-sulphide breccia unit is presenting thicker intercepts than previously thought, Premier noted. Drilling highlights at El Niño include 4m grading 20.60g/t of gold (Au). Meanwhile, drilling at phase 3 continues to expand mineralisation within the deeper high-grade breccia target in addition to potential heap leach ore in the upper parts of the deposit. Highlights of this programme include 112.8m grading 7.29g/t Au.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
