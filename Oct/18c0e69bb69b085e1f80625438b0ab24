@@ -1,0 +1,15 @@
+Armadale Capital has signed a memorandum of understanding (MoU) for a proposed offtake agreement with China-based Datong Resources. The offtake agreement is for the supply of 25,000 tonnes per annum (tpa) of graphite concentrate produced at Armadale Capital’s Mahenge Liandu graphite project in Tanzania. Initially, the MoU is valid for five years and at a price to be agreed based on the Chinese benchmark for the quality of the graphite produced at Mahenge Liandu. Armadale Capital director Nick Johansen said: “Today’s offtake MOU marks a highly significant point in the transition of our company from explorer to emerging producer and brings our offtake MOU portfolio to a point which exceeds the initial planned production from Mahenge Liandu. “The ability to secure offtake MOUs of this magnitude demonstrates the robust nature of Mahenge Liandu and completes an important step as we proactively progress its development. “Further updates to the market will be provided as each key step is completed, including as we move to finalisation of the project DFS.” The latest agreement with Datong follows the MoU signed with CoolRU for 5,000tpa last month and with Matrass Group for 30,000tpa in February. It brings the total offtake under the MoU agreement to 60,000tpa. This represents 122% of the company’s average annual production target of 49,000tpa, as outlined in the project’s scoping study announced last March. The company is currently in the process of finalising a Definitive Feasibility Study (DFS) and also converting the MoUs into binding offtake agreements with its partners.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
