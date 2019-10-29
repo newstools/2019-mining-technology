@@ -1,0 +1,15 @@
+Platinex has signed letters of intent (LoI) agreements to acquire two prospective claim groups adjacent to its Shining Tree property in Churchill and MacMurchy Townships, Ontario, Canada. Initially, the company signed LoI agreements with Skead Holdings for 19 cell claims and one fractional claim. An existing royalty agreement of 3% net smelter royalty (NSR) with Skead, with staking costs of the company priced at approximately $1,000 a share, is also intended to be included in these claims. Also included are two legacy claims owned fully by Platinex in the Skead royalty agreement. This LoI is expected to be concluded after Platinex completes financing, which is currently underway. The second LoI is with respect to eight cell claims in Churchill Township and contemplates signing of a definitive agreement to acquire 100% interest in the Dirks-Hinzer property. It is subject to an agreed royalty, reimbursement for past exploration as well as completion of a favourable due diligence by Platinex, and is expected to be completed after the company concludes financing. Platinex interim CEO James Trusler said: “Platinex is currently taking several initiatives to expand its Shining Tree property to attract quality mining industry talent and to raise money through equity financing and senior partnerships.” Shining Tree property is spread across 14,967ha. Giving consideration to completion of the two acquisitions, its size will increase to 15,532ha, noted Platinex. Exploration at the Dirks-Hinzer Property has been progressing from the past 20 years. Platinex said: “Of particular interest are several IP anomalies coinciding with a northwest trending shear zone where a single channel sample returned 1,130ppb gold over a sample width of 6.3m.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
