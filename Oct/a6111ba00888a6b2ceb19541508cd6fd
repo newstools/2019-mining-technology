@@ -1,0 +1,15 @@
+Australia-based coal miner TerraCom has signed a binding agreement to purchase a substantial stake in coal mining firm Universal Coal. Under the terms of the binding agreement, TerraCom intends to purchase approximately 19.9% of the issued capital of Universal from Coal Development Holding for a combination of cash and TerraCom shares. The company will purchase 104,467,056 shares in Universal for A$34.6m ($26.4m), which includes around A$17.3m ($13.2m) in cash and 34.2 million fully paid ordinary TerraCom shares priced at A$0.5061($0.38) a share. TerraCom’s acquisition of substantial shareholding aligns with the company’s strategy of entering into an emerging market, while reducing its sovereign risk profile with new South African investments. The investment enables the company to access Universal’s thermal coal assets across South Africa’s major coalfields including Kangala, New Clydesdale, North Block Complex, Ubunto, the Eloff project, Arnot South and Berenice/Cygnus. TerraCom chairman Wal King said: “This transaction is a significant achievement for TerraCom. Universal’s asset portfolio provides the company with greater geographic diversification and an expanded production footprint. “The growth achieved under the guidance of CEO Tony Weber throughout the last few years has been exceptional. “TerraCom is excited to become a substantial shareholder and looks forward to being associated with Universal’s long term profitable growth.” Universal has a positive outlook for growth, increasing its sales to 8.4Mt by next June and 9.6Mt for the financial year 2021. In February 2017, TerraCom subsidiary Orion Mining received formal indicative approval from Queensland’s Department of Natural Resources and Mines (DNRM) to transfer the mining lease of Blair Athol Coal Mine in Australia.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
