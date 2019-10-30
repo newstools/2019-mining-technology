@@ -1,0 +1,15 @@
+Newcrest continues Tanami exploration in Australia with Encounter. Credit: Jonny Caspari on Unsplash. Newcrest Mining joint venture (JV) partner Encounter Resources has completed the first phase of Reverse Circulation (RC) drilling at Hutch’s Find in the Tanami region of Western Australia (WA). The JV has completed drilling a total of 17 RC drill holes for 4930m at Hutch’s Find and assay results are expected to be received next month. Funded by Newcrest, the drilling programme has now moved to the Afghan prospect, where the down dip extension of a broad, near surface gold anomaly is being targeted. The Afghan prospect is a 12-hole RC drill programme comprising 300m deep RC holes. Assay results from this prospect are expected to be released in December this year. Encounter Resources managing director Will Robinson said: “The Newcrest operated RC drill programme in the Tanami has started well with the first phase of drilling successfully completed at Hutch’s Find. “The rig has now moved to the Afghan prospect to complete a planned 12-hole programme of 300m deep RC holes. “The programme is targeting down dip and plunge extensions of known mineralisation within a broad anomalous gold halo defined in previous shallow drilling.” Newcrest noted that it is the sole funder of exploration activities across multiple JVs with Encounter in the West Arunta regions of WA. Three of the companies’ JVs, namely Watts, Selby and Lewis, cover more than 100km of strike along the Trans-Tanami Structure that extends through the Tanami region. Encounter also has complete control on an extensive, underexplored project position covering the southern extension of the +40Moz Laverton Tectonic Zone.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
