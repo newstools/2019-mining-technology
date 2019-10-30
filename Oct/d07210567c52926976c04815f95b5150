@@ -1,0 +1,15 @@
+Scania and Navistar collaborate to provide vehicles for mining operations in the Canadian market. Credit: Scania. Swedish transportation firm Scania and truck manufacturer Navistar are set to explore cooperation to provide vehicles and services for mining operations in the Canadian market. Late next year, the two companies intend to deploy a limited number of Scania heavy-duty off-road trucks for trials by selected operators. Aimed at providing global-level customer support in the mining sector, the partnership will see the combination of Scania’s knowledge of mining vehicles, consulting services and operational support with the dealer network, after sales and service capability of Navistar. The collaboration also aims to provide trucks for heavy haul, general goods transport, fuel delivery, water delivery, and personnel transportation. Scania Trucks head and senior vice-president Alexander Vlaskamp said: “Our trucks and services together with Navistar’s well-established international truck sales and service network have the potential to also make our cooperation a win-win for Canadian mining operators.” In order to deliver the Scania trucks to the Canadian market, both the companies will seek regulatory approval from the respective agencies. Navistar executive vice-president and chief operating officer Persio Lisboa said: “Demand from the mining market is changing. “Companies are exploring more sustainable solutions that improve worksite flexibility, increase uptime and reduce total operating costs. “Working with Scania as a partner will help us rapidly achieve scale in addressing this unique market segment with comprehensive and powerful solutions.” The Scania and Navistar cooperation builds on the existing strategic partnership between Traton and Navistar, which was initiated in 2016. Scania provides products and services for mining operations. More than 10,000 of the company’s heavy-duty trucks are in service across South America and Asia.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
