@@ -1,0 +1,15 @@
+The Peruvian Government has reportedly given the go-ahead for Southern Copper’s $1.4bn Tia Maria project in the southern Islay province of the Arequipa region. Reuters reported that the government has advised that the “right social and environmental conditions” will have to be met for the project to move forward. Peru Prime Minister Vicente Zeballos was quoted by the news agency as saying: “But we also reaffirm that our government will not impose the Tía Maria mining project if there are not the environmental and social conditions for its development.” The project would undergo evaluation with an environmental inspection committee, starting today. Upon completion, the mine project is expected to produce 120,000t of copper a year, boosting the country’s economy. The National Society of Mining, Petroleum and Energy president Manuel Fumagalli was quoted by Reuters as saying: “It is an important signal that will boost mining investment and the national economy.” In August, Peru Ministry of Energy and Mines suspended a construction licence issued to the Tía María copper project. Southern Copper is a unit of Grupo Mexico and has been planning to build Tia Maria for nearly a decade. The company’s effort to build the mine has faced opposition from local farmers and residents who fear pollution and loss of water supply. In March 2015, Southern Copper scrapped plans for further development of the mine.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
