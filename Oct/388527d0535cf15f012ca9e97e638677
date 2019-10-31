@@ -1,0 +1,15 @@
+Petra will make some of the tailings mineral resources available for the benefit of the Koffiefontein community. Credit: Colin Behrens from Pixabay. Petra Diamonds has launched an artisanal small-scale mining (ASM) initiative in the Free State town of Koffiefontein, South Africa. According to Petra, the launch comes after extensive consultation and cooperation with relevant shareholders. The shareholders included the Department of Mineral Resources and Energy (DMR&E) as mining sector regulator, the Letsemeng Local Municipality as elected representatives of the community, and the community itself. Petra has taken a decision to make some of the tailings mineral resources (TMR) available for the benefit of the Koffiefontein community. According to the company, TMR is notably the resource that is generally referred to as the Eskom dump. The intention of this decision is that properly regulated artisanal mining that would comply with the Kimberley Process Certification Scheme and other standards for such operations set by the United Nations and others, will be conducted on Eskom dump. Petra Diamonds chief executive Richard Duffy said: “We regard this initiative as yet another milestone in the Petra legacy and we welcome the KCM artisanal miners as partners in our industry to complement our own operations and extract optimal benefit from the diamond reserves in Koffiefontein. “We wish KCM all of the best with this venture, and thank our Government and community partners for their continued support of both the project and the KCM.” Petra noted that the recent initiative is the company’s second one, developed as part of its efforts and involvement in establishing the ASM sector in the Kimberley region. Petra said in a press statement: “This culminated in the landmark agreement in 2017 between Kimberley Ekapa Mining JV, in which Petra had a majority interest at the time, and other stakeholders, with the result that available TMRs in Kimberley were allocated to two community-based primary mining co-operatives, Batho Pele and Goede Hoop.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
