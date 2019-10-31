@@ -1,0 +1,15 @@
+Inmarsat strengthens commitment by joining the GMG Group. Credit: Khusen Rustamov from Pixabay. Satellite telecommunications firm Inmarsat has joined the Global Mining Guidelines Group (GMG) to further strengthen its commitment to the mining industry. GMG serves as a hub for collaboration and innovation across the mining sector and is a multi-stakeholder organisation with representation from mining regions worldwide. It is an open platform that brings together representatives from mining companies, regulators and other mining research organisations. The members regularly meet to discuss challenges and disruptive technologies that are transforming the mining industry. The GMG group has also set guidelines for implementing autonomous vehicle standards and infrastructure for underground communications. Inmarsat’s latest move comes as part of its current engagement with the mining industry and efforts to support the sector’s zero harm objective and contribution to environmental performance. Commenting on the membership, Inmarsat Mining Innovation director Joe Carr said: “The Global Mining Guidelines Group is another great example of collaboration across the mining industry and their work highlights the importance of key stakeholders in different regions joining forces. “Our membership of GMG is another step in our deeper engagement with the industry and offers the GMG a different dimension in their mission to broaden the use of innovative technology and improve safety across the sector. “In particular, joining GMG at the top ‘leadership’ level enables us to widen the sector’s exposure to new skills and technologies, such as our tailings dam solution, helping make the industry safer and more efficient.” In February, Inmarsat launched a remote tailings dam monitoring solution with real-time analysis and joined forces with Knight Piésold.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
