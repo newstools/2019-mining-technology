@@ -1,0 +1,15 @@
+Germano complex in the state of Minas Gerais, Brazil. Credit: Samarco. Brazilian miner Vale has been authorised by local regulator National Mining Agency (NMA) to resume operations at its Alegria mining site, which were interrupted in March. Operations at the mine were suspended after a stress test failed to guarantee the structure’s stability. The resumption of mining activities at Alegria will now enable the iron-ore exporter to restore 8Mtpa of the 50Mtpa lost after the deadly Brumadinho dam collapse caused a series of shutdowns. Vale said in a statement: “With the goal to safely return to operations, Vale expects that the increase in production will be up to 1Mt in 2019, not impacting expected sales volume this year.” “Vale reaffirms its iron ore and pellet sales guidance of 307-332 million tonnes for 2019 and expects sales to be between the lower and the midpoint of the range.” According to the company, approximately 42Mtpa of iron ore production capacity remains suspended. Owned by Samarco Mineracão, which is a joint venture of BHP Billiton and Vale with each holding 50%, Alegria iron ore mine is in Brazil’s Iron Quadrangle, within the districts of Mariana and Ouro Preto in the state of Minas Gerais. In another statement, BHP announced that it has approved $44m for the restart of one concentrator at Samarco operations at the company’s Germano complex in Minas Gerais. BHP noted that the funds will be used towards construction of a filtration plant. With the approval of all environmental licences in place, Samarco operations are expected to restart upon the completion of the filtration system. Last month, Samarco received a Corrective Operation License (LOC) to restart its operating activities at the Germano Complex.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
