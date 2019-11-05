@@ -1,0 +1,15 @@
+MC Mining has been granted a mining right for its 74% owned Generaal coking and thermal coal project in Limpopo province, South Africa. The authorisation has been granted by the South African Department of Mineral Resources (DMR). The Generaal project, alongside the Chapudi and Mopane projects make up the company’s Greater Soutpansberg project (GSP) in the Soutpansberg Coalfield. According to MC Mining, GSP is situated near to the Musina-Makhado special economic zone (SEZ). MC Mining CEO David Brown said: “The granting of the Generaal project mining right is a further step in unlocking value from MC Mining’s significant coking and thermal coal assets, positioning the GSP to be a potential long-term coal supplier to industrial users both local and offshore, including the planned Musina-Makhado SEZ. “The long-term development of the three GSP project areas is complementary to our flagship Makhado hard coking coal project, also in the Soutpansberg coalfield. “The company has made significant progress in advancing Makhado during the last 12 months and anticipates completing the Phase I capital raise process in the near-term in order to facilitate the commencement of construction in Q1 CY2020. “The conclusion of domestic and export Makhado Phase I and Phase II off-take agreements reflects the market appetite for hard coking coal and the significant potential of projects located in this coalfield.” MC Mining first submitted mining right applications for the three GSP project areas to the DMR in 2013 and application of the Chapudi project mining right in December 2018. According to the company, the Generaal project mining right is the second of the applications to be permitted. It contains over 407 gross million tonnes of inferred coal resources and will support MC Mining’s strategy of becoming South Africa’s major hard coking coal producer.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
