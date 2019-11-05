@@ -1,0 +1,15 @@
+Quecher Main's leach pad and associated facilities. Credit: Business Wire. Gold producer Newmont Goldcorp has announced the start of commercial production at the Quecher Main project at Yanacocha in Peru. The Quecher Main project is aimed at extending the life of the Yanacocha operation to 2027. The Yanacocha gold mine is located in the province and department of Cajamarca, nearly 800km northeast of Lima. The project consists of development of the Quecher Main pit, two smaller oxide deposits and a heap leach pad. The full project of Quecher Main, including future leach pad expansions, is expected to be completed for approximately $275m of development capital, which, according to the company, is below its initial estimate. The Quecher Main project is expected to contribute around 200,000oz of average annual gold production at the Yanacocha mine from 2020 through 2024. Newmont Goldcorp president and CEO Tom Palmer said: “Quecher Main is the fourth profitable project we’ve brought into operation on four different continents this year, on schedule and within budget. “The project takes advantage of Yanacocha’s existing infrastructure to add profitable production from remaining oxide ores while also serving as a bridge to future growth opportunities, including Yanacocha’s extensive sulphide deposits.” The project is expected to generate an internal rate of return (IRR) of around 15% at an assumed gold price of $1,200. Following the start of commercial production in 1993, the Yanacocha mine has produced more than 38Moz of gold from open pit oxide and transitional ores, processed at the on-site gold mill and leach pad. It is operated by a joint venture (JV) that consists of Newmont with a 51.35% stake, Minas Buenaventura with 43.65% and Sumitomo, which holds the remaining stake.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
