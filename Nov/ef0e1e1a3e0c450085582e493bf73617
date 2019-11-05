@@ -1,0 +1,12 @@
+Albemarle closes lithium joint venture with Mineral Resources Limited. Credit: ilka val from Pixabay. US company Albemarle has concluded the transaction with Mineral Resources Limited (MRL) under the asset sale and share subscription agreement. The agreement was initially signed on 14 December 2018 and amended on 01 August 2019. The 60:40 joint venture (JV) between Albemarle and MRL is named as MARBL Lithium JV (MARBL). Under the terms of the agreement, Albemarle has purchased a 60% stake in MRL’s Wodgina spodumene mine in Western Australia (WA) for $1.3bn. It will pay $820m in cash and transfer a 40% interest in two 25ktpa lithium hydroxide conversion trains being built at Kemerton, WA, to MRL. MARBL will manage Wodgina mine and the Kemerton lithium hydroxide conversion trains operations. This will allow Albemarle to market 100% of the output from the Wodgina and Kemerton conversion trains. Albemarle CEO Luke Kissam said: “Over the past year, we have worked closely together and are even more confident that our investment will produce substantial, long-term value. “In the short term, we have made the prudent decision to idle mine activity until market conditions improve. However, we are well positioned for future growth given the high-quality Wodgina resource and the combined operating expertise of both companies.” Albemarle noted that the 50ktpa lithium hydroxide conversion capacity at Kemerton is scheduled for commissioning in the first half of 2021. The company mentioned Wodgina mine will idle production of spodumene based on current market trends. Albemarle funded the transaction by borrowing over $900m under an unsecured credit facility. The company started construction work on the Kemerton lithium hydroxide processing plant in March this year. Source: https://www.albemarle.com/news/albemarle-announces-completion-of-lithium-joint-venture-with-mineral-resources-limited  jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
