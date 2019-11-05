@@ -1,0 +1,15 @@
+Rio Tinto approved Oyu Tolgoi underground mine development in May 2016. Copyright © 2018 Rio Tinto. Global mining group Rio Tinto has completed development of Shaft 2 at the Oyu Tolgoi mine in Mongolia. The completion is a significant milestone that will speed up underground development work at the mine site. The mine is now moving towards the process of final commissioning. According to Rio Tinto, Shaft 2 is a 10m diameter shaft sunk to approximately 1.3km below the surface. It allows the mine to transport 300 people per cage cycle versus a maximum of 60 people per cage cycle through Shaft 1. Rio Tinto noted that the 48t capacity cage in Shaft 2 can now be used to support logistics and transport supplies and other components for the mine development. Oyu Tolgoi is jointly owned by the Government of Mongolia (34%) and Turquoise Hill Resources (66%). Out of this 66% share, Rio Tinto owns 51% in the project. Rio Tinto Growth & Innovation group executive Stephen McIntosh said: “This is an important milestone because Shaft 2 significantly improves overall productivity of the underground development and allows us to move more material, equipment and people between the surface and underground. “We have made very good progress in the past few months and completing Shaft 2 provides additional momentum as we move towards a definitive estimate for the development of this world-class ore-body in the second half of 2020.” In January, the Government of Mongolia and Rio Tinto signed a framework agreement for the supply of electricity to an extension of the copper mine at the Oyu Tolgoi project by mid-2023.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
