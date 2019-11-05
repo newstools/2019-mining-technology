@@ -1,0 +1,15 @@
+Iluka considers $2bn spin-off of iron-ore royalty. Credit: © Iluka Resources Limited. Australia’s mineral sands major Iluka Resources is considering structural separation of the Mining Area C royalty (MAC) through demerger. MAC is a large iron ore mining area operated by BHP Billiton. It is located in the Pilbara region in the north of Western Australia. Iluka holds a royalty over iron ore produced from MAC. Iluka chairman Greg Martin said: “The Iluka Board consistently reviews all of our operations and assets to determine what is in the best long term interests of our company and shareholders. “Given the substantial scale of the mineral sands business and the prospective scale of MAC, the time is right to formally review Iluka’s corporate and capital structure with the objective of fully capitalising on the respective features of both assets.” The company said that the proposed demerger is part of a formal review of its two principal businesses, mineral sands operations and MAC. Iluka’s decision to conduct a formal review follows BHP’s development of South Flank. This development is expected to produce close to 145Mwmtpa, starting from 2023. The company noted that production from South Flank is expected to increase the annual iron-ore production within the MAC royalty area from 55dmtpa to 135dmtpa or more from 2023. Iluka managing director Tom O’Leary said: “Iluka’s mineral sands business continues to be a global market leader in the production of zircon and high grade titanium feedstock. “The business is producing solid cash flows in the current market environment and is well positioned for the future, with a pipeline of attractive growth projects.” Iluka anticipates an update on the review in February next year. In July 2015, Iluka Resources amended MAC ore royalty agreements with BHP and its JV partners.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
