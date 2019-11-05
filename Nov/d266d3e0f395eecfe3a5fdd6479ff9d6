@@ -1,0 +1,15 @@
+Katoro Gold has announced that it is considering to further extend the deadline for the proposed sale of the Imweru gold project. The deadline for the proposed acquisition of the Imweru gold project by Lake Victoria Gold Limited (LVG) was 31 October. LVG has now requested Tanzania focused exploration and development company Katoro for a further extension to finalise the Imweru acquisition. The request has also been made for the first tranche payment of cash, which it has to pay to Katoro under the term sheet of $50,000. Katoro mentioned that the board is considering the request from LVG. Katoro Gold executive chairman Louis Coetzee said: “The operating environment for gold companies in Tanzania is experiencing some recovery and investor sentiment toward the gold sector in-country is improving. “We note that Barrick Gold recently announced its return to operations in Tanzania following an amicable settlement of its dispute with the Tanzanian Government. “So, whilst we would like to see the LVG acquisition complete, and we expect that to occur, there are possible alternative value generative routes available.  In addition, the current gold price has moved in the company’s favour, at $1,495/oz, the gold price is up 17% year-to-date, its best performance since 2010.” The proposed sale of Imweru project will combine two strategic gold assets in LVG. The acquisition is expected to increase the project footprint and in-situ gold resource, which, according to the board members of Katoro, will enable quick gold production. The exploration company further added that other third parties have also expressed interest in Katoro’s Lake Victoria gold interests. For now, the company remains its focus on working with LVG, while other proposals will be considered provided they are appropriate.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
