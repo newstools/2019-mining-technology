@@ -1,0 +1,15 @@
+Industrial minerals and technology company Syrah Resources has achieved first production of purified spherical graphite from its battery anode material (BAM) plant in Vidalia, Louisiana, US. The production used Syrah’s natural graphite from its Balama graphite project in Mozambique. As key step ahead for its BAM project, the completion of the first production is part of the company’s strategy of developing a vertically integrated natural graphite anode material production capability. Syrah Resources CEO and managing director Shaun Verner said: “The Balama Graphite Operation’s expected scale, quality and low production cost at full capacity are key enablers in the delivery of Syrah’s integrated BAM strategy. “With the completion of construction and commissioning activities for initial production of purified spherical graphite from Vidalia in the USA, we are demonstrating a pathway to produce value-added products at commercial scale, focused on establishing a core position in the battery supply chain.” Syrah has highlighted that it has carried out safe operations during the construction and commissioning phase of the project. The company noted that construction of a milling, shaping and purification circuit are now complete for the BAM plant. Verner added: “This is a significant step forward for Syrah in providing an alternative and complementary source of ex-China BAM supply, demonstrating our commitment to develop the first large-scale fully integrated natural graphite anode material production facility outside of China. “The dispatch of BAM precursor products (unpurified and purified spherical graphite) from our Vidalia plant for customer testing and qualification activity is a critical driver of meaningful industry engagement. “From now and into 2020, we will continue to focus on customer development and strategic partnership opportunities through the qualification process and by progressing production of anode active material (coated spherical graphite) for further customer engagement.” In September 2018, the company received approval for a mining agreement covering the Balama graphite operation from the Mozambique Administrative Court. Syrah Resources completed the first production of bagged saleable flake graphite from the Balama Project in November 2017.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
