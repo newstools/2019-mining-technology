@@ -1,0 +1,15 @@
+Pucobre's Control Tower. Credit: Epiroc AB. Epiroc has signed a collaboration agreement to digitalise mining operations in Chile-based Sociedad Punta del Cobre, commonly known as Pucobre. The strategic collaboration is expected to boost Pucobre’s productivity and safety at its mining operations in the Atacama region in northern Chile. It includes development of an integrated information management system, which is already visible in Pucobre’s newly established control tower. According to Epiroc, its new 6th Sense Mine Management system will bring together Pucobre’s existing systems and task management and reporting features, including the Mobilaris scheduler. The existing machine fleet, irrespective of make or model, can be connected to 6th Sense. Epiroc Mining and Infrastructure senior executive vice-president Helena Hedblom said: “We are happy to collaborate with Pucobre to modernise its mine operations to make it safer and more productive through our digital solutions and our new 6th Sense approach. “This represents the future of mining.” Epiroc’s 6th Sense solution helps ensure seamless operation of customers’ processes through automation, system integration and information management. Pucobre already uses Epiroc’s Simba production drill rigs, Boomer face drilling rigs, and Scooptram and Minetruck underground loading and haulage vehicles. Furthermore, Epiroc provides consumables and service to Pucobre. Pucobre CEO Sebastián Ríos said: “We have high expectations in the implementation of 6th Sense to continue improving the safety and productivity of our underground mining operations. “We have strengthened our relationship with Epiroc, as we both target excellence in mining operations. We rely on Epiroc´s strategic approach, its collaborative work and its professional team, which is regularly present at our mine site.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
