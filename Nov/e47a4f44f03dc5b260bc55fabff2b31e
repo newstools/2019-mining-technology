@@ -1,0 +1,15 @@
+Saracen Gold Mines has awarded an A$24.5m (16.9m) engineering design, procurement and construction (EPC) contract to GR Engineering Services. The contract is for the expansion of a mineral processing plant at Carosue Dam, which is approximately 120km north-east of Kalgoorlie in the Goldfields region of Western Australia. Work scope under the contract includes upgrades to the carbon-in-leach (CIL) circuit and associated infrastructure. It will also include the deployment of secondary grinding equipment to bring the existing processing plant capacity to a nominal production rate of 3.2 million tonnes per annum (Mtpa). Commenting on the contract, GR Engineering managing director Geoff Jones said: “GR Engineering is pleased to again be working with Saracen to deliver improvements to its mineral processing facilities at Carosue Dam. “Having been involved in the initial development of Carosue Dam in 2000, our team has maintained a strong relationship with Saracen and utilised its understanding of the project to deliver incremental benefits to the project. “GR Engineering looks forward to achieving positive outcomes for Saracen through the safe and successful delivery of these expansion works.” The contract is expected to start imminently upon completion of the upgrade, which is slated to finish in the first half of the financial year 2021. In June, Saracen Mineral signed a bid implementation deed to acquire all of the shares of Bligh Resources for A$38.2m ($26m). The company began gold mining activity at the Carosue Dam gold project in January 2010.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
