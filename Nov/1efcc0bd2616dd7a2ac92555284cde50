@@ -1,0 +1,15 @@
+Rare earths are a group of 17 metals. Credit: Peggy Greb, US Department of Agriculture. Rare-earths mining company Lynas has signed a memorandum of understanding (MoU) with Malaysian Government agency MARA to collaborate on new projects. The collaboration is aimed at attracting downstream industries and customers to Malaysia. As part of the MoU, Lynas and MARA will jointly work on the commercialisation of neutralisation underflow residue (NUF) from the Lynas Malaysia plant. The two entities will also work on education and training initiatives in Malaysia. Lynas Corporation CEO and managing director Amanda Lacaze said: “Lynas is delighted to be partnering with MARA Corporation on this exciting initiative. MARA Corporation is a strong and important local partner as we grow our global business from Malaysia. “We have always strived to be an excellent foreign direct investor in Malaysia and this joint project is another way that we can facilitate economic development and jobs for Malaysians.” The MoU also involves design and fabrication work with respect to the Lynas 2025 Project. The rare-earths miner noted that it has already captured a significant percentage of global rare earth production. It plans to make use of this expertise at its Gebeng rare earths separation facility in Malaysia. MARA chairman Akhramsyah Muammar Ubaidah Bin Sanusi said: “Creating economic opportunities in Malaysia, especially for the Malay and Bumiputra population is at the heart of MARA Corporation’s business. “We are fortunate to have a key component of this supply chain already operating in Malaysia, and it is time to develop opportunities to further enhance Malaysia’s green and high-tech industries in line with the Pakatan Harapan government’s new Shared Prosperity Vision 2030.” Lynas is the largest producer of rare earths outside China. It is currently awaiting licence from Malaysia to increase imports of concentrate to the country. In December 2018, Lynas stated that it would explore all options, including legal, after the Malaysian Government set new conditions for the renewal of the company’s licence to operate in the country.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
