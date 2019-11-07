@@ -1,0 +1,15 @@
+Zambia scraps plans to build a copper mine in Lower Zambezi National Park. Credit: rosefirerising. The Government of Zambia has reportedly cancelled plans to allow the construction of a major copper mine in the Lower Zambezi National Park. The development comes after Australia’s Mwembeshi Resources received authorisation from the country’s High Court to construct a copper mine in the park. The National Park is located 174km (108 miles) south-east of the capital Lusaka. China-based Grand Resources owns Mwembeshi, which is registered in Dubai. Zambia founding president Kenneth Kaunda has appealed to leave the park untouched, reported Lukasa Times. The news agency quotes Kaunda as saying that the Kangaluwi copper project constitutes “the biggest threat in history to the wildlife and pristine wilderness that has survived so many centuries of challenges.” Kaunda also expressed fears for the people living around the Lower Zambezi valley, should the mining activities proceed. The construction of the mine in the park has been facing severe opposition from locals and environmental authorities. Zambia Tourism and Arts Minister Ronald Chitotela told Lukasa Times that “mining cannot take place in the Lower Zambezi National Park because there is no report allowing such a process in the park.” Chitotela also noted that Zambezi Resources of Australia has not submitted an application for the project. The minister further added that the country’s environmental regulator is expected to finish preparing a new report covering possible risks of such works. According to Chitotela, the government is committed to the fight against climate change and would not allow activities that may harm the environment. A previous report on the potential impact of the activities expired in 2017.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
