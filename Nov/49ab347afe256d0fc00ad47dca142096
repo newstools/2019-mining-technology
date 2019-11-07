@@ -1,0 +1,15 @@
+Vanadium crystal bars. Credit: Alchemist-hp. Vanadium producer Bushveld Minerals has announced the completion of all outstanding conditions with respect to the acquisition of Vanchem Vanadium Products (VVP). The acquisition comes after a business and share purchase agreement was signed in May with VVP, a subsidiary of Duferco Vanadium Investment (Duferco), and South African Japan Vanadium Proprietary (SAJV), a subsidiary of VVP and Duferco Participations. Under the acquisition, Bushveld has acquired the vanadium production business of VVP, the ferrovanadium production business of SAJV and 100% of the outstanding shares of Ivanti Resources, a subsidiary of Duferco Participations. Of the total deal consideration of $53.5m, a cash payment of $30m was made by Bushveld Minerals upon closing of the transaction, with a further cash payment of $0.5m to be made after two years. The remaining $23m has been paid through the issuance of Bushveld Minerals unsecured convertible loan notes. Bushveld Minerals Limited CEO Fortune Mojapelo said: “The Vanchem team will complement the Vametco team’s skills and knowledge, which will support cross-pollination of vanadium expertise and experience, as well as unlock multiple synergies across Vametco, Vanchem and Mokopane. “The acquisition places the company in an advantageous position to offer an attractive and diverse suite of vanadium products capable of servicing the steel and chemical sectors and the burgeoning energy storage market. “As we come towards the end of 2019, we have laid the groundwork for a strong 2020, which will see Bushveld Minerals strengthening its competitive position as the leading vertically integrated primary vanadium producer.” According to Bushveld, it has already taken operational control of the Vanchem business and Ivanti. Bushveld Vanchem has taken over VVP’s existing senior production team and Vanchem is merged into Bushveld Minerals.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
