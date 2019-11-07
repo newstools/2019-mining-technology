@@ -1,0 +1,15 @@
+At least 37 civilians were killed and dozens were wounded when gunmen ambushed a convoy transporting workers of Canadian gold miner Semafo in eastern Burkina Faso, Africa. Semafo noted that the attack took place on the road between Fada and the Boungou Mine site in the Est region of the country. The convoy comprised of five buses, which was escorted by military personnel. It also included Semafo national employees, and other contractors and suppliers. According to the information available, Semafo noted several fatalities and injuries. The Boungou mine is secure and operations are not affected, the company added. Semafo is currently in the process of ensuring the ongoing safety and security of its employees, contractors and suppliers with support from all levels of authorities in the region. The incident also involved members of Semafo’s partner company Perenti’s workforce from African Mining Services (AMS). Perenti said: “It is with deep sadness that Perenti advises the information we have to date is that there have been a number of fatalities and injuries, however, we are still working to confirm details with local authorities.” “Emergency response procedures were activated and the immediate location around the incident has been secured.” Meanwhile, a statement by the Est Governor office was quoted by Reuters as saying: “Unidentified armed men laid an ambush for a convoy transporting Semafo workers.” The office also gave a ‘provisional civilian death toll of 37 with over 60 wounded’. According to the news agency, the toll does not include security forces that may have been killed in the attack.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
