@@ -1,0 +1,15 @@
+Drilling in Katanga’s Kamoto underground mine in the DRC. Credit: Katanga Mining Limited. Copper and cobalt producer Katanga Mining has announced its plans to raise around C$7.6bn (approximately $5.8bn) under a discounted rights offering with parent organisation Glencore. With respects to this rights issue, Katanga has filed a preliminary short form prospectus with securities regulatory authorities in each of the Canadian provinces and territories. Glencore owns approximately 86.3% of Katanga. It has agreed to swap $5.8bn in debt for equity, which will raise further stake in the firm. As part of the $5.8bn in debt owed to Glencore, Katanga Mining will repay with approximately $1.5bn residual debt to Glencore. The residual debt of $1.5bn will remain outstanding until 2023. As the demand for cobalt is reducing in the market, Katanga noted that its directors had agreed on the recapitalisation of the company. The debt was scheduled to be paid by 1 January 2021, with recapitalising now expected to be less dilutive provided Katanga’s creditworthiness declines further. In a press statement, Katanga said: “Upon closing of the rights offering, the Glencore loan facilities will be merged into a single $1.75bn facility consisting of the remaining approximately $1.5bn of Glencore debt not repaid under the rights offering and undrawn committed liquidity of approximately $250m, which Glencore has agreed to provide under a subsequent facility agreement.” In relation to the recent filing of the preliminary prospectus, Katanga also filed an updated technical report on the material assets of Kamoto Copper Company (KCC). KCC is the Katanga’s 75% owned operating subsidiary in the Democratic Republic of Congo (DRC). In January, Glencore tightened its control on Katanga Mining with the appointment of new executives and the signing of a management services contract.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
