@@ -1,0 +1,15 @@
+Carmichael project is a thermal coal mine located in the North Galilee Basin, Queensland, Australia. Credit: Adani Australia. Australian contractor Decmil has secured a contract from Adani Mining to provide design and construction of three temporary accommodation camps on the Carmichael project. The Carmichael project is a thermal coal mine located in the North Galilee Basin, more than 300km from the Queensland coastline and around 160km north-west of Clermont in regional Queensland. Valued at more than A$40m ($27.5m), the contract is expected to create jobs and other opportunities in Rockhampton and regional Queensland. Adani noted that the accommodation camps are for the construction workers on the Carmichael Rail Network project. As part of the contract, Decmil will design and build three 400-bed temporary accommodation camps along the rail network corridor of Carmichael. Adani Mining CEO Lucas Dow said: “This contract means more jobs and economic activity for Rockhampton and regional Queensland. The Decmil team will move into our Rockhampton office along with Martinus, our track laying contractor. “This announcement brings the total value of contracts awarded for the Carmichael project to date to more than $500m.” “The operations of the rail camps will be based in Collinsville, earthworks and civil works are coming from Townsville and Rockhampton, fuel supply is from Townsville, telecommunications is from Mackay, and many other regional businesses across regional Queensland are also getting involved.” Decmil was also granted a A$1.4m ($0.96m) early contractor services (ECS) contract towards bulk earthworks along the primary freight rail alignment. Dow further added: “The camps will be designed to maximise our teams’ well-being with air-conditioned rooms, dining messes, gyms and recreation areas. “They will also comply with the high standards of environmental regulation that have been set for our project. Upon successful completion of the ECS, Decmil signed a contract for the construction work. In May this year, Queensland Resources Council (QRC) said that Adani Mining’s Carmichael coal mine must be allowed to go ahead.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
