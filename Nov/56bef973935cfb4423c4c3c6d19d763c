@@ -1,0 +1,15 @@
+African mineral sands producer Base Resources has been advised by the Government of Madagascar to suspend on-the-ground activities at its mineral sands project Toliara, while financial terms applying to the project are progressed. The recent request from the Madagascar Government will not carry any impact on the progression of the definitive feasibility study (DFS) for the Toliara project, as on-ground works have already been completed. Base expects the DFS to be released in December. According to the company, the suspension is expected to impact the community development programmes currently underway. It will also impact several local Malagasy people undertaking training programmes with the Toliara project. The project initially experienced some early community protests. These were, however, resolved with a communication programme explaining the project and the opportunities it brings to the community. In a press statement, Base said: “The few more recent localised events have represented illegal actions by a small minority that were dealt with by the Malagasy legal system. “It is therefore disappointing that the Malagasy Government has now stated this as a justification for requiring a suspension.” Base also noted that it continues to engage in a ‘transparent and respectful dialogue’ with the Madagascar Government to deepen its communication on the understanding of the significant benefits of the project. The company acquired the project from the Toliara Sands Company in January 2018 and renamed it to Base Toliara. In December 2017, Base Resources signed a $75m agreement with World Titane Holdings to acquire an 85% interest in the Toliara Sands project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
