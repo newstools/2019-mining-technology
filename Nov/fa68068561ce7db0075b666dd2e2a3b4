@@ -1,0 +1,15 @@
+Gold-copper producing firm Orvana Minerals has announced plans to suspend mining operations at its Las Tojas gold mine in Bolivia. The suspension is said to be effective on or before the end of this year. Las Tojas gold mine is wholly owned through the company’s subsidiary Empresa Minera Paititi SA (EMIPA). Orvana noted that it is suspending operations at the mine due to a higher than expected ore grade operational mining dilution leading to an uneconomic unitary cost per ounce. The mineralised structures are also narrow and discontinued. The miner said that the previously announced development and engineering of the Oxides Stockpile project will continue. It anticipates full production of the sulphidisation circuit and other ancillary facilities for financial year 2021. Orvana CEO Juan Gavidia said: “Given the anticipated near-term transition into our Oxides Stockpile project, it is the right decision to suspend operations at Don Mario to mitigate a higher unitary cost burden onto the company. “Subject to a favourable outcome of the analysis of the feasibility of the oxides stockpile, we are committed to funding and building the Oxides Stockpile project, which is expected to commence in early FY2021, with 33 months of expected low-cost gold and copper production. “As for our El Valle production, we have worked very hard over the past four years to ensure that the operations are stable, and delivery of gold production remains sustainable.” The Don Mario project has a mineral resource estimated at 2.18Mt with an average gold grade of 1.85g/t. It contains 386,950oz of gold equivalent.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
