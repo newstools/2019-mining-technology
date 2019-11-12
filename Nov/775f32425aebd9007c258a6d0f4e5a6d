@@ -1,0 +1,15 @@
+British Steel to be sold to Chinese firm Jingye. Credit: © British Steel. Chinese industrial giant Jingye Group has agreed to buy the business and assets of bankrupt British Steel for an undisclosed sum. The deal comes after Jingye and the UK Government’s Official Receiver signed contracts related to the sale. The acquisition, which is worth approximately £50m, could safeguard 4,000 jobs, reported The Guardian. British Steel assets involved in the deal include steelworks at Scunthorpe, UK steel mills and the subsidiary businesses of FN Steel. Jingye will also acquire the British Steel France and TSP Engineering units. The sale may also include the shares owned by British Steel in the Redcar Bulk Terminal. The contract is expected to be completed following receipt of essential regulatory approvals and specific employee consultation procedures. In a press statement, British Steel said: “The business will continue to trade as normal, during the period between exchange and completion, whilst assisting Jingye to plan for the future. “Support from employees, suppliers and customers since the liquidation has been a critical factor in achieving this outcome.” The Chinese bidder, through strategic acquisition, plans to expand British Steel’s operations to develop operations and expand their presence. In May, British Steel collapsed into liquidation, putting around 5,000 jobs directly at risk. Jingye said it anticipated making job offers ‘to as many employees across the business as possible’, reported the BBC. Group chairman Li Ganpo also said it would spend £1.2bn over the next decade “improving the company’s environmental performance… and boosting energy efficiency to place the operations on a more competitive and sustainable footing”.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
