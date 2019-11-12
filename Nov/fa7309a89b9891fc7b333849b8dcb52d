@@ -1,0 +1,15 @@
+Sirius Minerals has announced it is seeking to secure $600m in funding for the first stage of its North Yorkshire polyhalite mine in the UK. The company has also unveiled development and optimisation plans for the two-stage development of the project. Until now, Sirius’ project development and financing plans have been primarily built on achieving first polyhalite as quickly as possible and to speed-up full production to generate returns for shareholders. The company said construction would now include an initial phase with shaft sinking to achieve first production polyhalite ore body. Sirius Minerals noted that strategic partner and financial investor processes were underway, so as to raise the initial scope of funding. It plans to undertake a strategic review to look at ways of securing a funding lifeline that demonstrates current net present values (NPV) of the project estimated at 13Mtpa. Sirius Minerals managing director and CEO Chris Fraser said: “Our focus during the first phase of the strategic review has been to reassess the best ways to unlock the value of our project for our shareholders, our community, the UK, and our customers all around the world. “Our analysis has identified a two-stage development plan that enables us to achieve the key de-risking milestone of first polyhalite, when the service shaft reaches the polyhalite ore body, with an upfront capital requirement of $600m. “The additional works required to reach an installed and ramped up production capacity of 10Mtpa contemplates up to $2.5bn of capital expenditure.” In February 2018, Sirius Minerals signed a design and build contract with KGHM subsidiary DMC Mining Services to construct the required four shafts. In September 2016, the company noted that it was all set to receive $2.6bn in funding for the project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
