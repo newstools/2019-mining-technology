@@ -1,0 +1,15 @@
+Gold miner Semafo has announced the suspension of operations will continue at its Boungou mine in Burkina Faso until security is fully assured. The mine has remained closed after an attack on a convoy of the Canadian miner’s workers left 39 dead. A total of 241 workers were involved in the attack when five buses were ambushed by unidentified assailants approximately 40km from the Boungou mine. Semafo has reported that around 60 were injured, with 141 accounted for. One person still remains unaccounted for. In a statement, Semafo said: “In addition to the impact on people, the unprecedent scale and nature of the attack has made basic administration and logistics very difficult. “It will take some time to evaluate the new operating environment and to assess how we will be able to operate in a safe and secure manner in Burkina Faso. Until such time the Boungou Mine operations will continue to be suspended.” The company deployed a helicopter over the weekend to transport people from the Boungou mine site. Boungou mine is located 355km east of Ouagadougou in Burkina Faso. It was forecast to produce 220,000-240,000 ounces of gold in 2019. Semafo president and CEO Benoit Desormeaux said: “Many of the people on-site need to be home with their families and to recover from last week’s incident. “Myself and most of our senior management team are in-country ensuring all those affected are getting the support they require. Our priority continues to be their safety, security and well-being.” The incident also involved members of Semafo’s partner company Perenti’s workforce from African Mining Services (AMS).
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
