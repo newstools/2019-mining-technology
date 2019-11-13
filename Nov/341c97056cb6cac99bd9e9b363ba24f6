@@ -1,0 +1,15 @@
+Previous exploration  in the Maniry area has defined around 34  zones of prominently outcropping graphite mineralisation. Source: James St. John Australian mining company BlackEarth Minerals has announced the launch of a large-scale mining pilot programme at Maniry in southern Madagascar. The project has already shipped an initial 250kg of graphite to Beijing General Research Institute of Mining and Metallurgy’s (BGRIMM) facility in China, and is set to excavate an additional 60 tonnes of bulk material. The testing is expected to start shortly in order to establish beneficial operating conditions ahead of the second stage of the pilot plant program. The outcomes from the second stage of the plant programme are essential for finalising the company’s process development work and bankable feasibility study, which is due to be completed in H2 2020. Commenting on the company’s ambitions, BlackEarth Minerals managing director Tom Revy said: “BlackEarth continues to meet the milestones required to progress the company from graphite developer to producer. “[The company] continues to take consistent steps towards formalising binding offtake agreements and the completion of the bankable feasibility study. We look forward to continuing to advance the Maniry graphite project over the coming period,” he added. Mining at the site has commenced with cooperation and involvement of local communities and the present excavation activities are expected to be completed by late November 2019. Following this, another bulk sample will be shipped to BGRIMM in January 2020. The full trial mining and piloting project includes the understanding of early mining conditions, final process design criteria, final equipment sizing and power draws, analysis and test work on the final tailings, and concentrate sampling to finalise binding offtake arrangements prior to the commencement of construction. Previous exploration work in the Maniry area of Madagascar has defined around 34 large-scale zones of prominently outcropping graphite mineralisation over an area 6.5km by 2.5km.  During the course of this project the 7km x 3km large area is expected to produce between 260-380 million tonnes of graphite at 6-8% Total Graphitic Carbon.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
