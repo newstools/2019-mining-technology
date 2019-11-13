@@ -1,0 +1,15 @@
+BHP to roll out autonomous trucks at Goonyella mine in Queensland. Credit: CFMEU Mining and Energy Division, Sydney. BHP Mitsubishi Alliance (BMA) has announced the decision to implement autonomous haulage at the Goonyella Riverside coal mine in Queensland next year. BMA, which is a 50:50 joint venture between BHP and Mitsubishi, said autonomous haulage is expected to create a safer work environment. In BMA-BHP’s presentation to employees, the company noted that the decision will not result in any employee redundancies either forced or voluntary. However, the company said that autonomous haulage could mean ‘reduced need for truck operator roles’, adding it could open new autonomous jobs such as controllers, field officers, and service technicians. A total of 86 Komatsu trucks will be deployed in the coming two years. The first autonomous trucks are not expected to be operational until the first half of 2020. The technology is designed to increase truck hours and deliver more consistent cycle times while reducing risk exposure and decreasing significant events. BMA Asset president James Palmer said: “Autonomous haulage will help us improve safety and productivity performance, and it is our people who will be at the centre of making this change a success.” Meanwhile, miners’ union CFMEU Mining and Energy called on BHP to protect workers. CFMEU Mining and Energy Queensland president Stephen Smyth added: “BHP can choose to put the interests of the workforce and local community at the centre of their automation strategy or simply chase profits by replacing good local jobs with robots. “By failing to engage in any consultation or provide information to the workforce, they appear to be chasing profits at the expense of workers. “At the end of the day, if this industry is just creating dust and traffic without generating good local employment and economic activity, it will lose its social licence to operate. “That’s why we need governments to step up and make sure that these companies earn their social license to operate.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
