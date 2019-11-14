@@ -1,0 +1,15 @@
+Glencore’s Baar head office. Credit: © Glencore. Glencore Canada Corporation has announced plans to permanently close the Brunswick lead smelter facility in Belledune, Canada. The New Brunswick facility will be decommissioned immediately and the smelter will close all operations by the end of this year. The decision is expected to affect the jobs of around 420 employees. Glencore Zinc & Lead Assets head Chris Eskdale said: “The decision to cease lead smelting operations at our Brunswick Smelter was a very difficult one. Despite years of efforts by committed employees and a strong management team, the smelter has been uneconomic since the closure of the Brunswick Mine in 2013. “We have thoroughly assessed all our options and come to the unavoidable conclusion that the smelter is simply not sustainable, regardless of the recent labour dispute.” The company said that it plans to provide pension, severance and outplacement support services for all affected employees. These will be agreed as part of closure settlements. Eskdale added: “We are fully committed to working closely with employees and unions as well as other community stakeholders to mitigate the impact as much as possible.” The company is also looking at various opportunities for Brunswick Smelter workers at its mining and metallurgical operations in other provinces. Meanwhile, several locked-out Brunswick Smelter employees accompanied by United Steelworkers (USW) union activists are scheduled to block three Glencore operations in the Montreal area. The dispute is about maintaining health and safety standards. USW Local 7085 President Bart Dempsey said: “The health of workers cannot be jeopardised as a cost-saving measure. This is not acceptable.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
