@@ -1,0 +1,15 @@
+WestStar Industrial has executed a share sale agreement to purchase 100% of Australian construction and maintenance services firm Alltype Engineering. The Alltype acquisition enables WestStar to expand its end-to-end project solutions capabilities through workshop fabrication, site installation, construction and maintenance services for industries across private and public sectors. WestStar will pay A$5.9m ($4.04m) in an upfront payment, along with a deferred consideration subject to Alltype achieving its earnings targets. Alltype delivered revenues of $29.8m during the 2019 financial year. Under the acquisition, WestStar will acquire advanced property, plant and other equipment related assets from Alltype Engineering. WestStar Group CEO Robert Spadanuda said: “Alltype is a well-established and respected name in the industry and WestStar looks forward to pursuing the strategic integration opportunities, along with a greater diversity in disciplines and proven client relationships that Alltype provides. “This acquisition broadens WestStar’s horizons and will significantly accelerate it towards increased revenues and earnings. With the addition of Alltype, continued growth in SIMPEC and continued execution of our growth strategy, we look forward to continuing to build a strong, diversified, engineering company.” Alltype’s customers include mining giants such as BHP, Rio Tinto, FMG and South 32 among others, and it has a 7,000m² fully-equipped workshop for steel fabrication. It also serves ferrous and non-ferrous mining and mineral processing requirements across Australia. Alltype Engineering managing director Kelvin Andrijich said: “We are excited by the opportunity to join WestStar and see it as a valuable opportunity for each of Alltype and WestStar to continue their growth with there being significant opportunities from a combination of the Alltype and WestStar businesses.” The acquisition is expected to be completed in January next year, subject to satisfaction or waiver of the necessary conditions.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
