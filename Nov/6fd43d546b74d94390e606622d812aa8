@@ -1,0 +1,15 @@
+Mandalay Resources has signed a definitive agreement with Aftermath Silver to sell its Minera Mandalay Challacollo (MMC) project. MMC is the owner of Challacollo silver-gold project located in Region I (Tarapaca) of Chile. Challacollo is an epithermal deposit which hosts silicic volcanic and associated sedimentary rocks in the Cretaceous Challacollo Volcanic Complex. The total deal is valued at C$10m ($7.5m). Under the terms of the agreement, Aftermath will buy 100% of MMC in exchange for consideration of up to C$7m ($5.28m) in non-contingent payment. It will also pay a 3% net smelter returns (NSR) royalty of C$3m ($2.26m) upon commencement of production at the Challacollo project. Of the non-contingency payment of C$7m ($5.28m), Aftermath will pay C$1m ($0.75m) this month, C$1m in December next year, and the remaining C$5m ($3.77m) in April 2021. Mandalay Resources CEO Dominic Duffy said: “We are pleased to see the Aftermath transaction executed and the restart of an exploration campaign on the concession. “This transaction continues Mandalay’s objective of creating value from its non-operating assets, with the previously announced transactions at Cerro Bayo and the sale of non-core concessions at Challacollo to a third party, also completed in the last quarter. “Mandalay is now well-positioned to focus on improving operations at Björkdal and Costerfield with these projects in Chile resolved.” The transaction is expected to complete following the satisfaction of certain closing conditions. After completion of the transaction, Aftermath can conduct certain exploration and drilling activities on the Challacollo project. It will also conduct an exploration campaign on existing permitted drill pads, said Mandalay.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
