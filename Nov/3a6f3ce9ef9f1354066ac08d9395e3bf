@@ -1,0 +1,15 @@
+The Orica and Epiroc automation partnership aims to redefine underground drill and blast operations. Credit: Orica Limited. Swedish mining equipment manufacturer Epiroc and commercial explosives provider Orica have formed a strategic collaboration to develop a semi-automated explosives delivery system. The system is designed to allow safer, more productive blasting operations in underground mines. Under the partnership, the two entities will meet the growing demand for mining in more hazardous and challenging underground conditions. Orica chief commercial and technology officer Angus Melbourne said: “This exciting partnership with Epiroc will allow us to leverage our exclusive wireless initiating system, WebGen, to deliver the critical first steps towards the automation of drill and blast operations. “Automation is a key pillar of our technology strategy and supports our vision of transforming drill and blast to unlock mining value by creating safer and more sustainable operations.” As part of the partnership, Orica and Epiroc will jointly optimise the process of explosives charging for underground mining operations. Epiroc Mining and Infrastructure senior executive vice-president Helena Hedblom said: “This promising collaboration with Orica is an important first step on an exciting journey toward automating the whole drilling and explosives charging process. “It is a vital part of both Epiroc’s and Orica’s vision of making the mining operation as safe, productive and cost efficient as possible.” The first prototype system is expected in 2020, while the first commercially available systems are scheduled to be operational the following year. Orica is a provider of commercial explosives and blasting systems to the mining, oil and gas, as well as construction markets, while Epiroc develops underground mining equipment including face and production drill rigs.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
