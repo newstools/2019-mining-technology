@@ -1,0 +1,15 @@
+Rio Tinto supports rehabilitation of the Ranger uranium mine. Credit: Energy Resources of Australia Ltd. Rio Tinto has announced that it will subscribe to $221m rights shares of Energy Resources of Australia (ERA), which is required to close and rehabilitate the Ranger uranium mine. The Ranger project is located in Australia’s Northern Territory. Rio Tinto holds a 68.4% stake in ERA, which plans to raise a total of $324m for the rehabilitation of the Ranger project area. If ERA is unable to secure funds from third parties, Rio Tinto has agreed to fully underwrite the offer so as to make sure enough funds are available to meet rehabilitation obligations. Rio Tinto Energy & Minerals group executive Bold Baatar said: “We take mine closure very seriously and ensuring ERA is able to fund the closure and rehabilitation of the Ranger Project Area, through participating in this entitlement offer, is a priority. “We have committed to supporting this offer with the objective of ensuring ERA is in a position to rehabilitate Ranger to a standard that will establish an environment similar to the adjacent Kakadu National Park.” Rio Tinto said that ERA has time until January 2021 to end mining activities, and until January 2026 to complete final rehabilitation of the Ranger area. ERA finalised its closure feasibility study for the rehabilitation in February. In another statement, ERA said that Ranger rehabilitation expenditure is not expected to generate any direct financial return for the company. In June 2015, ERA announced that half of its board members had resigned following the halting of its final feasibility study for the Ranger mine development.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
