@@ -1,0 +1,15 @@
+The International Tin Association (ITA) and the Responsible Minerals Initiative (RMI) have jointly published new assessment criteria for tin smelting companies. The new criteria seek to clarify a common upstream and downstream view of due diligence requirements for the tin supply chain. These criteria, developed as part of cooperation between ITA and the RMI through a MoU, are designed to be in line with the internationally recognised Organisation for Economic Co-operation and Development (OECD) due diligence guidance. The new criteria will be used by RMI to replace their ‘Tin Standard for the Responsible Minerals Assurance Process (RMAP)’ following the completion of a transition period. According to ITA, the criteria will also set the needs for responsible sourcing to be assessed by new evaluation processes under the ITA’s Code of Conduct for tin mining, smelting and recycling operations. ITA sustainability head Kay Nimmo said: “We are excited to announce this important step forward in progressing due diligence and responsible sourcing for the tin industry. “We are proud to be able to bring together multiple views of complex due diligence expectations into this one new harmonised text which will be recognised by assessment processes of both our organisations and the market. “This will not only improve risk management but will help to streamline information requests through the supply chain.” ITA stated that the new criteria will enable audit firms and their respective individual auditors to conduct checks to find out if any smelter has implemented OECD due diligence. After a wide range of consultation feedback from stakeholders across the tin supply chain, ITA said that the criteria have been improved. Responsible Business Alliance vice-president Leah Butler said: “This further demonstrates the leadership of both ITA and the RMI, and their determination to tackle the very significant challenges involved in bringing the entire supply chain together to provide realistic but robust solutions for the responsible production and sourcing of tin.” RMI is an initiative of the Responsible Business Alliance (RBA). It is an independent body that addresses responsible mineral sourcing issues in mining supply chains.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
