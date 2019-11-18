@@ -1,0 +1,15 @@
+Sibanye-Stillwater’s Rustenburg operations. Credit: Sibanye-Stillwater. South Africa’s platinum mining union Association of Mineworkers and Construction Union (AMCU) has signed three-year wage hike agreements with Anglo American Platinum (Amplats), Impala Platinum (Implats), and Sibanye-Stillwater. The announcement comes after months of negotiations over pay for the workers of the platinum group metals (PGMs) miners. In a press statement, Amplats noted that its wage agreement included an increase of R1,000 ($67.8) a month in basic pay for three years, or 5.5%, whichever is greatest, for each year of the agreement. In addition to the increase in basic pay, Amplats employees will also receive an ex-gratia payment of R1,000 ($67.8) in July 2020 and R1,500 ($101.8) in July the following year. Amplats CEO Chris Griffith said: “We believe this agreement will ensure the business can remain sustainable through the typical PGM price cycles, while our employees will benefit from meaningful pay and other increases.” Meanwhile, Implats’ operating subsidiaries, Impala Platinum Rustenburg operations and Marula Platinum, agreed to a wage deal that assures employees of increases to all major components of remuneration for the next three years, including basic salaries, medical aid and pension fund contributions. Implats said in a statement: “The agreement is in line with current mining inflation of c.7% and takes into consideration the reality of inflationary pressures faced by our employees. “The agreement removes substantial uncertainty for our employees and allows a singular focus on the pursuit of safe and sustainable production.” Precious metals producer Sibanye agreed to increases to the basic wage of Category 4 to 9 surface and underground employees for both the Marikana and Rustenburg operations of R1,000 ($67.8) a month or 5%, whichever is the higher for the first, second, and third year of the agreement. AMCU chief negotiator Jimmy Gama was quoted by Reuters as saying: “It has never been an easy journey … but we managed to come to this day where we are all smiling.” The Commission for Conciliation, Mediation and Arbitration (CCMA) played a major role in the wage deal.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
