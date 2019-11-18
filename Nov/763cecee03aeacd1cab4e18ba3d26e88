@@ -1,0 +1,15 @@
+MMK plans to invest $600m on environmental projects. Credit: Magnitogorsk Iron & Steel Works. Russia’s oldest steel-making firm Magnitogorsk Iron & Steel PJSC (MMK) has announced plans to invest $686m in sustainable development projects. MMK noted that its latest strategy is focused on sustainable development principles, which showcase a balance between operational and financial performance improvement. The company’s strategy will be implemented through an investment programme. Social responsibility along with environmental protection is also included in the company’s strategy. The steel major mentioned that a key strategic priority for the company is to enhance the environmental situation in Magnitogorsk city in Russia. MMK Board of Directors chairman Viсtor Rashnikov said: “We have been focused on the consistent implementation of our development strategy and during the new investment cycle have already completed a number of key projects aimed at expanding MMK Group’s footprint in the segments for high-margin products. “We continue to implement our large-scale investment programme focused on upgrading and improving efficiency of sinter, coke and blast-furnace production processes.” According to Rashnikov, the company intends to keep annual investment at about $900m per annum until 2023, followed by a decrease in 2024 and 2025. The implementation of these programmes will enable the company to reduce its air emissions and water pollutants discharge to an additional 20% and 70% respectively, by 2025. According to Bloomberg, MMK was previously known as a serial polluter, with steel factories near Russia’s Urals Mountains polluting the snow-capped peaks. Earlier this month, MMK said that the Comprehensive Air Quality Index (CAQI) indicator for Magnitogorsk has almost halved over the past two years, according to official data. This is a clear indication of a twofold improvement in air quality, recorded as the lowest in Magnitogorsk’s history.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
