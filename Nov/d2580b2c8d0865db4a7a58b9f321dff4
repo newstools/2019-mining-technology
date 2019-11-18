@@ -1,0 +1,15 @@
+Exploration and development firm Savannah Resources has conditionally secured third mining concession (9228C) for the Mutamba project in Mozambique. The mining concession 9228C was awarded by Mozambique’s Minister of Mineral Resources and Energy for the Mutamba Heavy Mineral Sands project. The award represents a significant achievement for Savannah which operates a joint venture with Rio Tinto. It has a term of 25 years, which is valid until 3 September 2044, with a possibility of 25 additional years towards mine-life extension. The mining concession covers an area of 11,807ha and is contiguous with 9735C and 9229C concessions, which were secured by Savannah in September. These permits cover ground in Inharrime and Jangamo districts in southern Mozambique. The Mutamba project is in close proximity to the North/South EN1 highway and the port of Inhambane. It also benefits from a high-quality established transport infrastructure, a daily air service to Inhambane, and grid power. Mutamba has an Indicated and Inferred Mineral Resource of 4.4Bt at 3.9% total heavy minerals and constitutes one of the largest remaining mineral sands deposits in the world that is yet to be developed. Savannah CEO David Archer said: “The conditional award of the third Mining Concession to Mutamba Minerals Sands SA completes the tenement set of the Mutamba Project in Jangamo/Inharrime and represents a significant achievement for Savannah in its joint venture with Rio Tinto. “To finalise the process, the normal administrative payments and processes need to be completed; these are currently underway for all three licences. “We are completing the administrative conditions in a chronological manner following which all three licences will be fully formalised in due course, which, when completed, will continue to consolidate our position in the Mozambican mining industry. “Once these three Concessions are formalised, they will enable the joint venture with Rio Tinto to progress the Pre-feasibility study (PFS) towards completion.” The company’s interest in the heavy mineral sands project will rise from 20% to 35%, upon completion of the PFS.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
