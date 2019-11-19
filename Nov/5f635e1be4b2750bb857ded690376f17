@@ -1,0 +1,15 @@
+Barrick Gold has agreed to sell its 50% stake in Kalgoorlie Consolidated Gold Mines (KCGM) to Saracen for a cash consideration of $750m. Located adjacent to the town of Kalgoorlie, the mine is around 550km east of Perth, Western Australia. Barrick owns a 50% interest in KCGM and the remaining 50% is held with Newmont Goldcorp. Barrick president and CEO Mark Bristow said: “The sale of our non-operating interest in KCGM represents the first step in our plan to realise in excess of $1.5bn from the disposal of non-core assets by the end of next year. “While this iconic gold mine has been a valuable contributor to Barrick over the years, the asset does not fit with our strategy of operating mines that we own. The sale allows us to further focus our portfolio on core operations.” Funds generated from the sale will be used to strengthen the balance sheet and to deliver returns to the company’s shareholders. For expected completion in the fourth quarter this year, finalisation of the transaction is dependent on meeting customary closing conditions. Credit Suisse Securities has been appointed as the financial advisor, while Davies Ward Phillips & Vineberg and Herbert Smith Freehills are serving as legal counsel to Barrick for the transaction. In a statement, Saracen managing director Raleigh Finlayson said: “The Super Pit is a Tier 1 Australian gold mine with an outstanding track record of stable, large scale gold production and cash generation over many decades. “We are excited to partner with Newmont Goldcorp who has extensive knowledge of the Super Pit and unrivalled experience in open-pit and underground operations.” The transaction will enable Saracen to produce 600-kilo ounces (koz) per annum solely from the Goldfields region of Western Australia. Saracen said that the strategic acquisition aligns with the company’s strategic objectives.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
