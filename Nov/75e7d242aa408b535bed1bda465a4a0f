@@ -1,0 +1,15 @@
+Accenture’s ‘DARQ mine’ demo features as part of the experiences on offer at Accenture’s new innovation hub. Credit: Accenture. Professional services company Accenture has opened an innovation hub at the Exchange Tower, 2 The Esplanade, Perth, Australia, to help mining and energy firms boost their return on investments in digital technologies. Mining and energy firms will also have the opportunity to explore technologies such as Cloud computing, artificial intelligence (AI), the internet of things (IoT), and virtual and augmented reality. Other technology innovations that can be explored include quantum computing, blockchain and drones. Accenture Australia and New Zealand chairman Bob Easton said: “The new hub delivers innovation to our clients’ doorsteps here in Australia. “We invest locally and leverage Accenture’s global capabilities to develop innovation that puts Australia on a world stage.” The hub is designed to improve sustainability, cybersecurity, health, worker safety and productivity, and machine performance. It joins innovation hubs of Accenture’s other Australian locations in Melbourne, Sydney and Canberra and adds to the expansion of the company’s global network of more than 100 Industry X.0 centres, which are dedicated to digital reinvention. These centres use latest digital technologies and strive to improve the way companies engineer products and operate industrial facilities. Accenture Australia and New Zealand Resources sector lead Ann Burns said: “With this new innovation hub, we are helping raise the innovation profile of Western Australia and Australia overall. “We believe that the Western Australian energy and mining sectors can become world leaders in digitalization. Crucial to this is a focus on what we refer to as ‘triple zero’: ideas, design and technologies that help achieve zero harm to workers and machines, zero loss across the value chain, and zero waste for sustainability.” The hub also includes a liquid studio for clients to develop prototypes, a Fjord design studio and a MakerLab for 3D printing.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											}); Enter your details here to receive your free whitepaper.
