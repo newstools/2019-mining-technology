@@ -1,0 +1,15 @@
+Canadian miner Kirkland Lake Gold has signed a definitive agreement to acquire all of the issued and outstanding securities of Detour Gold for C$4.89bn ($3.68bn) in an all-stock deal. The acquisition will add a long-life, high-quality asset to Kirkland Lake and is expected to strengthen the company’s financial strength and capital markets profile. Additionally, the transaction adds 15.41 Moz to Kirkland Lake’s mineral reserve base and extends the reserve life index by eight years. Upon completion of the deal, existing Kirkland Lake shareholders will own 73% of the new company, with Detour owners holding the remaining 27%. The deal is expected to generate pre-tax savings of around $75m to $100m per annum. Kirkland Lake Gold president and CEO Tony Makuch said: “We have already taken two mining operations, Macassa and Fosterville, and transformed them into high-quality assets that generate industry-leading earnings and free cash flow. The addition of Detour Lake provides an opportunity to add a third cornerstone asset that is located in our back yard in Northern Ontario. “Turning to exploration, we are planning extensive drilling at highly prospective exploration targets within the 1,040km2 Detour Gold land position, where we believe there is considerable potential for new discoveries to support future mineral resource growth. “Other anticipated components of this programme include ongoing drilling at Macassa to grow the South Mine Complex and identifying high-grade gold zones along the Amalgamated Break, as well as continued extensive exploration at Fosterville and Northern Territory.” Kirkland Lake noted that the company’s 2019 production is targeted to have gold production of approximately 1.5Moz and free cash flow of $700m. The transaction is subject to shareholder and court approvals, applicable regulatory approvals including, but not limited to, TSX approval and approval under the Competition Act (Canada). It is expected to close by the end of January next year.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
