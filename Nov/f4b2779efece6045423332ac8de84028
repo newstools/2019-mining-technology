@@ -1,0 +1,15 @@
+High grade gold ore from Red Lake mine in Ontario, Canada. Credit: James St. John. Australian gold miner Evolution Mining has signed a deal to acquire Newmont Goldcorp’s Red Lake gold complex for $375m in cash. As part of the agreement, Evolution Mining will also pay an additional $100m in contingent payments upon discovery of new resources. Located in western Ontario, Canada, Red Lake is an underground gold mining complex comprising the Red Lake and Campbell complexes. Under the $100m contingent payment terms, Newmont Goldcorp will receive $20m from Evolution Mining over a 15-year period for each one million ounces of new gold resources added to the existing Red Lake resource base. Newmont Goldcorp noted that the contingent payment is applicable to the first five million ounces of new resources. The company intends to use funds from the transaction to support its capital allocation priorities of returning cash to shareholders, maintaining an investment-grade balance sheet, and investing in a new portfolio. Newmont Goldcorp president and CEO Tom Palmer said: “This transaction both strengthens our balance sheet and provides ongoing exposure to new discoveries at Red Lake. “Evolution is a highly respected and responsible gold producer who is committed to the success of Red Lake and who we believe will prove a great partner for surrounding communities and stakeholders.” The sale was part of Newmont Goldcorp’s efforts to streamline its asset base. Meanwhile, Evolution Mining said that the acquisition will be funded through an A$600m ($407m) loan facility. Evolution Mining executive chairman Jake Klein said: “Red Lake is an undercapitalised asset which, through a committed investment in development and exploration, is intended to become a cornerstone asset in the Evolution portfolio. “The camp has significant exploration potential which, coupled with its relatively unexplored recent past, provides significant upside potential for Evolution to extend the longevity of the operation well beyond its current 13-year life of mine plan.” The transaction is expected to close in the first quarter of next year.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
