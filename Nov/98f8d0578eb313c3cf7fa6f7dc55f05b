@@ -1,0 +1,15 @@
+Teranga Gold has achieved commercial production at its second mine Wahgnion, a gold mine located in southwest Burkina Faso. The Wahgnion mine is expected to achieve the upper end of its 2019 production guidance of 30,000oz to 40,000oz of gold. Following the first gold pour in August, Wahgnion has already produced 10,620oz. It comprises a mine license area of 89km² and a regional exploration land package covering 933km². Teranga holds a 90% stake in the project, while the remaining 10% is held by the Burkina Faso Government. The company is edging closer towards attaining mid-tier status with commercial production from its second mine. Teranga Gold chief operating officer Paul Chawrun said: “The Wahgnion plant is running at or above nameplate capacity, recovery rates are well above 90%, and costs are tracking in line with our 2019 guidance. “With the successful ramp up to commercial production, Wahgnion is expected to finish the year at the upper end of its production guidance for 2019. “Now that we have achieved commercial production, in the new year our attention will turn to conducting a reserve development programme focused on optimising the mine plan and adding reserves to extend the current 13-year mine life.” The project is expected to increase the company’s annualised gold production by 50% to between 300,000oz and 350,000oz. The processing plant is designed to be a 2.4Mtpa conventional carbon-in-leach (CIL) plant comprising a primary crushing unit. Teranga Gold secured a debt finance facility with Taurus Funds Management in March 2018, under which $165m has been allocated for developing the gold project and repaying debt.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
