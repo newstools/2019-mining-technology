@@ -1,0 +1,15 @@
+Riverside Resources has acquired the Pichette gold project, marking its third gold portfolio acquisition in Ontario, Canada. The Pichette project is located near Jellicoe in the Beardmore-Geraldton Greenstone Gold Belt. It is located to the east of the former producing Hardrock gold mine. Spread across 536ha, the project hosts orogenic gold. Work at Pichette in recently included prospecting, mapping and surface sampling of target regions that are traced from aeromagnetic data and outcrop mapping in the region. The initial work was aimed at expanding the understandings derived from mining at Hardrock, allowing Riverside to develop shallow gold targets capable of hosting high-grades at Pichette. Pichette covers part of the Beardmore-Geraldton Greenstone Gold Belt region. The mine is easily accessible and has paved roads to support survey and drilling work during all seasons. Riverside Resources president and CEO John-Mark Staude said: “We are very pleased to continue growing Riverside’s Canadian portfolio with an additional gold project with great potential in the Beardmore Geraldton Gold Belt. “Riverside has now built a quality, easily accessible, readily drillable portfolio of three projects in Ontario adjacent to large higher-grade gold mines.” The company plans to explore partnerships to commence drill testing these prospects next year. According to Riverside, historical drilling in the project area mainly focused on quartz veins and mineralisation associated with geological contacts particularly between meta-sediments and meta-volcanic packages. Underlain by east-west trending and steeply south to vertically dipping metavolcanic and metasedimentary rocks, the Pichette project is transected by an east-west trending brittle and ductile shear zone.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
