@@ -1,0 +1,15 @@
+Piedmont Lithium has secured a Clean Water Act (CWA) Section 404 permit from the US Army Corps of Engineers (USACE) for its fully owned Piedmont lithium project in North Carolina. Based on the company’s permit application submitted in December last year, the USACE completed an environmental assessment (EA) of the project in partnership with six other state and federal agencies. Piedmont noted that the EA resulted in ‘Finding of No Significant Impact’ for the lithium project. The Section 404 permit, which was issued 11 months after application, is the primary federal permit required for Piedemont’s proposed mine and concentrator. Additionally, the company received a CWA Section 401 Individual Water Quality Certification permit from the North Carolina Division of Water Resources. Both these permits represent a significant milestone in the development of the project. With these permits in hand, Piedmont will now proceed to conduct a preliminary feasibility study (PFS) for its lithium hydroxide plant at the site in the second quarter of next year. It will also provide a definitive feasibility study (DFS) for the project by the end of next year. Piedmont Lithium president and CEO Keith Phillips said: “Securing a Section 404 Individual Permit is a major milestone for any natural resource project in the US, and we are very pleased to have received this authorisation. “Our project is unique in being the only spodumene-to-hydroxide project in the US, and now also stands out as the most advanced American lithium project from a permitting perspective. “We are very excited about the important milestones ahead of us as we look to deliver a DFS for a fully permitted integrated project by the end of 2020.” HDR Engineering’s Charlotte Office served as lead consultant in the preparation of both Section 404 and Section 401 permit applications.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
