@@ -1,0 +1,15 @@
+The Michigan Department of Environment, Great Lakes, and Energy’s (EGLE) environmental review panel has upheld a court ruling granting a Michigan Nonferrous Metallic Mineral mining permit to Aquila Resources for its Back Forty mine project in the US. The final decision and order were previously made by an Administrative Law Judge in favour of the Michigan Nonferrous Metallic Mineral Mining Permit for the project. Back Forty is Aquila’s fully owned zinc and gold-rich volcanogenic massive sulphide (VMS) deposit. After the judge’s ruling in May, the Menominee Indian Tribe of Wisconsin appealed the decision to the environmental review panel. The Menominee Indian Tribe of Wisconsin and an individual owner near the project site filed an administrative contested case challenge in February 2017 to the granting of the mining permit by the Michigan Department of Environmental Quality, which is now EGLE. The legal issue faced by the mine was if the runoff from the mine will contaminate the river as well as other environmental and cultural assets expressed by the tribe. According to the latest EGLE’s three-person panel review, the panel unanimously voted in support of the earlier ruling, which identified that ‘the proposed mining operation will not pollute, impair, or destroy the air, water, and other natural resources, or the public trust in those resources’, in compliance with Michigan’s nonferrous metallic mining statute. Aquila Resources president and CEO Barry Hildred said: “Michigan’s environmental standards for mining are among the strictest in the world, and we look forward to continuing to demonstrate our commitment to environmental responsibility and sustainable resource development that benefits all stakeholders. “The Back Forty Mine will be a safe, disciplined operation that promotes and supports local community socio-economic development and is protective of the environment.” Aquila completed a preliminary economic assessment (PEA) for the project, while an open pit feasibility study was published in August last year. In April 2017, Aquila received a National Pollutant Discharge Elimination (NPDES) permit, which was the third among the four necessary approvals for the project. The company received the first two permits for the project in January 2017.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
