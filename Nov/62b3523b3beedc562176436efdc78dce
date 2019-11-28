@@ -1,0 +1,15 @@
+Rio Tinto is to invest $750m in the WTS2 mine. Credit: Copyright © 2018 Rio Tinto. Global mining group Rio Tinto is set to invest A$1bn ($749m) in the Western Turner Syncline Phase 2 (WTS2) mine, which is part of the company’s Greater Tom Price operations. The move is aimed at maintaining production at the company’s iron ore business in the Pilbara region of Western Australia. The Greater Tom Price hub includes the Tom Price, Western Turner Syncline Phase 1 and WTS2 satellite hubs. With the latest investment in the WTS2 mine, the company will be able to mine existing and new deposits. As part of this, the company will also construct a new crusher as well as a 13km conveyor. With the new conveyor system in place, greenhouse gas (GHG) emissions from the mine can be reduced by 3.5% when compared to road haulage. Additionally, the haul truck fleet at the WTS2 mine will be equipped with Autonomous Haulage System (AHS) technology for autonomous haulage beginning 2021. By the end of the year, the company plans to operate about half of its haul truck fleet autonomously. Plans are under consideration to expand this initiative, going forward. Upon receiving approvals from the government, Rio Tinto will begin construction in the first quarter of next year. First ore from the crusher is expected in 2021. The company noted that the project is expected to deliver an internal rate of return (IRR) with a capital intensity of approximately $25/t of production capacity. Rio Tinto Iron Ore chief executive Chris Salisbury said: “Our iron ore business continues to deliver industry-leading margins as we drive performance from our mines. “This significant investment in the Greater Tom Price hub is one of a pipeline of high-quality, low-cost options that will underpin production of our flagship Pilbara Blend product well into the future.” The investment in the WTS2 mine will help sustain the existing employees at the Greater Tom Price production hub. At the peak of the construction period, the workforce is expected to increase to more than 1,000 people. The WTS2 mine is located approximately 35km north-west of the Tom Price mine.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
