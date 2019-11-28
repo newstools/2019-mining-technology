@@ -1,0 +1,15 @@
+Nifty copper mine is located in Western Australia. Credit: Alexas_Fotos from Pixabay. Minerals and metals exploration and development firm Metals X has decided to immediately suspend mining activities at its Nifty copper mine in Western Australia. The latest move comes after the completion of a review of Nifty Copper Operations announced this month as the mine continued to perform below expectations. Metals X will process current ore stocks at the mine throughout next week. According to the company, the mine and its associated processing facilities and infrastructure will be placed on care and maintenance. The decision to suspend operations at the Nifty copper mine will allow Metals X to focus on its 50% joint venture (JV) stake in Renison tin operations in Tasmania. Despite the improved resources and reserves following the Nifty reset plan announced in May, production has recently reduced and the review showed Metals X was unlikely to achieve planned production at a reasonable cost. Metals X managing director Damien Marantelli said: “Alongside preserving and growing value for our shareholders, the company’s priority is the welfare of our 320 staff and approximately 110 contractors who have worked tirelessly to improve the culture and operational performance at Nifty. “The company is in discussions with people affected by these changes. We will require a small workforce to ensure the mine and associated infrastructure is appropriately maintained so that it could be quickly returned to production, but there will be approximately 290 staff losses, the cost of which has been fully incorporated into the initial cost of implementing the suspension of operations.” Metals X acquired Nifty as part of the takeover of Aditya Birla Minerals in August 2016.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
