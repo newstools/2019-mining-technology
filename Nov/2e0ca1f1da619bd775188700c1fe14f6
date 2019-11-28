@@ -1,0 +1,15 @@
+Fitzroy Australia Resources has suspended operations at the Carborough Downs mine in Queensland following the death of a worker. The incident took place at the underground coal mine, located in the Bowen Basinat Coppabella. It is nearly 20km east of Moranbah and 180km southwest of Mackay. According to a preliminary assessment by the chief inspector of coal mines Peter Newman, the victim was hit by coal from the longwall face when working underground. Fitzroy Australia noted that the mineworker is a long-term employee of the company. Fitzroy Australia Resources CEO Grant Polwarth said: “We are deeply saddened by this news and Fitzroy extends our deepest sympathies to the family, friends and colleagues of the worker.” Polwarth was quoted by Australian Associated Press as saying: “Mine workers are being progressively briefed on the incident as they arrive on-site to commence their shifts and the company has made counselling services available to these workers.” The company had not made any further comment on the incident, and an investigation by the mines inspectorate is currently under way. Commenting on the incident, CFMEU Mining and Energy president Stephen Smyth urged for the implementation of strict manslaughter laws to cover mining and quarries. Smyth told ABC: “There needs to be an overhaul in the level of supervision, both experience and knowledge, and obviously ability to do the job needs to be certainly looked at and put into legislation because this comes far too often, the inexperience.” The Carborough Downs coal mine was acquired by Fitzroy Australia in June 2017 from Brazilian miner Vale. It predominantly produces hard and semi-hard coking coal.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
