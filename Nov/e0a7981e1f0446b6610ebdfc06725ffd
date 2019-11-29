@@ -1,0 +1,15 @@
+W Resources has commenced tungsten and tin concentrate production for sale at its La Parrilla mine in Spain. La Parrilla is located approximately 310km southwest of Madrid, and is in close proximity to both Atlantic and Mediterranean ports. The commencement of production at the mine is a major milestone in the T2 ramp-up phase of La Parrilla. This will enable the company to achieve its targeted 2Mtpa of run-of-mine, with the aim of producing 2,700t of WO3 concentrate. W Resources noted that the tungsten and tin concentrate production aligns with the specifications of La Parrilla standard concentrate. Until now, the grade of the tungsten concentrate has met shipment criteria levels, which is likely to improve further as and when the plant achieves steady-state production. Customers will receive the first shipment from the new concentrator next month. W Resources chairman Michael Masterman said: “We have now reached this significant milestone at La Parrilla as we commence commercial tungsten and tin production and have achieved stable operating plant performance. “We are pleased with initial concentrate production grades, which we anticipate will continue to improve as we move up the ramp-up curve and transition to 24-hour plant operations in December.” The company added that mining and crushing operations are underway, having completed its recent blast of 90,000t of ore and rock at La Parrilla. Recently, W Resources reported concentrator plant commissioning and funding at the mine. In June, the company awarded a mining contract to General de Maquinaria y Excavación (GME) for La Parrilla.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
