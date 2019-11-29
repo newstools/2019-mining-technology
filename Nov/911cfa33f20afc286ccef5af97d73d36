@@ -1,0 +1,15 @@
+OZ Minerals acquired Prominent Hill mine from Avanco in last year. Credit: © OZ Minerals 2017. Mining firm OZ Minerals has begun construction of its Pedra Branca underground copper-gold mine in the southern part of the Carajás in the Pará state of Brazil. It is located 100km south of Parauapebas and 30km east of Canaã. The latest news comes after the company signed a series of inter-linked strategic agreements with Brazilian iron-ore miner Vale. These agreements enable OZ Minerals to use Vale’s extensive transport infrastructure and their processing facilities, while gaining access to small and medium high-grade Vale exploration projects in the Carajás. OZ Minerals said that its Board has granted final investment approval for the approximately one million tonnes per annum (Mtpa) Pedra Branca mine. Decline construction at the mine is expected to start next month. According to the company, first development ore is slated during the mid of next year. OZ Minerals Brazil chief executive Carlos Gonzalez said: “The Vale agreements simplify and focus our activities in the Carajás as well as benefitting Vale by increasing its concentrate sales volumes and creating the potential to receive higher grade ore from OZ Minerals Brazil in the future. “The Vale Carajás concentrate sales agreement utilises Vale’s extensive in-country transport infrastructure which provides logistics and marketing cost savings and simplifies our activities in the region.” The mine has a net present value (NPV) of $55m for a pre-production capital investment of over $35m and when combined with the concentrate sale to Vale, the NPV is said to increase to approximately $75m. After the takeover of Avanco Resources in August last year for A$418m ($323.2m), OZ Minerals aimed at transforming the small open-cut Pedra Branca mine into a larger underground operation. This takeover enables OZ Minerals to access seven mines in the next six years, including Prominent Hill, Carrapateena, West Musgrave, Antas, CentroGold, Pedra Branca and Pantera. Gonzalez added: “The earn-in agreements with Vale provide the OZ Minerals’ Brazilian operations with the option to purchase two additional exploration projects, providing a pathway to potential future mines in the Carajás.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
