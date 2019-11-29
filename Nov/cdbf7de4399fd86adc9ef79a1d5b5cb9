@@ -1,0 +1,15 @@
+Adani Mining has awarded a $35m contract to Wagners. Credit: Adani Australia. Wagners has secured a contract from Adani Mining to deliver a quarry operations package for the Carmichael project in the Galilee Basin in Central Queensland, Australia. The contract, which is valued at more than A$35m ($23.6m), includes the operation of South Back Creek Quarry, which is located approximately 160km outside of Clermont. The operation will enable the supply of quarry materials for supporting infrastructure on the Carmichael mine and rail projects. Wagners noted that the scope of work for the contract is divided into two phases. It will require the production of up to 1.5 million tonnes (Mt) of quarry material for roads, camps, pads, dams and mine civil works for five years. Wagners will also provide the haulage services to deliver quarry materials to various work areas across the Carmichael project. The company plans to hire around 40 people for the contract. Mobilisation will begin immediately for the first stage of works, which will involve production and haulage of around 735,000t of quarry materials over the next 15 months. The second stage of the contract is subject to receiving a ‘notice to proceed’ from Adani late next year or early 2021. Adani Mining Carmichael project director David Boshoff said: “This contract means Toowoomba is the latest regional town to get a piece of the Carmichael pie, with more jobs expected to be generated to deliver and operate the quarry. “We have more than A$500m ($338.3m) in contracts now awarded for the Carmichael project and we are reaching out to all corners of the state to help us deliver them.” Adani noted that the latest award follows the contract, which was awarded to Martinus for rail laying and Decmil’s A$40m ($27.5m) contract to build rail camps on the Carmichael project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
