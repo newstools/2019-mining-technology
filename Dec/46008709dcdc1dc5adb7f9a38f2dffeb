@@ -1,0 +1,15 @@
+Saracen Mineral Holdings has completed the acquisition of 50% of Barrick Gold’s stake in Kalgoorlie Consolidated Gold Mines (KCGM) in Western Australia for $750m in cash. Located adjacent to the town of Kalgoorlie, the mine is around 600km east of Perth. KCGM is a joint venture (JV) between Barrick and Newmont Goldcorp. Barrick owns a 50% interest in KCGM, while the remaining 50% is held by Newmont Goldcorp. Newmont Goldcorp retains the remaining 50% of the JV. The stake acquisition in KCGM will enable Saracen to acquire the Super Pit gold mine in Kalgoorlie-Boulder owned and operated by the KCGM JV. Saracen fulfilled its only condition to purchase the 50% stake in the Super Pit, which was to receive consent from the Western Australian Minister for Finance, Aboriginal Affairs and Lands. The transaction was completed with a drawdown of A$400m ($270.6m) under Saracen’s new A$450m ($304.4m) senior secured term loan. Saracen Mineral Holdings managing director Raleigh Finlayson said: “The acquisition of a half-share of the Super Pit transforms Saracen into one of Australia’s leading gold producers. “We now have three long-life assets generating strong cash flow in a Tier-one location. Each asset also has outstanding exploration potential, providing scope to create further value for shareholders through organic growth. “We are looking forward to partnering with Newmont Goldcorp, which has extensive knowledge of the Super Pit and vast experience in open-pit and underground operations.” The acquisition was initially announced mid November. The deal will take Saracen’s financial year 2020 guidance from 350,000oz to 370,000oz of gold.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
