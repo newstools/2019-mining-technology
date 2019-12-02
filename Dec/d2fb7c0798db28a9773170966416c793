@@ -1,0 +1,15 @@
+Kenmare received ESHIA approval for road to Pilivili in Mozambique. Credit: ©2017-2019 Kenmare Resources plc. Titanium minerals and zircon producer Kenmare Resources has received Environmental, Social and Health Impact Assessment (ESHIA) approval for a purpose-built road to the Pilivili ore zone in Mozambique. The ore zone is located near the company’s Moma titanium mine on the north east coast of Mozambique. Kenmare received approval for the ESHIA from the Ministry of Land, Environment and Rural Development in Mozambique. The ESHIA for the 23km long road includes a power line, heavy mineral concentrate pipeline and associated infrastructure. It is the second of the two environmental approvals required for the relocation of the plant, with the first received in May. The company plans to relocate its wet concentrator plant B (WCP B) to the high-grade Pilivili ore zone during the third quarter of next year as part of its plans to increase its production to 1.2Mtpa of ilmenite from 2021. Kenmare Resources managing director Michael Carvill said: “The road ESHIA is the second and final environmental approval required for the relocation of WCP B to Pilivili. We are on track to relocate WCP B in Q3 2020 and begin commissioning in Q4 2020. “Pilivili is the highest grade ore zone in Kenmare’s portfolio and from 2021 we expect to have increased production and become a first quartile margin producer.” Kenmare had started construction of the road from within the existing Namalope permit area during the third quarter of this year. The company noted that construction along the route will begin following receipt of the road ESHIA approval and forthcoming environmental license.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
