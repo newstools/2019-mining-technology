@@ -1,0 +1,15 @@
+In 2018, Kumtor’s gold production stood at 534,563oz. Credit: Centerra Gold Inc. Canadian mining and exploration firm Centerra Gold has suspended open-pit mining operations at the Kumtor mine in Kyrgyzstan after it experienced a significant rock movement. The shut-down of operations comes after two employees working at the mine were reported missing following rock movement at the Lysii Waste Rock Dump. Centerra Gold is in the process of carrying out an emergency evacuation after the movement at the waste rock dump. Initially, the company aims to locate the missing employees through a search and rescue operation which is ongoing in cooperation with the Kyrgyz Republic Ministry of Emergencies. All the respective government authorities and the missing employees’ families were informed about the incident. The Kumtor mine is located approximately 350km southeast of the capital Bishkek and around 60km north of the border with the Peoples Republic of China. Centerra Gold president and CEO Scott Perry said: “Our primary focus right now remains on the safe return of our two missing employees and the safety of our search and rescue teams who are working in very challenging circumstances. “While the search continues, we are coordinating closely with the family members of the missing employees and our thoughts and support are with the families, the search and rescue teams, as well as with the entire Kumtor team.” The company noted that it will not be in a position to make any further comments on the restart of the mine until the completion of the rescue efforts. Kumtor operations will be halted until the completion of the revised mine plan re-evaluation. Last year, the mine produced 534,563oz of gold. Centerra Gold said that the mill would continue ore-processing of the stockpiles.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
