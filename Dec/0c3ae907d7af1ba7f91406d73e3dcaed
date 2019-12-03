@@ -1,0 +1,15 @@
+In June, Gruyere Mining poured first CIL gold bars at Gruyere project Credit: Gold Road Resources Limited. Gold Road Resources and Gold Fields have officially opened the A$621m ($421.8m) Gruyere mine, located 200km north-east of Laverton in Western Australia. The project is a 50:50 joint venture between Gold Fields and Gold Road which was announced in November 2016 for the development and operation of the Gruyere gold project. It has an estimated resource of 155.37Mt, grading 1.32g/t and is expected to produce 300,000oz of gold a year. Gold Fields serves as the operator and manager of the mine, which is a Tier-One gold operation with a mine life of 12 years. According to the company, the Gruyere open pit gold mining and processing operations will provide direct employment for more than 250 employees and contractors. Gold Fields Australasia executive vice-president Stuart Mathews said: “Gold Fields is excited to have Gruyere as part of its portfolio of mines in Western Australia including the St Ives, Granny Smith and Agnew operations.” The mine was officially opened by Western Australia Mines and Petroleum Minister Bill Johnston. Johnston said: “Gruyere is a powerful example of the value of the Exploration Incentive Scheme’s flagship Co-funded Drilling Programme, a long-standing initiative that the McGowan Government continues to support. “This project is one of about 25 discoveries that have benefited from the scheme, other gold projects include the Tropicana East, Handpump and Dusk til Dawn gold projects.” Mining at Gruyere began in November last year, while the first ore was mined in January, and the first gold was poured in June. In June 2017, Gold Road Resources awarded a $298m engineering, procurement, and construction contract to Amec Foster Wheeler Civmec Joint Venture (ACJV) for the Gruyere project. Discovered by Gold Road Resources in 2013, the Gruyere deposit in the Yamarna greenstone belt was confirmed as a world-class discovery in 2015 after a 1,700m drilling by the company.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
