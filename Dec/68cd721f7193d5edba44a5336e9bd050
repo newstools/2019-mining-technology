@@ -1,0 +1,15 @@
+China’s Zijin Mining has signed a definitive agreement to acquire Canadian mining firm Continental Gold for a total equity value of C$1.4bn ($1.05bn) in cash. Under the terms of the agreement, Zijin Mining has agreed to buy all of the outstanding shares of Continental Gold priced at C$5.50 ($4.14) a share. The company will gain access to Continental Gold’s 100%-owned flagship high-grade Buritica gold project in the northwest region of Colombia. It has measured and indicated reserves of 165.47t of gold and an inferred gold reserve of 187.24t, reported Reuters. In a separate statement, Newmont Goldcorp said that it would support Zijin Mining’s bid by selling its 19.9% equity stake in Continental Gold for $260m. Continental Gold director and CEO Ari Sussman said: “In the span of a decade, Continental has transformed the Buriticá project from a grassroots discovery into one of the world’s largest and highest-grade gold projects. “With production on the horizon in 2020, the timing is right for Continental to sell to a more experienced mine operator and therefore Continental’s Board of Directors recommends that shareholders vote in favour of the transaction.” The completion time of the transaction is expected to be decided during a special meeting of Continental Gold shareholders to be held in January next year. The transaction is, however, subject to regulatory approvals and other customary closing conditions. Zijin Mining chairman Chen Jinghe said: “The Buriticá project is expected to produce approximately 250k ounces of gold per annum on average over a 14-year mine life at LOM all-in sustaining cost of ~$600 per ounce. “Continental has successfully advanced and substantially de-risked the Buriticá project with commercial production now clearly in sight and first gold pour expected in the first half of 2020.” According to Continental Gold chief financial officer Paul Begin, the deal also requires approvals from the Canadian and Chinese governments.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
