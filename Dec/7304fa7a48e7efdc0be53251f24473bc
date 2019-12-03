@@ -1,0 +1,15 @@
+Cerro de Pasco Resources (CDPR) has signed an agreement to acquire all of the issued shares of Volcan Compañia Minera’s Oxidos de Pasco, Empresa Administradora de Cerro (Cerro SAC) and Remediadora Ambiental (together referred as target companies). Under the definitive share purchase agreement, CDPR will obtain ownership and operation of all mining and processing assets in Cerro de Pasco, central Peru. As agreed, CDPR will acquire all of the target companies’ issued and outstanding common shares for $30m in cash. The target companies’ properties covered in the transaction include the Oxidos precious metals leach processing facility, Paragsha base and precious metals concentrator. Other properties include the San Expedito base and precious metals concentrator, and the Santa Rosa oxide open pit which hosts mineral for processing through the Oxidos plant. Also included are the Lourdes and Excelsior Underground shafts, Raul Rojas sulphide open pit and other associated surface infrastructure. More than 12,000ha of exploitation and exploration concessions that host existing porphyry exploration potential are also part of the transaction. CDPR said in a statement: “In addition and in accordance with the terms of an offtake agreement to be entered into between Cerro SAC and Volcan, Volcan will have an offtake in respect of 100% of all zinc and lead concentrates from ore resources owned by Cerro SAC as at the Closing Date, as well as a right of first refusal to purchase all concentrates produced from CDPR’s El Metalurgista concessions.” Upon completion of the transaction, CDPR will adopt a health, safety, environment and community (HSEC) work plan based on Volcan’s existing HSEC plan before signing the transaction. The transaction is subject to standard and certain specific closing conditions and is slated for completion within four months of the signing of this agreement.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
