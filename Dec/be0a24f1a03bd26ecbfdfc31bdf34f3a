@@ -1,0 +1,15 @@
+Brazilian-based iron ore miner Vale has announced plans to temporarily suspend the disposal of tailings at the Laranjeiras dam originated at the Brucutu mine. The mine is located in the municipality of São Gonçalo do Rio Abaixo in the Minas Gerais province. The company’s latest decision comes while assessing the geotechnical characteristics of the dam. According to Brazil’s National Mining Agency (ANM), Vale will adopt a Level 1 emergency protocol at the dam, which does not require the evacuation of the surrounding area. Vale clarified that the Laranjeiras dam secured its Statement of Condition of Stability in September, which remains valid. During the suspension period, which is estimated to last for at least one to two months, the Brucutu plant will operate with around 40% of its capacity through wet processing with tailings filtration and dry stacking. This is expected to reduce output by approximately 1.5Mt of iron ore per month. Vale said that the temporary halt does not change its iron ore and pellet sales guidance of 307-312Mt for this year. The company also noted that the production and sales are anticipated between 68 and 73Mt in the first quarter of next year, due to seasonal weather-related issues. In September, Vale was ordered to stop operations at Brucutu following a decision from ANM, which claimed the company had exceeded the mineral reserve limit. Additionally, the mining company was forced to halt operations at Brucutu earlier this year after a tailings dam burst in January in Brumadinho.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
