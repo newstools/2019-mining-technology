@@ -1,0 +1,15 @@
+Rio Tinto approves $1.5bn investment to continue production at the Kennecott operation in the US. Credit: Copyright © 2018 Rio Tinto. Global mining firm Rio Tinto is set to continue Kennecott copper mine production in the US with an investment of $1.5bn over a period of six years. With the latest investment, production at Kennecott will continue until 2032. Rio Tinto noted that the investment would extend strip waste rock mining and support additional infrastructure development in the second phase of the South Wall Pushback project at the mine. It will allow mining to continue into a new area of the ore body and development to deliver close to one million tonne of refined copper between 2026 and 2032. The additional investment is expected to start next year. It is included in the group capital expenditure guidance of $7bn next year and $6.5bn in both 2021 and 2022 as development capital, respectively. With this project, the company has invested around $5bn towards modernisation and mine-life extension initiatives since Kennecott acquisition in 1989. Rio Tinto chief executive J-S Jacques said: “The outlook for copper is attractive, with strong growth in demand driven by its use in electric vehicles and renewable power technologies, and declining grades and closures at existing mines impacting supply. “Kennecott is uniquely positioned to meet strong demand in the US and delivers almost 20% of the country’s copper production. “North American manufacturers have relied on high quality products from Kennecott for the past century and this investment means it will continue to be a source of essential materials into the next decade.” Earlier this year, the company announced plans to permanently close its coal fired power plant at Kennecott so as to reduce the carbon footprint associated with the mine operations. Separately, Rio Tinto announced plans to cut Richards Bay Minerals (RBM) operations following a security incident. The company noted that violence has increased in the communities surrounding the RBM operation, resulting in one Richards Bay worker being shot and seriously injured. As a result, the company halted all mining operations at RBM and smelters were operating at a reduced level. Construction of the Zulti South project has also been paused temporarily.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
