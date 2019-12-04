@@ -1,0 +1,15 @@
+H-E Parts secures contract to work on mobile equipment fleets at Glencore coal mines in Australia. Credit: H-E Parts International. H-E Parts has secured a one-year agreement to supply and service radiators for Glencore Coal Assets Australia’s 24 mine sites in the country. Under the terms of the agreement, the company will supply and overhaul new and service exchanged radiators for Glencore’s mobile equipment fleets across its mines. The contract with Glencore, which includes all of its ancillary mining equipment and prime production mining truck, excavator and drill rig fleets, has the provision for a further 12-month extension based on performance. Managed by H-E Parts Mining Solutions Cooling Division branches, the contract will incorporate independent radiators and entire modular nose cones that include the radiator, fan and motor and charge air cooler as a complete assembly. Products from H-E Parts’ COR Cooling are designed to provide extended service intervals while reducing equipment downtime and life cycle costs. They are also designed to improve performance and increase productivity. H-E Parts Mining Solutions vice-president Ashley Hams said: “Through historic and ongoing service delivery as well as continuous product engineering innovation, our COR Cooling product and service lines have advanced to be a market leader.” “The ability to supply application specific cooling systems to our mining and industrial customers working in some of the toughest conditions in the world, had demonstrated the engineering and quality prowess that H-E Parts has become synonymous with.” The company believes that the partnership of the COR Cooling product line, when united with in-house engineering and service support, will offer a cost-effective and long-term solution for Glencore. Earlier this week, H-E Parts announced the acquisition of Allgo Engineering. Headquartered in the US, H-E Parts is a manufacturer and supplier of products that are customised to meet customers’ specifications.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
