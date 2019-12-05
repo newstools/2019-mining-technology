@@ -1,0 +1,15 @@
+Glencore’s Mutanda copper / cobalt operation in the DRC. Credit: © Glencore. South Korean company SK Innovation has signed a six-year agreement with Glencore for up to 30,000t of cobalt contained in hydroxide. Under the terms of the agreement, Glencore will supply cobalt between 2020 and 2025. The deal would enable SK Innovation to produce batteries for three million electric vehicles (EVs). Commenting on the deal, SK Innovation said: “In signing this contract with the world’s largest producer of cobalt, SK Innovation has secured supply of a metal which is both core to battery production and in short supply. “SK Innovation stands ready to produce the batteries required to meet the significant anticipated battery demand. “Amid growing battery demand, SK Innovation will do its utmost to ensure stable raw material supply while fulfilling its ethical responsibilities.” SK Innovation expects that global cobalt demand for EV batteries would be 32,000t in 2020 and 92,000t in 2025. The cobalt under this supply contract will be sourced from Glencore’s mining operations in the Democratic Republic of Congo (DRC). As agreed by the firms, Glencore’s DRC operations will be independently audited each year against the ‘Cobalt Refinery Supply Chain Due Diligence Standard’ which is defined as part of the Responsible Mining Initiative (RMI). Glencore Copper & Cobalt Marketing head Nico Paraskevas said: “This newly established partnership demonstrates the continuation of Glencore’s cobalt hydroxide marketing strategy to secure long term supply agreements with key players in the lithium-ion battery supply chain. “This illustrates Glencore’s important role in supplying the materials that enable the energy and mobility transition and Glencore’s commitment to responsible production.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
