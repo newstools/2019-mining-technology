@@ -1,0 +1,15 @@
+NioCorp secures extension agreements with Nebraska farmland owners for Elk Creek project. Credit: © NioCorp Development Ltd. NioCorp Developments has secured legal agreements with several Nebraska landowners for the extension of a purchase option on three key parts of land to be used for the proposed Elk Creek Superalloy Materials Project. Located in south-east Nebraska, US, the project is expected to produce niobium (Nb2O5) scandium oxide (Sc2O3) and titanium dioxide (TiO2) over its estimated life of 32 years. According to the company, the extension agreements cover a total area of 536.8 acres of land, which also include two land parcels and another parcel that was to expire this year. Currently, the company is holding discussions on extension agreements of other land parcels. Upon obtaining enough financing for the project, NioCorp plans to buy land parcels as required by the construction schedule of the proposed Elk Creek project. NioCorp Business Development vice-president Scott Honan said: “The Elk Creek Project is located entirely on private lands, and our overall strategy has been to focus our resources on lands needed for both near-term and long-term project construction and operations. “We look forward to continuing the mutually beneficial relationships we have developed with landowners in southeast Nebraska as the Project continues to advance.” An underground long-hole open stoping mining method is planned to be used at Elk Creek, which is said to host high-grade primary niobium resources. In November 2017, NioCorp signed an 11-year contract worth $63m with Rockies Express to build and operate a 27.8-mile (44.73km) pipeline, which will deliver natural gas to the project. The full feasibility study was conducted by SRK Consulting.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
