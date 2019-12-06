@@ -1,0 +1,12 @@
+Elysis’ carbon free aluminium ingot. Credit: ELYSIS LP. Rio Tinto and US aluminium producer Alcoa’s joint venture (JV) Elysis has sold the first commercial batch of carbon-free aluminium to technology giant Apple. The metal is being made by Elysis, which was formed to facilitate large-scale development and commercialisation of aluminium smelting. Elysis secured $144m from the two companies, Apple and the Canadian and Quebec Governments. The aluminium, which will be used by Apple for many of its electronics such as iPhones, Apple Watches and Mac computers, will be shipped this month from an Alcoa research facility in Pittsburgh. Elysis CEO Vincent Christ said:  “This sale is an important milestone for Elysis and a sign of our progress over our first year of operation. It confirms the market interest in aluminium produced using our breakthrough Elysis carbon-free smelting technology.” The first batch was made in Pittsburgh, but Elysis also plans to manufacture at a $50m CAD research facility being built in Saguenay, Quebec, which is expected to become operational in the second half of next year. Apple environment, policy and social initiatives vice-president Lisa Jackson said: “For more than 130 years, aluminium, a material common to so many products consumers use daily, has been produced the same way. That’s about to change.” The Alcoa-Rio JV plans to commercialise the technology by 2024 to make aluminium using ceramic anode, which only emits oxygen and eliminates direct greenhouse gas emissions (GHG) from the smelting process. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
