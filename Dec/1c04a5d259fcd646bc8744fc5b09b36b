@@ -1,0 +1,15 @@
+Lundin Gold inaugurating Fruta del Norte gold mine in November. Credit: Lundin Gold Inc. Canadian mining firm Kinross Gold has agreed to sell its remaining 20.65 million shares in Lundin Gold for approximately C$150m ($113.8m). The shares will be sold to a syndicate of buyers, including Newcrest Mining’s wholly owned subsidiary and the Lundin Family Trust. The Kinross sale of Lundin shares is part of its portfolio management strategy. Newcrest’s interest in Lundin will increase from 27% to 32% with the acquisition, while the Lundin Family Trust’s stake will rise from 23% to 27%. The acquisitions by Newcrest and the Lundin Family Trust align with the shareholding limits set out in the subscription agreement signed between Lundin and Newcrest last February to acquire 27.1% in Lundin for $250m. Lundin Gold said in a statement: “Lorito Holdings and Zebra Holdings and Investments, two companies owned by a trust whose settlor was the late Adolf H Lundin (the Lundin Family Trust), have agreed to acquire 8,392,714 common shares of Lundin Gold on December 5, 2019 which, when combined with the holdings Nemesia results in an aggregate holding by companies controlled by the Lundin Family Trust of 60,114,566 common shares.” The shares for sale represent around a 9.2% stake in Lundin which are based on the company’s latest publicly released information on the number of current outstanding shares. Kinross noted that the sale is expected to close on 9 December. Lundin acquired Fruta del Norte gold-silver-mine in the Ecuadorean region from Kinross in 2014 for $240m. It inaugurated the Fruta del Norte gold mine last month and reported the commencement of production at the mine site.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
