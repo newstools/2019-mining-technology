@@ -1,0 +1,30 @@
+Glencore's operations in the DRC have been the subject of a number of investigations. Credit: Glencore. The UK Serious Fraud Office (SFO) announced on 5 November 2019 that it has opened an investigation into suspicions of bribery at British-Swiss mining multinational Glencore. The SFO said in a statement: “The Serious Fraud Office is investigating suspicions of bribery in the conduct of business by the Glencore group of companies, its officials, employees, agents and associated persons.” The announcement of this investigation was widely expected, following a Bloomberg report in May 2019 that stated the SFO was preparing to open a formal bribery investigation into Glencore’s work with the former leader of the Democratic Republic of Congo (DRC) Joseph Kaliba and Israeli billionaire Dan Gertler. Glencore is the world’s largest commodities trading company, operating in over 50 countries with significant mining operations for gold, silver, platinum, nickel, iron and aluminium. In a statement, Glencore said it would co-operate with the SFO investigation, but did not provide further details. Shares in the company fell by as much as 8.6% to a three-year low following the announcement.  new TradingView.widget(
+  {
+  "width": 800,
+  "height": 550,
+  "symbol": "LSE:GLEN",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "Light",
+  "style": "3",
+  "locale": "uk",
+  "toolbar_bg": "#f1f3f6",
+  "enable_publishing": false,
+  "allow_symbol_change": true,
+  "container_id": "tradingview_21607"
+}
+  ); Glencore is already subject to an investigation from the US Department of Justice (DOJ) in connection to its operations in the DRC, Nigeria and Venezuela. The company received a subpoena from the DOJ in July 2018 to produce documents pertaining to its business dealings in these countries from 2007 to 2018, in compliance with the Foreign Corrupt Practices Act and US money laundering statutes. Commenting on the recent investigation, London-based analyst Hunter Hillcoat told Bloomberg: “It’s more of the same, but now it’s getting attacked from a different angle. Glencore was already trading at a discount because of the DOJ, but when this news comes out it gets whacked again.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
