@@ -1,0 +1,15 @@
+Gold bars (6.77Kg purity 78%) post processing at Geita mineral and gem hub in Tanzania. Credit: Amani Gold. Amani Gold has completed its first shipment of approximately 6.77kg gold from Geita mineral and gem hub in Tanzania to a refinery in Hong Kong. The company noted that the shipment to Tanzania was made through Amago Trading. Amani secured a Dealer Licence in Geita, Tanzania through a 60% equity interest in Amago. The licence was granted by Tanzania’s Ministry of Minerals Mining Commission. Amago is a joint venture (JV) between Amani (60%) and a consortium of local mining industry professionals, together holding 40% in the JV. The in-country members of the JV played a key role in obtaining the Trading Licence and sourced the 6.77Kg gold, which has a purity of 78%, from small scale producers in the Geita region. The gold was initially processed in the Geita Hub and securely shipped to Hong Kong for final refining and sale. The company said that Amago opened an office in the Hub as a requirement of being granted a Dealer Licence. Amani Gold managing director Jacky Chan said: “Amani is pleased that we have completed our first ever shipment of gold to Hong Kong. “This first trade was nearly eight months in the making and represents a proof of concept. The gold was sourced from small scale producers from the Geita region of Tanzania. Our plan is to increase the size and frequency of shipments as soon as possible.” The Tanzanian government had established the Geita mineral trading hub as part of its efforts to curb illegal gold and precious metals trading. It is designed to serve as a model for other regional precious metals trading hubs and is expected to attract both local and foreign gold investors.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
