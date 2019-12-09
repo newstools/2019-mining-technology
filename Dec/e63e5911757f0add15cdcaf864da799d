@@ -1,0 +1,15 @@
+A rockfall at the Village Main Reef’s Tau Lekoa gold mine in Orkney, North West province of South Africa, has claimed the lives of four workers. It was reported that one mineworker survived the incident and is in a serious but stable condition as he was rescued soon after the rockfall at the mine. The seismic incident followed at least one earth tremor, reported Reuters. The National Union of Mineworkers (NUM) said in a statement that ‘there was no escape route in the working area where the four mineworkers were found dead’. NUM further added that Tau Lekoa gold mine’s proto team, which includes a group of trained workers to perform underground rescues, did not act spontaneously to save the four miners. Furthermore, the team had intentionally stopped the team leaders and winch drivers from rescuing the four mineworkers, the union said. The news agency cited Tau Lekoa mine spokesman James Duncan as saying: “There were two seismic events and then a rockfall occurred. “Investigations on the causal factors are ongoing and we will be able to comment only once those are complete. We won’t be commenting at all on the accusations by NUM.” Meanwhile, Village Main Reef declined to comment on the evacuation procedures until the completion of an investigation. The Congress of SA Trade Unions (COSATU) was quoted by African News Agency as saying: “COSATU and National Union of Mineworkers (NUM) leadership have been observing efforts by the rescue team to recover bodies.” According to the March estimates of the Mineral Resources Ministry in South Africa, the death toll in the country has fallen to 81 fatalities last year from 90 in 2017.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
