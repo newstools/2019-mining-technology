@@ -1,0 +1,15 @@
+Metallurgical coal project developer Aspire Mining has signed a memorandum of understanding (MoU) with Sinosteel Equipment & Engineering (Sinosteel MECC) to develop Mongolia’s Ovoot coking coal project. The non-binding agreement covers potential engineering, procurement, construction (EPC) as well as trade-based funding opportunities for the Ovoot Early Development Project (OEDP). Aspire Mining’s MoU comes after the company completed a $33.5m placement with shareholder Tserenpuntsag Tserendamba earlier this month, increasing the latter’s stake in the company from 27.5% to 51%. The pre-feasibility study (PFS) of the OEDP includes construction of a five million tonnes per annum (Mtpa) coal handling and preparation plant (CHPP) at the Ovoot mine site. The construction cost of the CHPP is estimated at $37m. Under the MoU with Sinosteel, Aspire Mining is required to share information on the mine development pertaining to permitting and licenses, transport logistics and project financing. Meanwhile, the company will also be allowed to access Sinosteel’s Coal Trading Platform, through which coal can be sold on a spot basis in China. Aspire Mining executive chairman David Paull said: “Aspire recognises the importance of having a strong partnership with companies like Sinosteel MECC that play such a major role in the Chinese steel industry, the main market for Ovoot’s high-quality coking coal product. “We look forward to working alongside Sinosteel MECC as one of our key partners in bringing the Ovoot Early Development Project into production and delivering value for all shareholders.” The company expects to complete a definitive feasibility study (DFS) around May next year, subject to receiving the necessary permits and approvals to complete drilling of the mine. If financing is secured and all permits are received by the first quarter of next year, Aspire Mining expects to begin pre-stripping of waste at Ovoot from the third quarter of the same year.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
