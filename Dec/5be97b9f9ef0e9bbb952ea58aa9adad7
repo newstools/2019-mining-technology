@@ -1,0 +1,15 @@
+Exploration and development firm Savannah Resources’ subsidiary Matilda Minerals has secured mining licence 9735C, which forms part of the Mutamba project in Mozambique. The Jangamo Matilda concession was awarded by the Mozambique Minister of Mineral Resources and Energy for the Mutamba Heavy Mineral Sands project. It is the first of three contiguous concessions to be issued that will result in the full tenement permitting of the project and is located close to the Port of Inhambane. The company said that the mining concession is well served by road and air transport. Mutamba contains an indicated and inferred resource of 4.4 billion tonnes (Bt) grading 3.9% total heavy minerals. The licence covers 11,948ha and is valid until April 2044. It includes a 25-year extension option. Savannah Resources CEO David Archer said: “We are delighted with the issue of the first concession by the Government of Mozambique, and now look forward to the issue of the remaining two mining licences, 9229CC and 9228C. “When combined, these three concessions contain an Indicated and Inferred Mineral Resource of 4.4Bt at 3.9% total heavy minerals; this makes Mutamba one of the most attractive undeveloped mineral sands deposits in the world. Notably, given that global demand for titanium feedstocks is strong, the award of these licences will facilitate the development of a globally relevant project. “Our focus is now on progressing the pre-feasibility study (PFS) at Mutamba towards completion, which, upon delivery, will trigger the increase in our interest in the project from 20% to 35%.” Savannah noted that the project is operated under a joint venture (JV) with Rio Tinto. Last month, the company conditionally secured third mining concession (9228C) for the Mutamba project in Mozambique. The concession covers an area of 11,807ha and is contiguous with 9735C and 9229C concessions, which were secured by Savannah in September.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
