@@ -1,0 +1,15 @@
+Dutch company Mammoet has begun transporting the first heavy components for BHP’s South Flank iron ore mine in the Pilbara region, Western Australia (WA). The South Flank deposit is located approximately 340km south-east of the town of Port Hedland and 130km by road north-west of the town of Newman. It is approximately 8km to the south of BHP’s existing Mining Area C (MAC) operation. BHP is using Mammoet trailers to move approximately 1,900 items, including prefabricated and modular mine processing plant units from Port Hedland to the new site. Currently under construction, the $3.6bn South Flank project will replace production from BHP’s Yandi mine which is nearing the end of its life. Upon completion, the South Flank iron ore mine will serve as an iron ore processing facility in WA. With its industrial expertise in Port Hedland and Karratha, Mammoet provides localised support for the project. The project is expected to create employment opportunities for local contractors and professionals. Mammoet said in a statement: “Amongst other heavy haulage equipment on site, Mammoet has 96 axle lines of SPMT located in the port and the mine site, as well as 178 axle lines of conventional trailers with 14 prime movers. “The company has approached the large-scale logistics project with detailed planning to coordinate the thousands of components that are arriving at the port over 14 shipments and ensure they are delivered to site safely and on time.” In July last year, BHP began construction on the South Flank iron ore project after receiving approval from the state government.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
