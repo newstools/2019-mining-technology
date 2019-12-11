@@ -1,0 +1,15 @@
+Australian firm Perseus Mining has awarded a contract to EPSA Internacional (EPSA) to develop its Yaouré gold mine in Côte d’Ivoire, West Africa. The mining services contract awarded for Yaouré, the company’s third gold mine, will be valid for a period of 65 months starting from November 2020. As part of the contract, approximately 170 million tonnes (Mt) of material, including 27Mt of more than 1.5 million ounces (Moz) of ore containing gold is expected to be moved. Mobilisation of equipment to site is set to commence in March, after which EPSA will employ and train the Ivorian workforce to proceed further with preparations for the official start of the contract later in the year. Perseus Mining managing director and CEO Jeff Quartermaine said: “To win this contract, EPSA successfully competed in a highly competitive tender process involving eight very good mining contractors. “As well as offering a competitive price, EPSA currently has equipment available for immediate mobilisation and has a proven track record of establishing greenfield mining sites in jurisdictions where employment and training of personnel from local catchment communities is a priority.” “The average all-in site cost of producing gold at Yaouré over the first five years of the mine is forecast to be $734 per ounce meaning that if gold prices are maintained at current levels, then very strong cashflows will be generated and available for funding benefits for our stakeholders.” Upon commencement of full operations at Yaouré, Perseus will produce more than 500,000oz of gold annually. Spain-based EPSA is a global earthmoving and mining contractor and provides mining, civil works and earthmoving services to clients in 15 countries.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
