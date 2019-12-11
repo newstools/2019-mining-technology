@@ -1,0 +1,15 @@
+Rare-earths mining firm Lynas has selected Kalgoorlie, Western Australia as the strategic location to build its new cracking and leaching plant for rare earth minerals processing. The new plant, which is expected to create many jobs, is a first step to make the mining town a critical minerals hub in the Goldfields region. Lynas noted that the Goldfields region was one among the two finalists being considered as a location for the plant following extensive due diligence. The region was selected because of its close proximity to the company’s Mt Weld mine and Kalgoorlie’s existing skilled labour, as well as the region’s history in the mining and processing industries. Lynas CEO and managing director Amanda Lacaze said: “Kalgoorlie is a terrific city and an ideal location for our new cracking and leaching plant. Lynas was built from the ground up as an environmentally responsible Rare Earths producer and we will take the same approach to our facility in Kalgoorlie. “We also acknowledge the support from the Western Australian government and the Australian government to enhance the critical minerals industry in the Kalgoorlie region.” The company has signed an option to sublease an industrial zoned property from the City of Kalgoorlie-Boulder, with the terms of the lease now being finalised. Mt Weld’s rare earth concentrate, which is currently exported to Malaysia for processing, will be upgraded through the cracking and leaching plant. This plant is a further step to advance the Australian government’s critical minerals strategy and enables more downstream processing. City of Kalgoorlie-Boulder CEO John Walker said: “This is a fantastic step forward in the work we have been doing to diversify our local economy and expand the number of skilled residential jobs available in our city. “There are so many exciting opportunities that this partnership brings about, and we look forward to working with all of the key stakeholders, including the State and Federal Governments to further support downstream processing here in Kalgoorlie-Boulder.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
