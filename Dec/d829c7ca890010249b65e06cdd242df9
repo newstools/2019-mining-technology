@@ -1,0 +1,15 @@
+Barrick Gold and its Senegalese joint venture (JV) partner have signed an agreement to sell their 90% stake in the Massawa project to Teranga Gold in a deal valued at $430m. The Government of Senegal will hold the remaining 10% stake in Massawa, a high-grade undeveloped open-pit gold reserves project in Senegal, Africa. It is located within trucking distance of Teranga’s flagship Sabodala gold mine and has mineral reserves of 2.6Moz from 20.9Mt at 3.94g/t. The deal includes an upfront payment of $380m, which comprises $300m in cash and approximately 20.72 million Teranga common shares. It also includes a contingent payment of up to $50m based on the average gold price for the three-year period when the deal closes. Barrick Gold president and chief executive Mark Bristow said: “It is gratifying to continue the value-creating consolidation of assets in the gold mining sector which started a year ago with the merger between Barrick and Randgold, followed shortly thereafter by the merger of the Nevada assets of Barrick and Newmont Goldcorp. “In the case of Massawa, Teranga has the appropriate infrastructure and processing facilities approximately 25km away, and combining the orebodies and the geological prospectivity will add further benefits.” The transaction, which is expected to close in the first quarter of next year, is subject to receiving the Massawa exploitation licence and residual exploration licence from the Senagalese Government, as well as other customary closing conditions. Teranga president and CEO Richard Young said: “The Massawa acquisition is transformational for Teranga and – by creating a top tier gold complex – the first in the country – an important milestone for the gold mining industry in Senegal.” Barrick Gold said that it will receive 92.5% of the total consideration for its interest in Massawa, while the remaining balance will be received by the company’s local Senegalese partner for its minority interest.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
