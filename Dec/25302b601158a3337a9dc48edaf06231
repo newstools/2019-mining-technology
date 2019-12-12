@@ -1,0 +1,15 @@
+Peninsula Mines has signed a binding agreement to acquire complete interest in a 76km² exploration package in Western Australia’s Southern Cross region. The tenement package extends over a 30km contiguous strike that covers gold-bearing structure in the Southern Cross region, a proven greenstone gold belt. It is approximately 380km from Perth in the Yilgarn goldfields, south-east of the Southern Cross township. Also known as the Southern Cross Greenstone Belt, the portfolio comprises 20 prospecting licences, one exploration licence and one exploration licence application with a combined area of around 76km². The Greenstone Belt region has historically produced approximately 15Moz of gold, predominantly from the Marvel Loch and Southern Cross centres. Peninsula Mines managing director Richard Henning said: “This is a tremendously exciting opportunity for our shareholders to capitalise on the significant upside that exists on this well-located suite of exploration assets. “We are acquiring a ground package with the potential to host a large-scale gold system. A number of high-grade gold intersections, already demonstrated, are virtually untested by modern exploration techniques. “With airborne geophysics planned for early in the New Year and a number of walk-up drill targets, we anticipate drilling to follow in Q1 2020.” The company plans to raise $2m to fund the acquisition and exploration, including the first round of reverse circulation (RC) drilling priced at 0.13 cents a share. The completion of the transaction is subject to the approval of shareholders and is expected to take place in mid-January next year. Upon completion, the company name is proposed to change to Xantippe Resources.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
