@@ -1,0 +1,15 @@
+African mineral sands producer Base Resources has announced that its Toliara project in Madagascar is expected to generate annual revenues of $248.2m based on the outcome of its definitive feasibility study (DFS). The project’s DFS aligns with the pre-feasibility study (PFS) outcomes released in March. It was based on a Stage 1 operation, which would cost $442m to establish a 13 million tonne a year (Mtpa) processing operation, while the Stage 2 operation would see the operation increase to 19Mtpa, at an additional cost of $69m. Base Resources Operations and Development executive director Colin Bwye said: “We are very pleased that the DFS has re-confirmed our view that the Toliara Project is a world class mineral sands development opportunity. “In the first 26 years of full production, the Toliara Project is expected to produce an average of 814kt of ilmenite, 55kt of zircon and 7kt of rutile annually, over a period when a global supply deficit of titanium dioxide feedstocks and zircon is expected. “This production profile, combined with highly competitive revenue to cost of sales ratio, will generate estimated average annual free cash flows of $140.2m over these years.” The Toliara operation is expected to produce an average of 780,000tpa of ilmenite, 53,000tpa of zircon and a further 7,000tpa of rutile during the initial mine life of 33 years. It is expected to generate annual earnings before interest, taxes, depreciation and amortisation (EBITDA) of $164.3m. The DFS also estimates that the project could generate a net profit after tax of $110.2m a year, and free cash flows of $132.4m. Last month, Base Resources was advised by the Government of Madagascar to suspend on-the-ground activities at the Toliara project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
