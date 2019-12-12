@@ -1,0 +1,15 @@
+Thermal coal developer Edenville Energy has signed two contracts to supply washed coal from its Rukwa project in southwest Tanzania. Under the first contract, the company will supply washed coal of up to 6,000t per month to Rwandan company Tara Group, a wholly owned subsidiary of Tanzanian firm Kitanyoe which supplies coal, gypsum, limestone and calcite to industrial users. A major cement manufacturer is expected to be the end user of the coal under this contract. Edenville Energy’s second contract was signed for up to 3,000t per month with Ugandan firm Springwood Capital, with the expected end user to be a Kampala-based steelworks firm. In total, these two new contracts, which also complement the existing long-term contracts, represent a supply of up to 9,000t per month, representing approximately 75% of the present capacity of the recently refurbished wash plant. Edenville Energy CEO Alistair Muir said: “The project has a significant advantage being the most northerly coal mine in the region by some 700km. “I believe these contracts represent an important first step; now Rukwa has to deliver and assuming the required operational funds are secured we should see the mine and plant delivering as initially planned and our goal of becoming cash flow positive being realised.” These supply agreements will be taken further only if the company secures enough operating capital to fund Rukwa coal project production. Upon obtaining sufficient funding, Edenville Energy expects to supply coal on an ongoing basis under these contracts before the end of the first quarter of next year. The company expects cashflow to break even at Rukwa at around 4,500t of washed coal sold monthly and has a target of achieving this by May.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
