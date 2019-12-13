@@ -1,0 +1,15 @@
+Glencore is set to become a member of the Responsible Sourcing Blockchain Network (RSBN) which uses blockchain technology to support responsible sourcing and production practices of minerals from mine to market. Glencore noted that the network’s blockchain has moved beyond proof of concept (PoC) and is scheduled to go live by next year. It has been designed to be implemented by original equipment manufacturers (OEMs) in electronics, aerospace defence and automotive sectors. RSBN will also be adopted by supply chain partners such as mining companies and other battery manufacturers. The company says that its membership in the network will enable it to deliver improved traceability and transparency of supply chain. The company will also be able to form good practice with its supply chain partners. The company’s initial focus of participation in the initiative will be on cobalt and eventually extended to tin, tantalum, tungsten and gold. Glencore Copper and Cobalt marketing head Nico Paraskevas said:  “RSBN plays a key role in advancing the sustainable partnership between the producers of commodities that will enable the transition to a low-carbon economy and key consumers around the world. “We look forward to working with the network to further embed responsible sourcing good practice across the mineral supply chain.” Built on the IBM Blockchain Platform and powered by the Hyperledger Fabric of Linux Foundation, the blockchain technology aims to improve transparency by providing a secure record for members associated with the network upon permission. RCS Global also assesses each participating firm initially and annually against responsible sourcing requirements set by the Organization for Economic Cooperation and Development.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
