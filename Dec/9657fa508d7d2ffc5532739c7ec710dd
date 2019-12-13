@@ -1,0 +1,15 @@
+Fossil fuel electric power generation company NLC India has reportedly announced plans to start mining from Talabira-II & III coal blocks. Mining of these coal blocks, which are located in the Indian city of Sambalpur, will commence from the next financial year. The Talabira-II & III blocks have approximately 553.98 million tonnes (Mt) of deposits and its mine capacity is estimated at 20 million tonnes per annum (Mtpa). Coal from these blocks will cater to the needs of coal-based pithead thermal power stations in second phase and NTPL Tuticorin. A source was quoted by Business Standard as saying: “Coal extracted from the blocks will feed NLC’s planned 3,200MW Talabira Thermal Power project in Odisha and the company’s 1,000MW coal-based project at Tuticorin (Tamil Nadu).” Adani Enterprises has been appointed as the mine developer-cum-operator (MDO) for the coal blocks. The two blocks were allocated to NLC India by the Indian Government in 2016 to power lakhs of households. Where villages are affected by the project, NLC India has offered rehabilitation and resettlement packages. Government-owned NLC India was quoted by the news agency as saying: “Families residing at coal blocks will be given significant compensation for their land at a rationalised market value to draw parity among the villages. Eligible families will get pucca houses with 1,067ft2 of super built-up area, including cowshed on 4,400ft2 of plot in newly constructed colonies. “To provide sustainable living in lieu of employment, families with eligible adult members will be given lump sum payment, in addition to the monthly financial assistance of INR3,000 with biennial increase of INR500, as suggested by the district authorities developer-cum-operator (MDO) for the coal blocks.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
