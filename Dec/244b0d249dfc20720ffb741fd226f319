@@ -1,0 +1,15 @@
+Nevada Copper has commenced production at Pumpkin Hollow’s processing plant in Nevada, US. The property, located in Yerington, is an open pit development project and has an estimated project life of 23 years. Following the commencement of copper production at the Pumpkin Hollow mine, the company expects first copper shipment and first revenues within the next few weeks. Nevada Copper will operate the mine at full scale by the first half of next year. The project has a current mine life of 13.5 years and a further 636 million pounds of inferred resources. It will be capable of producing 65 million pounds of annual copper with further expansion potential. The mine is strategically positioned to host the only processing plant in the copper district. Nevada Copper CEO Matt Gili said: “This is a transformational moment for Nevada Copper, and I want to thank our team, construction and finance partners for their dedication throughout this process. “Considering the construction decision was made only 16 months ago, it is a remarkable achievement to have reached this point on schedule and it speaks to the commitment of our team and the support of our shareholders and stakeholders.” “Pumpkin Hollow has multiple avenues for growth, including an advanced-stage, large-scale open pit project and our significant regional exploration targets.” Nevada Copper acquired the property in 2005 and began construction of the Pumpkin Hollow mine in August 2015. In January, the company filed a technical report and later signed a series of agreements with KfW IPEX-Bank and Concord Resources to finance the project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
