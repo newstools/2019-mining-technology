@@ -1,0 +1,15 @@
+Canada’s natural resource management company Vast Resources has announced the cold commissioning of the Baita Plai polymetallic mine in Romania. The mine is located in the Apuseni Mountains of the Transylvania area which is known to host Romania’s largest polymetallic and uranium mines. It is 50km north-west of Romania’s Au-Cu mine Rosia Montana and 52km north-west of Rosia Poieni, which contains over one billion tonnes (Bt) of porphyry copper ore. Vast Resources expects to conduct the initial trail mining at the site very soon. The current cold commissioning capacity is up to 7,000 tonnes per month (tpm) and will be progressively ramped up to 14,000tpm in January following the arrival of new equipment from China. Since the grant of association licence for Baita Plai, the mine’s infrastructure required for the cold commissioning, including the electricity line, tailings pipe, crushers, mills, flotation line and equipment, has either been upgraded, repaired or replaced. The Baita Plai mine, which is currently moving towards development, will be recommissioned upon the completion of financing and commencement of the Community Concession Block in Zimbabwe. It benefits from infrastructure including underground, surface and processing equipment and an EU registered and operational tailings facility. Vast Resources also owns the Manaila polymetallic mine in Romania, which is preparing for expansion through the development of an additional open-pit operation and new metallurgical complex at the Carlibaba Extension Area. Commissioned in 2015, the mine is currently on care and maintenance. The company owns an 80% interest in the Baita Plai polymetallic mine as well as a 25% interest in the Pickstone-Peerless gold mine in Zimbabwe.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
