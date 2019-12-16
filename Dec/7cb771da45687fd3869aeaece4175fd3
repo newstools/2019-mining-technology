@@ -1,0 +1,15 @@
+Gold producer Resolute Mining has begun a strategic review to explore various options for the Bibiani underground gold mine located in the western region of Ghana. The strategic review is designed to assess the company’s plans to recommission the mine, which is currently on care and maintenance. It will also assess capital requirements, analyse funding alternatives, and investigate recently received expressions of interest from third parties seeking to buy the mine. Cutfield Freeman and Treadstone Resource Partners will conduct the review of the mine during the first half of next year. As advisors, the firms will explore various options including the off-balance sheet financing of the company’s proposed recommissioning plan, joint ventures (JVs) and partial or 100% divestment of the asset. Bibiani’s current mining and processing infrastructure comprises a three million tonne per annum (Mtpa) mill and processing plant, and underground mining infrastructure. In 2014, Resolute acquired the mine through a Scheme of Arrangement backed by the Government of Ghana. The mine was placed on maintenance to allow exploration activities that enable the development of an economically viable, long-term, large-scale operation. Resolute said the review seeks to maximise value for shareholders and ensure that all Ghana stakeholders will continue to benefit from the essential economic and social advantages provided upon the operational restart of Bibiani. The company has not signed any binding agreement with respect to the financing or divestment of Bibiani. The strategic review may or may not result in a transactional outcome. In July 2018, the company released an updated feasibility study for Bibiani that demonstrated the mine can produce approximately 100,000oz of gold a year over its mine life of ten years.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
