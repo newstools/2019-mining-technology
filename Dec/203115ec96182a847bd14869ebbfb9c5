@@ -1,0 +1,15 @@
+A coal and gas blast that occurred at a mine in south-west China’s Guizhou Province has claimed the lives of at least 14 miners and left another two trapped underground. The accident is the latest in a series of mining incidents in the country, where poor safety regulations are a concern in the state, reported The Hindu. According to news agency Xinhua, 23 workers were working underground at the mine site which is located in Anlong County. It is believed that seven workers have been lifted to safety while 14 have been confirmed dead and two are still trapped. An emergency response has been activated while rescue work and an investigation is underway at the coal mine to determine the cause of the incident. The latest mine accident comes after flooding in a mine in China’s Sichuan province killed five people and trapped 13 miners underground. State broadcaster CCTV said that 347 miners were working underground at Sichuan Coal Industry Group’s Shanmushu coal mine in Gongxian County when the mine flooded. Last month, 15 people were killed in a blast in north China’s Shanxi province, which, according to an official, was caused by an activity that broke the law and regulations. In February, a traffic accident at a Chinese mine operated by Yinman Mining killed 21 people, and injured another 29, and 22 miners were trapped in a coal mine accident in Shandong province of China after a rock burst in October last year.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
