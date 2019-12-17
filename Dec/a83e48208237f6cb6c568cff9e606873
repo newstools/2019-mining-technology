@@ -1,0 +1,15 @@
+Northern Star Resources has signed an agreement with Newmont Goldcorp Australia to acquire a 50% stake in Kalgoorlie Consolidated Gold Mines (KCGM) for $800m. KCGM is equally owned by Newmont and Saracen Mineral Holdings and includes the Super Pit deposit in Kalgoorlie, Western Australia. The cash to be paid by Northern Star Resources is inclusive of a $25m payment that gives Northern Star specified Kalgoorlie exploration tenements fully owned by Newmont and also comprises transitional services support. It also includes an option to negotiate exclusively for 120 days the purchase of Newmont’s Kalgoorlie power business, which supplies power to KCGM. The $25m fee will be credited against the purchase price for the power business or returned to Northern Star if it is sold to a third party. Newmont Goldcorp president and CEO Tom Palmer said: “This transaction generates exceptional value and further strengthens our financial position by increasing proceeds from our 2019 asset sale agreements to more than $1.4bn. “Australia remains a core operating region for Newmont, and the sale of KCGM allows us to focus on investing in profitable growth and long-term value creation at our top-tier Tanami and Boddington complexes, in addition to our active exploration campaigns across the region.” Under Newmont’s $1bn share repurchase programme, Northern Star’s all-cash offer supports the former’s approach to capital allocation, which includes strategic reinvestment in the business and capital returning to shareholders. Newmont also expects to provide an update to its previously announced 2020 guidance and long-term outlook early next year. Newmont announced the 2020 outlook for its 50% interest in KCGM earlier this month. The transaction is subject to receipt of ministerial consent which is required under KCGM’s crown leases.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
