@@ -1,0 +1,15 @@
+Human rights firm International Rights Advocates (IRAdvocates) has launched a legal case against tech giants Microsoft and Apple over the cobalt mining deaths and injuries of children in the Democratic Republic of Congo (DRC). Alphabet, Dell and Tesla are also listed in the lawsuit seeking damages over deaths and injuries of child miners. IRAdvocates filed the case on behalf of 14 Congolese families who are guardians of children killed or seriously injured in tunnel or wall collapses while mining cobalt in the DRC. The tech giants use cobalt to make telephones and computers. It is also an essential metal in making rechargeable lithium batteries used in millions of products sold by these companies. The lawsuit, filed in the US District Court in Washington District of Columbia, showed images of children with disfigured or missing limbs. Six of the 14 children involved in the case were killed in tunnel collapses while others suffered life-changing injuries. Plaintiffs lead counsel Terry Collingsworth said: “We will do everything possible to get justice quickly for the children we represent. This astounding cruelty and greed need to stop.” Based on evidence available with plaintiffs, these companies in particular have aided the mines that gained profits from forcing plaintiffs and other children to mine cobalt under dangerous conditions. As most of the world’s cobalt supply comes from the DRC, global demand for the metal is expected to increase at 7% to 13% per annum over the next few years, according to a 2018 study by the European Commission. In January, automobile manufacturer Ford, technology major IBM, cathode manufacturer LG Chem and China-based Huayou Cobalt teamed up to launch a blockchain project to track cobalt supplies from the DRC. The project, which is overseen by sourcing group RCS Global, aims to aid manufacturers in ensuring that the cobalt used in lithium-ion batteries is free of human rights abuses.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
