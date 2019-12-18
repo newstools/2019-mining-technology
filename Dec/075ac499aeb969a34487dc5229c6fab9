@@ -1,0 +1,15 @@
+Indian state-controlled mineral producer NMDC has a received lease extension from the Chhattisgarh government for four iron mines which are due for extension in March next year. The four mining leases are located in South Bastar and Dantewada in Bailadila district of Chhattisgarh. They produced 24 million tonnes per annum (Mtpa) in 2018-19 out of NMDC’s total iron ore production which stands at 33Mtpa. NMDC noted that the leases of Bailadila Deposits No.5, No.10, No.14 and No.14NMZ have been extended for a period of 20 years until September 2035. NMDC chairman and managing director Baijendra Kumar said: “We are grateful to Government of Chhattisgarh and especially Hon’ble Chief Minister Shri Bhupesh Baghel and top officials for their support to NMDC in granting extension of lease (for the four mines) for another 20 years.” Among the five mines that NMDC operates in the Bailadila sector, the lease of four mines, with an installed capacity of over 29Mtpa has now been extended. The company noted that the lease of one mine was already extended in 2017. NMDC operates three iron-ore complexes in India, among which two are in Dantewada district of Chhattisgarh, which share the major proportion of the company’s total output. The other is located in Donimalai township of Karnataka. In July, NMDC announced that it is set to resume operations at its Donimalai mine. The restart followed the directive of the High Court of Karnataka, India, and comes after the mine was closed for more than eight months.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
