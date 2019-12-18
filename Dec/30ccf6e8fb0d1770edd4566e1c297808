@@ -1,0 +1,15 @@
+Design, engineering, and system development firm First Mode has signed an agreement to develop new mining technologies for Anglo American. Under the multiyear agreement valued at $13.5m, First Mode will develop new systems and technology for Anglo American which has a portfolio covering diamonds, platinum group metals, copper, iron ore, and other metals and minerals. First Mode will support projects under Anglo American’s FutureSmart Mining programme, an innovation-led approach, to address major sustainability challenges in the industry. First Mode president and chief engineer Chris Voorhees said: “Mining produces the resources needed for a cleaner, more sustainable planet. Development of the world’s largest hydrogen-powered mine truck is an important step in making the natural resources sector carbon-neutral from start-to-finish.” Work scope under the contract includes engineering design, prototypical developments and other technology demonstrations to Anglo American’s projects. First Mode will also support technology trade studies, delivery of integrated systems, and deployment to sites worldwide. Anglo American technical director Tony O’Neill said: “We are pleased to be partnering with First Mode and we look forward to developing and implementing a number of innovative technologies over the coming years. “This work supports our trajectory towards our carbon and energy targets for 2030 and, ultimately, our vision of carbon-neutral mining.” The collaboration between First Mode and Anglo American builds on successful projects across the latter’s portfolio this year. First Mode is supporting the company on the systems engineering and integration, as well as test programme support for its hydrogen-powered mine haul truck. First Motion is planned for next year. First Mode Business Development vice-president Rhae Adams said: “Anglo American shows a strong conviction to improving the planet and a willingness to use cutting-edge technology to accelerate progress.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
