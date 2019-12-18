@@ -1,0 +1,15 @@
+Barrick Gold has announced that the power plant at its Pueblo Viejo mine in the Dominican Republic is all set to receive its first natural gas, with the conversion expected in the first quarter of next year. The move is part of the company’s plans to lower greenhouse gas emissions and cut costs. The Pueblo Viejo mine is a joint venture (JV) between Barrick Gold (60%) and Newmont Goldcorp (40%) and is located 100km from the capital city of Santo Domingo. First gold production from the mine commenced in 2012. Pueblo Viejo signed a ten-year supply agreement with AES Andrés in May last year for the natural gas provision and gas pipeline construction from the AES gas terminal to the Quisqueya I power plant for the mine. Barrick Gold president and CEO Mark Bristow said Pueblo Viejo commissioned the Quisqueya I power plant in 2013 and since then the mine has been seeking ways to reduce the impact of its air emissions on the environment and the cost of energy production. Bristow added: “The conversion of Quisqueya I to natural gas will help reduce Pueblo Viejo’s power generation costs by some 30%.  Greenhouse gases will also be cut by 30% and nitrogen oxide by 85%, and the mine’s dependence on oil will be significantly decreased.” According to the company, the gas pipeline facilitates conversion of other power plants across the region to further reduce greenhouse emissions and energy costs within the Dominican national grid. Barrick Gold noted that other power producers in the area have announced the conversion of an additional 525Mw into natural gas. The company is also constructing the Bonao III power substation at the mine in partnership with Dominican Transmission Entity and Empresa Generadora de Electricidad Haina (EGE Haina).
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
