@@ -1,0 +1,15 @@
+The Colluli Mining Share Company (CMSC) has selected Earth Moving Worldwide (EMW) as its preferred contractor to provide mining services for the Colluli Potash Project in Eritrea. Danakali and the Eritrean National Mining Company (ENAMCO) each own 50% of the CMSC, which owns 100% of the project. The Colluli Potash Project is located within the Danakil region of Eritrea, which is approximately 75km from the Red Sea coast. Expected to provide commercial and technical outcomes to the project, EMW has demonstrated a thorough review of Colluli through risk analysis. The work scope of the mining services contract, which includes the provision, operation and maintenance of excavation, haulage and dewatering equipment, covers the development period and the first five years of production. Danakali CEO Niels Wage said: “The confirmation of EMW is another major step for Danakali and Colluli. We are pleased to be working with a company as experienced as EMW who share our commitment to the well-being of people and the environment surrounding Colluli.” With technical backup from AMC Consultants and Majesso Consulting who have expertise in managing mining tenders, a competitive tendering process was conducted for the selection of the contractor. Danakali note that the mining services contract will be executed early next year, with production expected to start in 2022. EMW Board of Directors member Yves Aertssen said: “EMW is delighted to be selected by Danakali to be part of Colluli. Our shared culture and values were clearly evidenced during the tender process. “We are excited to build on this shared vision and work closely with Danakali and all stakeholders in the project to justify the confidence shown in EMW.” In August, Danakali announced that the Colluli potash project secured credit approval for a $200m senior debt facility.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
