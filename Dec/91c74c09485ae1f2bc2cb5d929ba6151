@@ -1,0 +1,15 @@
+International Business Machines (IBM) has come up with a new battery design which makes use of materials extracted from seawater, as part of sourcing alternative materials to heavy metals. The new design, which has been discovered in IBM Research’s Battery Lab, eliminates the use of cobalt and is expected to beat lithium-ion batteries in terms of cost, charging time, and energy efficiency. For the commercial development of the new battery design, IBM has partnered with Mercedes-Benz Research and Development North America, battery electrolyte supplier Central Glass, and battery manufacturer Sidus. IBM said in a blog that by extracting materials from seawater, it will be able to lay the groundwork for less invasive sourcing techniques compared to existing material mining methods. IBM Research vice-president Jeff Welser was quoted by Reuters as saying: “The goal would be, within a year or so, to have the first working prototype (of the battery).” Welser further added that the company may not necessarily use this design in making a product. The IBM Research team used three new and different proprietary materials and discovered a chemistry for a new battery that does not use heavy metals with sourcing concerns. The latest move comes as top battery makers are struggling to cut cobalt content in lithium-ion (Li-ion) rechargeable batteries. The expansion of the electric vehicle market is anticipated to result in mineral scarcity already found in the Democratic Republic of Congo (DRC). IBM is also collaborating with the University of Tokyo as part of its plans to advance quantum computing with the development of the first practical application of this new technology. Under the strategic collaboration, the company’s quantum computing system IBM Q System One, which is designed for scientific use, will be installed at the company’s facility in Japan. The company is contending with Google and Microsoft to be the first to commercialise the quantum technology. In July, Anglo American Platinum and Platinum Group Metals launched a JV to develop next-generation battery technology using platinum and palladium.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
