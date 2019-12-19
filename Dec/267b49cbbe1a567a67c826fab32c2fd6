@@ -1,0 +1,15 @@
+The collapse of a mining pit at Zawan community in Jos South Local Government Area of Plateau State in Nigeria has killed at least six people. State House Assembly Jos South Constituency member Gwottson Fom confirmed the incident to the News Agency of Nigeria (NAN). According to Gwottson Fom, the victims, who were aged between 20 and 27, were engaged in illegal mining activity. Around 50 persons were inside the mining pit when it collapsed on them. A NAN correspondent who visited the accident premises reported that many others sustained various degrees of injuries in the incident. Gwottson Fom added: “We know that these young persons died carrying out an illegal activity but it is obvious unemployment led them into doing it. “People go out of their way to do things considered illegal just to fend for themselves and their families.” Those who were injured were currently receiving treatment at the Lady of Apostles Hospital in Zawan. Fom urged all the illegal miners in and around the region to refrain from such acts and focus on other legal ventures. He noted that people should engage in mining activities, only if they are licensed to do so. The devastating incident is said to be the first-of-its-kind in the community. In October, a gold mine accident in Africa occurred following a landslide in eastern Democratic Republic of Congo (DRC) which claimed the lives of at least 16 people and injured several others. This accident happened at an illegal mine in the province of Maniema.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
