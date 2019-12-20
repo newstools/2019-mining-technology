@@ -1,0 +1,15 @@
+East Africa-focused development firm Rainbow Rare Earths has acquired ten new mining claims covering a total of 12.6km² in Northern Zimbabwe. Rainbow noted that the acquisition is part of the company’s strategy to augment its rare-earth portfolio. The ten properties acquired by the company have previously been explored for phosphate and cover, either wholly or in part, known ‘carbonatite type’ bodies. Rainbow Rare Earths has acquired these licences through its wholly-owned subsidiary Rainbow Zimbabwe, which will hold 100% of the licences, with no free-carried interest for the government. The company said that the acquisition aligns with the recent changes to the legal framework covering mining in Zimbabwe. Rainbow Rare Earths will immediately begin an exploration programme on the claims including geological mapping, sampling and assaying to conclude an interpretation report that will evaluate the new claims for rare earth elements Rainbow Rare Earths CEO George Bennet said: “With our strategic intent for our licenses in Burundi well on track, the company stabilised, I believe this is a great opportunity to diversify the portfolio, with low risk and minimal capital outlay.” As per the geological features of the country, Zimbabwe is well known for hosting a large number of minerals, including gold, coal, battery metals, platinum group metals (PGM) and chrome resources. It has the second largest PGM and chrome resources worldwide. The company, which started rare earth concentrates production in the fourth quarter of 2017, signed a ten-year distribution and offtake agreement with ThyssenKrupp Materials Trading for the sale of at least 5,000tpa of concentrate produced. In May last year, the company discovered significant REE mineralisation during its ongoing maiden drilling campaign at the Gakara rare earths project in Burundi.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
