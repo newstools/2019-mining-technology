@@ -1,0 +1,15 @@
+UK-based exploration and development company Kodal Minerals has received approval for the Environmental and Social Impact Assessment (ESIA) application for the Bougouni lithium project. Located in Southern Mali, the Bougouni project comprises the Kolassokoro and Madina concessions, which cover a contiguous area of 500km². The company noted that it has received the final Ministerial signature for the ESIA, which serves as the environmental permit for the development of the project. Kodal is currently involved in the process of finalising the mining assessment and technical reports to lodge its Mining Licence application. The company expects to submit the application by the end of this year. Kodal Minerals CEO Bernard Aylward said: “We are very pleased to receive the Environmental Permit for Bougouni Lithium Project. This approval recognises the excellent work of our technical team and consultants and our continued strong relationship with the Mali Government and local communities.” The company noted that the Bougouni project and recently acquired 200km² Bougouni West project are located in an emerging lithium province. Kodal aims to continue its development programme at Bougouni with support from its off-take partner Singapore-based lithium and chemical trader Suay Chin International. The company also manages additional lithium and gold projects that are undergoing low-cost exploration programmes, in addition to gold properties in Cote d’Ivoire. Kodal recently secured two new exploration licences, Fariedele and Sogola Nord, covering 150km² of the Bougouni lithium project. These licences cover the lithium mineralisation and exploration prospects previously included in its former Madina licence area, which is due for final extension.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
