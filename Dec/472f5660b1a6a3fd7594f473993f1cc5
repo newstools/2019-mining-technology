@@ -1,0 +1,15 @@
+AngloGold Ashanti Ghana has confirmed the first pour of gold from its Obuasi mine, hinting the restart of operations after they were suspended five years ago. The underground Obuasi gold mine operation is in the Ashanti region, which is approximately 60km south of Kumasi city in Ghana. Production at Obuasi was suspended in 2014 to rebuild the mine’s foundation for a sustainable long-term future. Under the Obuasi Redevelopment project, which aims to access Obuasi’s 30 million ounces of orebody over the next two decades, the company stated that the first phase of construction has been completed on time and budget. Refurbishment or repairing of an existing plant as well as construction of new infrastructure and underground development, is in line with a new mine plan, according to the company. AngloGold Ashanti CEO Kelvin Dushnisky said: “Restarting this important mine is testament to the focused execution by our team on the ground, as well as the clear investment framework and supportive environment created by the President of Ghana and his government, and the King of Ashanti.” AngloGold Ashanti estimates mining at a rate of 2,000 tonnes per day (tpd) from Obuasi 2020, increasing to 4,000tpd by the end of the year. The company aims to produce 350,000oz to 400,000oz of gold a year priced at $800/oz from the mine. Mine development is currently underway at the site, with deepening of the Obuasi Deeps Decline and KRS shaft access on schedule for mid 2020. AngloGold Ashanti will continue the construction of new infrastructure next year. The company noted that the initial project capital for Obuasi is within the range of $495m to $545m, spent between 2018 to the end of 2020. In October last year, AngloGold Ashanti awarded a $375m mining contract to the Underground Mining Alliance (UMA) at the Obuasi redevelopment project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
