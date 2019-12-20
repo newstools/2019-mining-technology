@@ -1,0 +1,15 @@
+Rio Tinto has selected CIMIC Group company CPB Contractors to deliver three separate packages of work at the Robe Valley project in Western Australia for $150m ($103m). The Robe Valley projects are situated nearly 140km south west of Karratha in the Pilbara region. The project includes various earthworks and civil works associated with the development of the Robe Valley. CIMIC Group CEO Michael Wright said: “CIMIC Group companies have a strong track record of delivering significant projects to the iron ore industry. With our decades of experience in the Pilbara, we offer major mining clients certainty and confidence in construction, mining and industrial services.” Under the terms of the contract, CPB Contractors will provide earthworks, construction of roads, bridges and pits, as well as water supply infrastructure and drainage facilities. Fencing and site establishment, and demobilisation works are also part of the contract. All the works related to Robe Valley are expected to be completed by the end of 2021. CPB Contractors managing director Juan Santamaria said: “We are pleased to be working on one of the largest and most important mining operations in Australia. “CPB Contractors is committed to delivering these projects to the highest safety and quality standards and we’re proud to provide significant training and employment opportunities for local communities and Indigenous enterprises.” CPB Contractors noted that the project will require deep coordination with Rio Tinto as well as other contractors working on-site. In October, Rio Tinto awarded a contract to CAPE to relocate and modify the current electrical services, as well as install overhead and underground 33kV powerlines of the Robe Valley project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
