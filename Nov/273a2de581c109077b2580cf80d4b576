@@ -1,0 +1,15 @@
+BHP is set to increase its interest in SolGold from the existing 11.1% to 14.7% following completion of a private placement. The company signed a new share subscription agreement to subscribe for 77 million new SolGold shares for a subscription price valued at £17m ($18.7m). SolGold owns an 85% stake and also operates the Cascabel porphyry copper-gold project located in Ecuador. The high-grade copper-gold porphyry exploration mine is located in the Cascabel region of northern Ecuador and its main target is the Alpala deposit. BHP has agreed to invest $22m in SolGold for 77 million shares priced at 22.15 pence (p) per each SolGold share. Under the terms of the new share subscription agreement, BHP will be issued 1:4 options exercisable at 37p a share within five years. SolGold is currently in the process of completing a pre-feasibility study on Alpala scheduled for completion by the end of the first quarter of next year. Commenting on the latest agreement, SolGold CEO Nicholas Mather said: “SolGold is pleased to welcome BHP into a further position in the company. “SolGold’s view is that the agreement endorses its view of SolGold’s commanding Ecuadorean copper and gold exploration footprint, and in particular the robust Alpala deposit.” Additionally, BHP agreed to provide SolGold with a right of first offer for two years to 15 October next year in the event that the company wishes to dispose of its acquired shares in SolGold to certain parties. In October last year, BHP signed an agreement to increase its stake in SolGold through the acquisition of additional shares.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
