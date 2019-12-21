@@ -1,0 +1,15 @@
+Glencore’s subsidiary Katanga Mining has announced that its 75%-owned Kamoto Copper Company (KCC) has signed an agreement to acquire land for its operations for $250m. KCC has signed the agreement with Democratic Republic of Congo (DRC) State miner Gécamines, which has a 25% shareholding in KCC. The agreement includes multiple blocks that cover the preferred location for tailings and blocks that are expected to enhance KCC’s ability to operate its mines and other associated infrastructure in an efficient manner. Katanga Mining said in a statement: “If this agreement is implemented then the risks for KCC’s operations resulting from land constraints, which are described in the Company’s 43-101 Technical Report issued on 7 November, would be mitigated.” Under the agreement, KCC is entitled to pay an initial sum of $150m to Gécamines, which would be fully offset against the purchase price consideration. KCC also has to remove 15-million dry metric tonnes (dmt) of tailings currently in a sub-section of these areas to another suitable location. The agreement further includes a new royalty to Gécamines of 2.5% of net sales from the acquired land, provided KCC prefers to mine any resources in the acquired land package. Katanga Mining noted that the agreement expects the title transfers to be effective during the course of next year. Katanga Mining further added: “The entering into of this acquisition agreement between Katanga and Gécamines constitutes a smaller related party transaction as defined in UK Listing Rule 11.1.10 because Gécamines holds more than 10% of the voting rights in a material subsidiary of Glencore.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
