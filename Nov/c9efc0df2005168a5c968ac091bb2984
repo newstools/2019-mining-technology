@@ -1,0 +1,15 @@
+UK-based exploration and development company Kodal Minerals has secured two new exploration licences, Fariedele and Sogola Nord, covering 150km2 of its Bougouni lithium project. Located in Southern Mali, the Bougouni project comprises the Kolassokoro and Madina concessions. Kodal Minerals noted that new licences cover the lithium mineralisation and exploration prospects previously included in its former Madina licence area which was due for final extension. Valid for an initial term of three years, the licences have an option for two renewal periods of two years each. They will secure the project area for another seven years. The company said that all licences of Bougouni are now registered under its subsidiary companies. Kodal Minerals CEO Bernard Aylward said: “The Madina licence had been subject to a one-year extension period, and we took the opportunity to secure the ground and take the most important areas into the new licence areas. “Our geologists have fully evaluated the Madina licence and we are confident that we have the most prospective ground under our control going forward. “The company is continuing to finalise its mining licence application and has been working on finalising its mining and processing development plan. The application is expected to be lodged following receipt of the approval of the Environmental and Social Impact Assessment application that is currently awaiting final Ministerial signature.” The new licences were granted after several discussions with the Mali Government authorities. Fariedele and Sogola Nord exclude a small protected state forest to ensure there are no environmental issues associated with a future mining licence grant. In November last year, the company encountered lithium mineralisation during diamond drilling at the Bougouni project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
