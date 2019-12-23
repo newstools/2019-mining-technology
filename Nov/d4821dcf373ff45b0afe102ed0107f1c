@@ -1,0 +1,15 @@
+Mining firm Lundin Gold has inaugurated its Fruta del Norte gold mine in the Ecuadorean region and reported the commencement of production at the mine site. Lundin has already produced the first doré bar from the gravity circuit of the mine, following the receipt of the last two permits required to move into first gold production. The underground mine is expected to produce around 3,500 tonnes per day (t / d) of gold, averaging 310,000oz of gold per annum during its 15-year life span. It has probable reserves of around 5.02 million ounces (Moz) of gold grading at 8.74g per tonne. Ecuador Minister of Energy and Non-Renewable Natural Resources vice-president Otto Sonnenholzner said: “The great work that this team has done, which makes our country proud. Let’s make Fruta del Norte be the light that guides Ecuador as it develops its mining sector.” The company is also advancing gold concentrate production as part of the commissioning activities by loading its first containers with significant concentrate. Furthermore, the start of the carbon in leach circuit is underway and almost complete. Lundin Gold president and CEO Ron Hochstein said: “This is another exciting and significant milestone for the Lundin Gold team and the people of Ecuador. “We will continue to focus on completing commissioning and ramping up production on the path to commercial production in the second quarter of 2020.” According to the current estimation, the company said that the first concentrate export and doré is expected by mid-December.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
