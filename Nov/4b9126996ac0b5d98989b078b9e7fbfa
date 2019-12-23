@@ -1,0 +1,15 @@
+Iron ore miner Vale has signed an agreement to implement Vivo’s 4G/LTE network at Carajás (Pará) mine located in Brazil. The network will be available at the mine from the first half of next year. Vale will invest nearly R$21m ($5m) in the project. Using the network, Vale will be able to optimise the company’s use of autonomous equipment, which requires a wide coverage area and high traffic capacity. The Carajás mine already operates three autonomous drills and is soon expected to adopt aut​onomous trucks. This innovation will later be applied at the Brucutu mine in São Gonçalo do Rio Abaixo of the Minas Gerais state. The mine currently operates 13 autonomous trucks on a WiMax network which would be shifted to the new network set-up in the future. Vivo’s LTE network has the required potential to be used to connect dam monitoring instruments and is also expected to enhance Vale’s autonomous vehicles programme under which the company aims to increase safety by moving employees from the risk area. The network is also capable of converging different types of traffic on the same network. Vale IT director Gustavo Vieira said: “In addition to the benefits regarding data volume and coverage, the use of LTE is also an important investment due to it is scalability; all mobile phone technology development must comply with this standard from now on. “4G is already being used; thus, technology upgrades will cost less than those for technologies that are not commonly used.” Vivo will also provide 4G coverage, which will help communication among employees within the mine. Vivo B2B vice-president Alex Salgado said: “A private LTE solution meets the specific needs of businesses while meeting the requirements of mission-critical applications that demand high safety, mobility in production lines, free-interference spectrum, and traffic prioritisation, as well as connecting a high volume of IoT devices in an open and widely available ecosystem.” Vale currently uses private 4G/LTE networks at its Canadian and Malaysian operations.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
