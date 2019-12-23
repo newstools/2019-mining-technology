@@ -1,0 +1,15 @@
+A gas explosion that occurred inside a coal mine in northern China has claimed the lives of 15 miners and left another nine injured, according to authorities. The blast took place at a mine operated by the Feng Yan Group in Pingyao County, Shanxi province. Following the explosion, 11 miners managed to escape without injury. The mine, which is proportionally small, was in the news last year due to its failure in providing adequate training for workers. Xinhua quoted the Shanxi Administration of Coal Mine Safety as saying that 35 miners were working underground at that time. Shanxi Administration of Coal Mine Safety accident investigation division director Shen Xuping said: “It is a production safety accident caused by production activity that broke the law and regulations, which reveals the problems of the involved company, such as lack of awareness of the rule of law and chaotic management.” Authorities are currently carrying out an investigation to determine the cause of the explosion. Pingyao County health bureau director Wang Guimei said that the injured miners, who are now in a stable condition, suffered from trauma and significant burns. The Government of Pingyao County has sent 15 work teams to deal with the fatal accident. It also plans to provide compensation to the families of the victims. Last October, 22 miners were trapped in a coal mine accident in Shandong province of China after a rock burst and destructed a portion of a water drainage tunnel. Two people were killed in the accident, reported Xinhua. Mines in China are said to account for about 80% of all mining deaths across the globe.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
