@@ -1,0 +1,15 @@
+Australian mining company Saracen Mineral Holdings will acquire half of Canadian Barrick Gold’s stake at the Super Pit mine in Western Australia for $750m (£579m). The Super Pit Mine has been ranked amongst Australia’s biggest gold mines since 1989. Saracen managing director Raleigh Finlayson said the Super Pit has existing  gold reserves of 7.3 million ounces for an estimated mine life of 12 years, and believes there will be a return to underground mining in the future. Raleigh Finlayson said: “This transaction will enhance our business across a variety of key financial and operational metrics and provide our shareholders with exposure to a third high quality Western Australian gold asset. “The transaction establishes Saracen as a leading gold miner with anticipated production in excess of 600koz per annum exclusively from the Goldfields region of Western Australia for many years to come.” The deal with Barrick Gold was finalised in Toronto over the weekend, two months after Saracen began a private “competitive” sale process. After the acquisition, American mining company who owns the remaining half of Super Pit shares – Newmont Goldcorp, will retain its ownership. The new deal is expected to make Saracen Australia’s fourth-biggest gold producer after Newcrest Mining, Northern Star Resources, and Evolution Mining. The purchase takes place months after Kalgoorlie Super Pit underwent major rock falls in May 2018 with one million tonnes of rock slipping down. Although this led to financial loses and a 32% drop in production, Saracen is confident the purchase will prove beneficial over the following years. The Super Pit gold mine is located approximately 600km east of Perth, in the Golden Mile Region of Kalgoorlie-Boulder. According to data from December 2018, the Super Pit had a NI 43-101 Mineral Resource of 273Mt grading 1.3g/t for 11.7Moz (on a 100% basis).
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
