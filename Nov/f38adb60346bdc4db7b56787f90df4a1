@@ -1,0 +1,15 @@
+Sandvik Mining and Rock Technology, a business area within the Sandvik Group, has unveiled new 2711 class narrow size drills. The drills are specially designed to meet the requirements of mining companies, and drilling and blasting contractors looking for safe and productive mobile rigs. They are meant for use in narrow vein and other confined areas. Developed to meet the needs of certain mining and tunnelling operations, the new 2711 class drills’ performance aligns with the ownership cost ratio. Sandvik said in a statement: “Selective mining methods and small tunnel developments have proved to be a good way to extract ore economically, and control the dilution when ore is distributed in narrow veins typically less than 2m-3m in width. “Sandvik’s narrow size underground drills are thus designed specifically with the requirements of drilling narrow vein drifts and that of small tunnels projects in mind.” The drills feature Sandvik’s Fleet Data Monitoring systems and enable mines and tunneling contractors to improve fleet performance and management. The narrow vein drills provide accurate drilling with large coverage drill capacity, as well as product safety and mobility to smoothly operate small mining drifts and tunnels. Sandvik has selected suitable components and electro-hydraulic systems for the drills which are designed to be used simultaneously with the company’s broad range of underground drills and trucks. The new series comprises three drill types that use a common platform covering different applications such as development drilling DD2711, rock support bolting DS2711 and long hole production drilling DL2711 and DL2721. Sandvik DD2711 is a flexible single boom electro-hydraulic jumbo for mining development in small and medium size tunnels. DS2711 is an electro-hydraulic and fully mechanised bolter designed for rock reinforcement in underground rock mines. Next year, Sandvik plans to add DL2711 & DL2721 long hole drills to the 2711 range.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
