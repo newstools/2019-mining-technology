@@ -1,0 +1,15 @@
+Autonomous Solutions subsidiary ASI Mining has commenced work at the Ferrexpo Yeristovo Mine (FYM) in Ukraine to retrofit its haul truck fleet with automation technology. As part of the project, the company will retrofit and automate a fleet of 15 haul trucks at the iron ore mine. Within the next two phases, Ferrexpo plans to expand automation to a total of 15 trucks, subject to market conditions and cash flows. ASI Mining general manager Patrick Hald said: “This project is one of the first major autonomous haulage deployments in Eastern Europe. It represents a major milestone for the accessibility of automation at sites across the world. “Autonomous mining is no longer a luxury available only to the largest mines.” Initial autonomous haulage deployment at the mine was completed in October which involved the conversion and autonomous operation of a 793D haul truck. ASI’s Mobius Haulage AI would serve as a crucial component of the project’s implementation and operation. Ferrexpo expects the autonomous mining fleet to generate significant employee safety benefits by preventing fatigue-induced accidents. Mobius includes multi-vehicle command control software, and the Mobius Haulage Platform manages autonomous traffic, as well as manned or unmanned vehicles. The haulage platform also regulates haul cycles. Ferrexpo Yeristovo Mining chief miner Alexander Tubaltsev said: “We selected ASI Mining because it is one of the world’s leading providers of robotics and automation and has already completed a significant number of successful deployments with major corporations in the mining and automotive industries. “Ferrexpo is very proud to be the first to lead this initiative, not only in Ukraine, but also as the first open pit mine in Europe to do so.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
