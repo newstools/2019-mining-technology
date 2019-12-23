@@ -1,0 +1,15 @@
+Industry body the International Council on Mining and Metals (ICMM) has launched a report on how to access and manage climate resilience in the mining and metals industry. The report entitled ‘Adapting to a Changing Climate: Building resilience in the mining and metals industry’ was released at WWF’s Water Summit 2019 in Frankfurt, Germany. It shares ICMM’s company members’ knowledge on how to adapt to climate change and improve operational resilience at mine sites. The report details members’ learnings on how to assess and manage the physical impacts of climate change at mine sites. ICMM CEO Tom Butler said: “Our climate is changing, and this presents challenges for the mining and metals sector. Understanding this challenge, ICMM has collated insights and developed tools that can support our members and any responsible mining company to build resilience by identifying and properly managing these risks. “Fundamental to the way ICMM operates is sharing knowledge and experience with each other and I am pleased today to share what we have learned so far with the publication of this report.” The report also provides practical guidance on how to build climate resilience by improving ecosystems and sustainability, providing tips on safeguarding business continuity. ICMM members are committed to responding to the threat of climate change. They focus on helping to reduce CO2 emissions at site level across the mining and metals industry and contribute towards the sustainability of essential commodities production to the energy industry.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
