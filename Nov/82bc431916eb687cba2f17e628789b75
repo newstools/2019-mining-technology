@@ -1,0 +1,15 @@
+MACA has received a letter of award from First Quantum Minerals’ subsidiary FQM Australia Nickel to provide open pit mining services at the Ravensthorpe project. The nickel project is located in Ravensthorpe, Western Australia, approximately 550km south-east of Perth. It is expected to generate around A$480m ($327m) in revenue for the first five years, pushing the contractor’s projected revenue to approximately A$770m ($524m) during the financial year 2020. Under the terms of the contract, MACA will provide open pit mining services such drilling and blasting, and loading and hauling services at Ravensthorpe. MACA operations director Geoff Baker said: “We are very pleased to have been selected [as] preferred contractor and look forward to developing a long-term working relationship with the First Quantum team at the Ravensthorpe Nickel Project. “First Quantum have focused on local and Aboriginal opportunities in the regions of Albany, Ravensthorpe and Esperance in order to resource the Ravensthorpe project which MACA intend to leverage from. “This project will generate another 230 jobs bolstering the local and regional communities”. According to First Quantum, the mine has been put on care and maintenance since October 2017 due to weak nickel prices. According to MACA, mobilisation to the nickel mine site is expected to start next month with operations set to begin in January. The final contract award is subject to the satisfaction of final documentation. All major terms have been agreed. First Quantum acquired the Ravensthorpe nickel mine from BHP Billiton in December 2009 in a deal valued at $340m. Commercial production from the mine was achieved on 28 December 2011.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
