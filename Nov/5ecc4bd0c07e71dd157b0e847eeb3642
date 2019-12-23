@@ -1,0 +1,15 @@
+American alumina and aluminium products producer Alcoa has become a member of the industry body International Council on Mining and Metals (ICMM). Alcoa is now the 27th company to become a member of the ICMM, which focuses on improving the industry’s contribution to society with safe, fair and sustainable practices. To qualify as a member of ICMM, Alcoa underwent a rigorous and independent assessment process to make sure that it sticks to the former’s Sustainable Development Framework. Alcoa’s membership was approved as part of a meeting held in London. Alcoa president and CEO Roy Harvey said: “Our membership in ICMM gives us an opportunity to learn, define and share best-in-class mining practices through a common set of international standards. “Alcoa is focused on delivering value through our strategic priorities, which includes a focus on advancing sustainably, and we are working to leverage our extensive experience to win in an evolving marketplace that will demand sustainably and responsibly produced materials.” Alcoa uses advanced practices across all stages of operations, including rehabilitation methods in areas which have high biodiversity value. The company has joint venture mines in Guinea and Saudi Arabia and operates bauxite mines in Brazil and Australia. ICMM CEO Tom Butler said: “I am delighted to welcome Alcoa to the International Council on Mining and Metals. Alcoa was named to the 2019 Dow Jones Sustainability Indices (DJSI) as an Aluminium Industry leader, and we look forward to learning from its significant sustainability experience, particularly in the area of biodiversity.” ICMM aims to bring together companies and regional associations to strengthen the mining industry’s environmental and social performance.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
