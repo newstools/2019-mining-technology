@@ -1,0 +1,15 @@
+Exploration and project development company Botswana Diamonds (BOD) has recovered first diamonds from its Marsfontein mine in South Africa. The diamonds were recovered from plant commissioning activities on the site. The stones come from diamond-bearing gravels and residual unprocessed stockpiles around the Marsfontein mine, which the company recently received a mining permit for. Marsfontein diamond mine is located in the Limpopo province. The company noted that plant commissioning is close to reaching full operations following the installation of an in-field screen, two rotary pans, grease and x-ray recovery systems. Currently, plant flow sheet optimisation is underway at the mine site. It will be followed by stepping-up to full production with a capacity to produce 400 tonnes of pan feed a day. Botswana Diamonds chairman John Teeling said: “I am delighted with the rapid progress the team has made on-site and it is noteworthy that the first diamonds were recovered within two weeks of the Mining Permit being granted. “I look forward to updating shareholders as the project develops.” The mine was operated for two years in the late 1990s and comprises a kimberlite blow. The mine received a pay-back of its entire development costs in less than four days. In September, Botswana Diamonds and Vutomi signed an agreement with Eurafrican Diamond Corporation (EDC) to mine and process the identified deposits on Marsfontein. In the same month, the company received authorisation to mine residual diamond-bearing gravels produced from the Marsfontein mine.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
