@@ -1,0 +1,15 @@
+Copper and tungsten mining company W Resources has reported concentrator plant commissioning and funding at the La Parrilla mine in Spain. La Parrilla is located approximately 3km from the main Seville/Madrid Highway, and is in close proximity to both Atlantic and Mediterranean ports. The project is a large tungsten deposit with Australasian Joint Ore Reserves Committee (JORC)-compliant resources of 49Mt at a grade of 998 parts per million (ppm) tungsten trioxide (WO3). It is being developed in three stages. The company noted that all the activities at La Parrilla are still advancing, with all components of the concentrator plant now in place. All concentrator plant’s components, ranging from the spirals through to shaking tables and the flotation, magnetic and electrostatic (FME) separator plant, have been commissioned. W Resources said that it has produced more than 5Mt of tungsten concentrate, which is due to be purified and tin separated next week. Meanwhile, tungsten concentrate production for the T2 phase at La Parrilla is due to get underway later this month. The company also has 2.5t stock of tin concentrate, which it plans to increase to 10t before shipment. W Resources noted that it is ramping up activities on finalising finance facilities and extra equity investment from local investors. Offtake agreements for the project were signed with European and US customers. In June, W Resources awarded a mining contract to General de Maquinaria y Excavación (GME) for the construction and installation of the La Parrilla project. The Jig and Mill Plant at La Parrilla were commissioned in April.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
